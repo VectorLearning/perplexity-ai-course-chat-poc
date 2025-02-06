@@ -1,0 +1,1266 @@
+{
+  "sku": "",
+  "goal": "Develop comprehensive knowledge and skills in firefighting ventilation techniques, including understanding principles, executing various methods safely, recognizing hazards, and applying effective strategies to enhance fire suppression efforts and protect life and property.",
+  "title": "NFPA 1001 Ventilation - Full Course",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "8181eefb-500c-4bd6-8c0c-fe36f28f685f",
+      "learning_objects": [
+        {
+          "title": "Introduction",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Ventilation is the practice of opening parts of a structure to remove heat, smoke, and toxic gases and to replace these combustion products with cooler air. Proper ventilation leads to better visibility, lower temperatures, and reduced smoke damage. Additionally, it can make it easier to rescue victims and increases the firefighter's ability to attack the fire. Ventilation requires full personal protective equipment, PPE, and should not be attempted without qualified training. There are several different types of ventilation, and this course will examine each of them briefly. Statistically speaking, ventilation operations are lower-frequency events. They may happen in back-to-back clusters or, conversely, may not occur for several months at a time. The unpredictable frequency of occurrence, coupled with the risks to first responders, makes ventilation tasks high-risk or high-acuity. Therefore, ventilation tasks are considered high-acuity, low-frequency events. Or, HAFs are the most dangerous kind of firefighting events, because the risk of injury and structural damage are great, but you rarely get to practice how to respond due to their low frequency. This is just the sort of event where training can make all the difference. A course such as this doesn't provide terminal mastery or competency in the subject matter at hand, but what it does do depends on where you are at as a firefighter. For the seasoned firefighter, this course reinforces existing knowledge that hasn't been touched in a while. In the same way that booster shots bolster immunity, continuing education can provide added protection for you in the field by keeping these rarely-used skills fresh in your mind. For the newer firefighter, this course provides, metaphorically, another brick in your foundation of knowledge. What you learn here helps build out your recognition-primed decision-making skills, helping you make reasonable decisions, more accurately and quickly, due to the added subject matter recognition you'll have gained."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": false,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "32C6B7C4-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Define ventilation in firefighting, explain its importance, and recognize it as a high-acuity, low-frequency event that requires specialized training and safety precautions.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "85cf2e17-adf9-426a-9901-0f280b738572"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Define ventilation in firefighting, explain its importance, and recognize it as a high-acuity, low-frequency event that requires specialized training and safety precautions.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "85cf2e17-adf9-426a-9901-0f280b738572"
+        }
+      ]
+    },
+    {
+      "title": "Objectives",
+      "section_id": "d545af41-5599-46b5-b6d6-da8d698f41e2",
+      "learning_objects": [
+        {
+          "title": "Objectives",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "After successfully completing this course, you will be able to list the benefits of ventilating a structure, define natural ventilation, vertical ventilation, and horizontal ventilation, compare and contrast the different forced ventilation techniques, negative pressure ventilation, positive pressure ventilation, and hydraulic ventilation, describe special considerations for working on different types of roofs, describe the necessary safety precautions for ventilating a structure, describe how to recognize and ventilate a smoldering fire, identify the dangers that the firefighter is exposed to during ventilation efforts, and how to mitigate them."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "33ACA9E6-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and explain various ventilation techniques, their benefits, safety considerations, and potential hazards in firefighting operations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "af480e96-000c-42fb-a4c0-635d31bfe6c4"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and explain various ventilation techniques, their benefits, safety considerations, and potential hazards in firefighting operations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "af480e96-000c-42fb-a4c0-635d31bfe6c4"
+        }
+      ]
+    },
+    {
+      "title": "Summary",
+      "section_id": "bdaa7ea8-4152-47e1-a144-9b3e093b736e",
+      "learning_objects": [],
+      "visibility_rules": [],
+      "learning_objectives": []
+    },
+    {
+      "title": "Principles of Ventilation",
+      "section_id": "ebd1e67a-e5e8-4c7c-9961-09f2f0999aa0",
+      "learning_objects": [
+        {
+          "title": "Principles of Ventilation",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Ventilation is the controlled removal of smoke, heat, and superheated gases, replacing these gases with cooler, fresh air. Ventilation contributes directly to the accomplishment of firefighting objectives. The results of any ventilation process vary depending on the size and type of the affected structure, the extent and location of the fire, and whether the fire remains free-burning or has become a smoldering fire. Think about it. Compartmentalized fires often deplete their environments of oxygen. In doing so, these fires degrade from a free-burning state, where available fuel determines the fire's strength, to a smoldering state, where lack of oxygen keeps the fire from igniting. If not handled carefully, introducing oxygen can cause a smoldering fire to burst into flames or even explode. This will be discussed more thoroughly later in the course."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "3489CB00-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the concept of ventilation in firefighting, including its purpose, effects, and potential risks in different fire scenarios.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "9595cb07-acf8-48e8-9cc9-caeacc87e090"
+          }
+        },
+        {
+          "title": "Lesson 1 A",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "When properly performed, ventilation increases the effectiveness of most fire suppressant efforts. The environment can become more manageable as visibility improves, the temperature decreases, and the superheated gases have a pathway to escape. Moreover, because the seat of the fire will move with the flow of available oxygen, properly planned ventilation can allow for some predictability in the fire's progression. In addition, other benefits of properly ventilating a structure include Reducing the chance of flashover or backdraft Minimizing time required to determine areas where fire has already spread Stopping or reducing the further spread of fire Allowing quicker entry Increasing visibility throughout the scene Reducing danger to any trapped occupants Reducing further damage to the structure and allowing easier entry for further suppression or rescue efforts Ventilation almost always requires deliberately damaging the building. However, the damage to the building is generally far less than what would be done by the continuation of the fire."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "358C7728-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Explain the benefits and importance of proper ventilation in fire suppression efforts, including its impact on firefighter safety, fire behavior, and structural damage.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "a7849a82-bfde-4608-9afb-1a700a56d01f"
+          }
+        },
+        {
+          "title": "Lesson 1 B",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Fire travels through a structure primarily via convection, the transfer of heat from a warmer area to a cooler area by the circulation of a liquid or gas. These superheated gases tentacle about, and in doing so, begin the process of pyrolysis, the decomposition that occurs at high temperatures. Once their flash points are achieved, fire spread occurs. In a fire, the vertical and horizontal movement of smoke and other combustion gases may ignite other areas within the structure. Because of this, hot air and combustion products must be allowed to escape. The general principle of ventilation is to open the structure so that all accumulated heat and combustion products leave the building via natural convection. Ventilation must be performed in the area where hot air and combustion products are accumulating. Wherever these gases aggregate, the surrounding environmental temperatures rise in unison. Once flash point is achieved, pockets of gas ignite, and the previously superheated gases will morph into flames. Ventilation techniques vary according to both the nature of the structure and the nature of the fire, as well as the resources available to the local fire department. Ventilation techniques include natural ventilation and mechanical ventilation. Both of which use a variety of different techniques to accomplish the tasks of several productions. the task at hand, allowing the escape of combustion products to reduce fire damage."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "36907886-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Explain the principles of fire ventilation, including how fire spreads through convection and the importance of releasing hot gases and combustion products to prevent further ignition and reduce fire damage.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "867a3ce3-dd49-4975-acff-226213a6bc81"
+          }
+        },
+        {
+          "title": "Lesson 1 C",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Natural ventilation uses the basic principles of physics to affect the ventilation of a structure. Heat and combustion byproducts rise. Natural ventilation is the use of this tendency to ventilate the structure. Natural ventilation takes place through windows, doors, and roof openings, such as skylights and roof vents. Natural ventilation cannot be haphazard. It's not as simple as throwing a rock through a window. In bygone days, this was a consistent practice. No more. Insightful incident commanders today know that fire progression is predictable. The flow path will dictate where the fire will seek to move. This movement, and how introducing oxygen might cause it to shift, need to be considered when determining the ventilation plan."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "37841F18-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the principles and considerations of natural ventilation in firefighting, including its mechanisms, proper implementation, and impact on fire behavior and progression.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d968fb07-19fa-4641-851a-c56049b79bbe"
+          }
+        },
+        {
+          "title": "Lesson 1 D",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "One February afternoon, an engine and a truck were dispatched to an alarm at a multi-story hotel. While the first units were approaching the scene, the assignment was upgraded because smoke was reported in the building. On arrival, no fire was evident from the street. The first engine and first truck proceeded to investigate, and once the first chief arrived to establish command, personnel were dispatched into the building. Moments after the interior officer disappeared into the building, he called back, reporting the presence of heavy smoke in the basement. As time went on, the odor dissipated without intervention, but continued to linger. The interior officer reported that the smoke was coming from vents in the basement, leading command to believe that the problem was an air handler. After checking the air handlers and shutting down the ones over the area of the smoking vents, the odor lingered and increased over time. The personnel on the roof reported that smoke was still coming out of an exhaust fan on the roof, labeled Elevator Mechanical Room. A check of the elevator room came up negative, and command asked that all of the dryers in the laundry area be checked to rule out a flash-lint fire. After reassigning all personnel to inspect areas which they had not previously inspected, and after being instructed to pop ceiling tiles, open all closed doors, and check under every rock, the source was found. In the basement laundry, there was no smoke. There were three or four commercial-grade clothes dryers. Inspection found that the vent system for the dryer lint must have failed a long time ago, because the ceiling cavity contained a layer of lint several inches thick. A spark from one of the dryers initiated a fire in the ceiling void that ran the entire length and breadth of the basement. Ceiling tiles, vent pipes, and ductwork were all charred. The takeaway here is, when there is smoke and no visible fire, you must get into the voids quickly. It is preferable to break a few ceiling tiles and find nothing, than to lose a whole building because firefighters were afraid to damage an inexpensive tile."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "38AED284-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Recognize the importance of thoroughly investigating smoke sources in buildings, including hidden void spaces, to prevent potential fire spread and property loss.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "95a702a4-9071-42c5-aee4-839436b4ae99"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the concept of ventilation in firefighting, including its purpose, effects, and potential risks in different fire scenarios.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "9595cb07-acf8-48e8-9cc9-caeacc87e090"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Explain the benefits and importance of proper ventilation in fire suppression efforts, including its impact on firefighter safety, fire behavior, and structural damage.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "a7849a82-bfde-4608-9afb-1a700a56d01f"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Explain the principles of fire ventilation, including how fire spreads through convection and the importance of releasing hot gases and combustion products to prevent further ignition and reduce fire damage.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "867a3ce3-dd49-4975-acff-226213a6bc81"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the principles and considerations of natural ventilation in firefighting, including its mechanisms, proper implementation, and impact on fire behavior and progression.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d968fb07-19fa-4641-851a-c56049b79bbe"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Recognize the importance of thoroughly investigating smoke sources in buildings, including hidden void spaces, to prevent potential fire spread and property loss.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "95a702a4-9071-42c5-aee4-839436b4ae99"
+        }
+      ]
+    },
+    {
+      "title": "Vertical Ventilation",
+      "section_id": "7b7e4e9c-7d07-4dd7-b48d-c95afe24a94d",
+      "learning_objects": [
+        {
+          "title": "Vertical Ventilation",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Vertical ventilation allows the fire and its gases to escape to the atmosphere through the roof or existing roof openings. Vertical ventilation opens the buildings so that all accumulated heat and combustion products leave by natural convection. Ideally, the opening will be made directly over the fire and at the highest point. Whenever possible, existing openings such as skylights, scuttle holes, and exhaust fans should be used to ventilate the structure."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "39B6E270-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Describe the process and benefits of vertical ventilation in firefighting, including the use of existing roof openings for optimal smoke and heat removal.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b57d3f9b-561d-4561-888e-40694a691300"
+          }
+        },
+        {
+          "title": "Lesson 2 A",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "One of the most significant hazards associated with vertical ventilation is that it will require firefighters to work above a fire on a structure being weakened by the fire below. The procedures and safety considerations for vertical ventilation will vary depending on the construction of the roof. Thus, understanding the types of roof construction prepares the firefighter to observe and test or sound the condition of the roof to minimize the risk of structural collapse. Sounding the roof is the best practice that will save your life. Before the first boot steps on the roof, it should be firmly sounded using a tool of your choice to check the roof's integrity. If the tool penetrates the roofing material or it sounds or feels overly boggy, then the area is not safe and has likely been compromised by the fire below. Roofs are made up of supporting structure and a decking material and are then covered with shingles or tile. Two common roof shapes will be discussed later in this course, flat and pitched. In some cases, lightweight wood trusses are used as roof supports. These roofs are designed to only support the weight of the roof and will quickly fail under fire conditions. Do not stand on this type of roof if the attic area is involved in the fire. Pre-fire planning will ensure you are aware of the types of construction commonly used in your area."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "3AE30C78-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify key hazards and safety considerations for vertical ventilation, including roof construction types and proper sounding techniques.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "1a8fc99f-5fdf-40bd-865c-528d1618a940"
+          }
+        },
+        {
+          "title": "Lesson 2 B",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "When a roof must be ventilated, the windows on the top floor should be opened. If windows on several floors must be opened, it is important to begin at the top and work down. Opening windows from below first may cause the fire to spread more rapidly due to the added oxygen pushing the fire upward with no ventilation escape."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "3BF53E7E-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Explain the proper sequence for opening windows when ventilating a building during a fire, and understand the potential consequences of incorrect ventilation procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "1557ba73-dcf5-44d9-af3b-b10b880e9857"
+          }
+        },
+        {
+          "title": "Lesson 2 C",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Skylights are a crucial aspect of ventilation in buildings, which possess them. Skylights can indicate the layout of a building. In an office or apartment building, a row of skylights is most likely located over a corridor, while in a commercial building, such as a shop or factory, the skylights generally indicate the presence of a work area. Skylights are also often located in following places. Stairways, corridors, elevator shafts, air shafts, and bathrooms. To avoid injury due to falling glass or debris, warnings should be given to the firefighters below when opening skylights. Also, once a skylight is opened, smoke should flow freely, and the combustion gases and byproducts might swirl up. All of this reinforces the need for good fire ground communications to ensure safety. The preferred method for opening a skylight is to lift it away from the opening, though it can also be tipped into the structure. Skylights which have been removed should be placed upside down near the opening from which they were removed, to warn other firefighters that a hole is present. Did you know some buildings are equipped with shrink-out or self-opening skylights? In the event of a fire, they contain radiated fusible links that will allow the shrink-out skylights to fall into the structure and self-ventilate the fire space below. A couple of things to keep in mind. Coupled with an installed sprinkler system, the tandem usage can better isolate and potentially mitigate or even extinguish the fire. The self-opening style of the skylights also have a rated fusible link that melts down, allowing gas-powered shocks to open the skylight upward to a 90-degree angle. The fusible links come in a varying array of temperature ratings, some as low as 165 degrees Fahrenheit, while others are designed to withstand temperatures up to 500 degrees. Once the given temperature is reached, the fusible link breaks down and the skylight shrinks out or opens to ventilate the fire."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "3D14E764-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the role and characteristics of skylights in building ventilation, including their locations, opening methods, safety considerations, and specialized types like shrink-out or self-opening skylights.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0873826f-3408-4b27-ac84-d3b60bae83bb"
+          }
+        },
+        {
+          "title": "Lesson 2 D",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In multi-story buildings, the vertical shafts, which house stairwells, elevators, dumbwaiters, electrical wiring, heating ducts, plumbing, and sewer pipes, act as conduits for the fire to travel. These shafts often extend the full height of the building and act as convection channels for heat, smoke, and fire gases. They are capped at the roof with a variety of closures. If these shafts are not vented at the top, the fire will be forced to travel horizontally as pressure buildup forces these combustion byproducts throughout the upper part of the building."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "3E23E510-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Recognize how vertical shafts in multi-story buildings can facilitate fire spread and understand the importance of proper venting to prevent horizontal fire propagation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "91c97815-4845-4a99-8cd8-094bf0b515b6"
+          }
+        },
+        {
+          "title": "Lesson 2 E",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Stairway venting should be handled with great care because it can often make the situation worse due to the aerodynamics in these areas. Stairwells can create a negative pressure that can pull smoke, fire, and gases into the stairway during ventilation. Commercial buildings warrant special consideration. Ventilation of commercial building stairwells should only be done with oversight by the fire marshal or someone with certified knowledge of the building's fire protection system. Taller multi-story buildings, to some extent, possess their own intrinsic meteorological personalities. In other words, they have a unique internal weather pattern. When the outside ambient temperature is warmer than the interior of the building, air will rush out of the doors and openings within the structure. When the temperature is colder outside of the building, the reverse happens and air rushes in. This phenomenon is called stack effect because the same principle can cause a strong draft in chimney stacks. All high-rises are influenced by the stack effect. Generally, the taller the structure, the more forceful the flow of air. However, the building's architecture, elevator shafts, HVAC ducts, and stairwells can all influence the building's meteorological personality, creating a unique pattern of airflow. The stack effect is always present, but these features can amplify or mitigate its effects. In the case of a fire, stack effect forces will push. and fuel the fire with an unfettered oxygen supply. Well-considered ventilation tactics will include the stack effect in a holistic approach to ventilation and flow path controls."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "3F42FE22-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the complexities and risks associated with stairway ventilation in commercial and high-rise buildings, including the impact of stack effect on fire behavior and ventilation tactics.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "755f6f14-4009-418c-98b2-e59184793aef"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Describe the process and benefits of vertical ventilation in firefighting, including the use of existing roof openings for optimal smoke and heat removal.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b57d3f9b-561d-4561-888e-40694a691300"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify key hazards and safety considerations for vertical ventilation, including roof construction types and proper sounding techniques.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "1a8fc99f-5fdf-40bd-865c-528d1618a940"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Explain the proper sequence for opening windows when ventilating a building during a fire, and understand the potential consequences of incorrect ventilation procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "1557ba73-dcf5-44d9-af3b-b10b880e9857"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the role and characteristics of skylights in building ventilation, including their locations, opening methods, safety considerations, and specialized types like shrink-out or self-opening skylights.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0873826f-3408-4b27-ac84-d3b60bae83bb"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Recognize how vertical shafts in multi-story buildings can facilitate fire spread and understand the importance of proper venting to prevent horizontal fire propagation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "91c97815-4845-4a99-8cd8-094bf0b515b6"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the complexities and risks associated with stairway ventilation in commercial and high-rise buildings, including the impact of stack effect on fire behavior and ventilation tactics.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "755f6f14-4009-418c-98b2-e59184793aef"
+        }
+      ]
+    },
+    {
+      "title": "Vertical Ventilation: Cutting Through Roofs",
+      "section_id": "fab5a3ef-0beb-4825-bee2-50efb666e474",
+      "learning_objects": [
+        {
+          "title": "Vertical Ventilation: Cutting Through Roofs",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "When there are no appropriate vents or skylights to ventilate a structure, cutting a hole through the roof is sometimes the only way to properly ventilate the building. This section discusses some of the different cuts you might do, including inspection cuts and the specific considerations for cutting flat roofs versus pitched roofs. Roofs made of boards may be cut with an axe. Roofs made with plywood should be cut with a power saw. Be careful not to cut joists or other structural members. The sounding firefighter can locate the structural members by properly striking the tool of choice, pipe pole, rubbish hook, axe, or halogen to name a few, checking for roof deck density and bounce. Structural members such as rafters will possess a denser sound and feeling, whereas open spaces between the members will sound and feel more distinctively hollow. The firefighter tasked with sounding the roof must do so before stepping onto the roof along the path to the roof. The first step is to cut the roof in the correct way that the team will follow and then once again enroute back to the primary or secondary egress points. General guidelines for cutting through roofs include Always check the roof for structural integrity before standing on it. Locate the rafters or truss supports using a tool. Before cutting a new opening, consider making an existing opening larger. Ventilation openings should be at least 4 by 4 feet. A single large hole is much more effective than several small holes. Also, if a roof has many smaller holes, safety can be compromised. When cutting holes in a roof, all deck materials should be cut through before any are pulled up. Failure to do so can allow early escape, endangering firefighter safety. When pulling up boards, keep your back to the wind so that the fire does not blow into your face. Remove the deck materials using an axe or pipe pole. Once all the boards are ripped up, make an open opening for the rafters. Once all the boards are ripped up, make an open opening for the rafters. Make an opening in the ceiling below using a pipe pole. Make sure the opening is clear of any obstructions. Once the roof is opened, quickly move off of it since fire compromises the roof's integrity."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "405819AA-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the process and safety considerations for cutting ventilation holes in roofs, including techniques for locating structural members, proper cutting methods, and guidelines for creating effective openings.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "8ccf2b4c-2d8e-471e-bf8d-f603371260fc"
+          }
+        },
+        {
+          "title": "Lesson 3 B",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In many instances, while performing roof operations, inspection cuts are made into the roof. These cuts are done for specific reasons, such as to check the conditions of the cock loft area or open space beneath it for smoke, fire, or construction features. They are also used to determine the ideal place for making a ventilation cut. There are three types of holes associated with inspection cuts. A punched hole, which can be created by using a pickhead axe, the point of a halogen, or the sharp end of a hook. The small hole can reveal smoke or fire conditions below, but it cannot reveal structural components. A kerf cut, a short, narrow opening that is only the width of an axe blade or chainsaw chain. And a triangle cut, three overlapping kerf cuts that create a knockout area for inspection."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "41AF2730-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and describe the three types of inspection cuts used in roof operations for ventilation purposes.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "703c120d-1cdb-4cae-99b9-69d9daaea49c"
+          }
+        },
+        {
+          "title": "Lesson 3 C",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Flat roofs have specific considerations. To ventilate a flat roof with a saw, position yourself on the upwind side of the planned ventilation opening. Ensure a charged hose line is available. After your partner has marked the location of the cut, cut the side of the planned opening farthest from the ladder, working back toward the area of safety. Cut the decking across the top of the planned ventilation opening. Make the final cut from the top to bottom on the side of the planned ventilation opening closest to the ladder. If you are a firefighter holding the axe during this operation, follow the steps below. Select the proper place to ventilate. Ensure the presence of a charged hose line for protection. Sound the roof for structural integrity before stepping onto it. Locate roof supports by sounding with an axe or other appropriate tool. Mark the location for the opening by scrapping. Make sure the roof supports are aligned with the pick end of the axe. Position yourself on the upwind side of the planned ventilation opening. After your partner completes the cut with the saw, pry up the sheathing material with the pick end of the axe. Push the blunt end of the pipe pole, or some other suitable tool, through the roof opening to open the ceiling below."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "42D0C6F0-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand and execute the proper techniques for ventilating a flat roof using a saw and axe, including safety precautions, positioning, and step-by-step cutting procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "aedd12a6-9a8a-4ba3-a432-8cc4b582c703"
+          }
+        },
+        {
+          "title": "Lesson 3 D",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The 7-9-8 or coffin cut is commonly used on flat roof constructed buildings. The coffin cut is relatively easy to make and is readily expandable if needed. The coffin cut is considered a primary or offensive ventilation tactic to be used over the fire. When cutting on a flat roof, a circular saw with a wood cutting blade is preferred over a chainsaw due to the roofing materials used. The common materials used on wooden decked roofs are wooden planks. Foam insulation, tar and paper, and sometimes a layer of gravel and rocks, each of which can quickly make a chainsaw fail. The 7-9-8 sequence of cuts is important to remember as the numerals resemble the cuts the saw operator makes. Cut line 1 is the top of number 7, approximately 3 to 4 feet long. Cut line 2 is a diagonal knockout cut, which allows for tools insertions to pull roof boards. Cut line 3. Cut lines 4 and 5 are approximately 3 to 4 feet, completing the number 9. Cut lines 6 and 7 are approximately 3 to 4 feet, completing the number 8."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "43FDB86C-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the procedure for creating a 7-9-8 or coffin cut on flat roofs, including the preferred tools, materials considerations, and the sequence of cuts required.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "285ce6d5-aa20-407e-9344-e80e56814a58"
+          }
+        },
+        {
+          "title": "Lesson 3 E",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Pitched roofs have specific considerations. To ventilate a pitched roof using an axe, select the proper place to ventilate. Ensure your partner is covering you with a hose line. Sound the roof for structural integrity before stepping out onto it. Ensure that the roof ladder hooks are secured over the peak of the roof. Work from the roof ladder when possible to distribute the weight. Do not stand on a pitched roof and attempt to cut ventilation holes. Work with the wind to your back. Locate the roof supports by sounding with the axe. Mark the hole to be cut, minimum 16 square feet, on the roof using the pick of the pick head axe. Remove the roofing material. Use short chopping strokes to cut roof decking diagonally alongside the rafter. Cut the sides of the hole in this order. Opposite side, top, bottom, adjacent side. Use the pick of the pick head axe and pull the decking up from the opposite side of the opening. Push the blunt end of the pipe pole or other long-handled tool through the hole to open the ceiling."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "451DC99E-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Demonstrate the proper techniques and safety considerations for ventilating a pitched roof using an axe, including roof assessment, ladder placement, and hole cutting procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "45b32c0a-057b-41ed-ac80-e38a0ad55fa3"
+          }
+        },
+        {
+          "title": "Lesson 3 F",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Special care must be taken when a fire is immediately below a roof. For example, the roof should be opened as close as possible to the seat of the fire. If this is not done, the fire will be drawn across the top of the building to the opening. It is important to note that hot spots may develop on the roof. If the roof is flat, ventilation openings should be made at these hot spots. On a gable roof, the opening should extend from the identifiable hot spots to the roof peak. Sometimes ventilation can be increased by making an additional opening just above the eave line on the side opposite the original opening. Care should be taken so that this type of ventilation does not increase fire spread. This is best achieved through a coordinated effort and clear communications by and through incident command."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "464627DA-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Explain the proper techniques for ventilating roofs in various fire scenarios, including the placement of openings and potential risks associated with different ventilation methods.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "f6656c5b-ecc0-4a04-94ee-ef5397737ca6"
+          }
+        },
+        {
+          "title": "Lesson 3 G",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Take a moment to view this video to see what best practices look like in regard to rooftop ventilation. When opening a pitched roof, locate the best place to make an opening through cautious and deliberate sounding practices. Position the roof ladder so that you are upwind from the hole. Locate the roof supports by sounding with an axe or other tool. Mark the location by scoring a line with the pick end of the tool. Remove any shingles or roofing material so the initial cut can be made. And have an exit strategy that includes a secondary egress route and a backup line in close proximity."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "4757B666-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and apply best practices for safe and effective rooftop ventilation, including locating supports, positioning ladders, making initial cuts, and planning exit strategies.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "35644272-5525-48a4-bd68-d0aaba4e025e"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the process and safety considerations for cutting ventilation holes in roofs, including techniques for locating structural members, proper cutting methods, and guidelines for creating effective openings.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "8ccf2b4c-2d8e-471e-bf8d-f603371260fc"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and describe the three types of inspection cuts used in roof operations for ventilation purposes.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "703c120d-1cdb-4cae-99b9-69d9daaea49c"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand and execute the proper techniques for ventilating a flat roof using a saw and axe, including safety precautions, positioning, and step-by-step cutting procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "aedd12a6-9a8a-4ba3-a432-8cc4b582c703"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the procedure for creating a 7-9-8 or coffin cut on flat roofs, including the preferred tools, materials considerations, and the sequence of cuts required.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "285ce6d5-aa20-407e-9344-e80e56814a58"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Demonstrate the proper techniques and safety considerations for ventilating a pitched roof using an axe, including roof assessment, ladder placement, and hole cutting procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "45b32c0a-057b-41ed-ac80-e38a0ad55fa3"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Explain the proper techniques for ventilating roofs in various fire scenarios, including the placement of openings and potential risks associated with different ventilation methods.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "f6656c5b-ecc0-4a04-94ee-ef5397737ca6"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and apply best practices for safe and effective rooftop ventilation, including locating supports, positioning ladders, making initial cuts, and planning exit strategies.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "35644272-5525-48a4-bd68-d0aaba4e025e"
+        }
+      ]
+    },
+    {
+      "title": "Horizontal Ventilation",
+      "section_id": "bc07bde3-83b6-459c-8dc9-abea13c7cf5c",
+      "learning_objects": [
+        {
+          "title": "Horizontal Ventilation",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Horizontal ventilation is the use of doors and windows to ventilate across the floor of a building. Like all ventilation practices, horizontal ventilation must be coordinated and communicated to all team members and must be done in concert with directives from the incident commander. Horizontal ventilation will impact the flow path and, when not planned properly, can cause unintended fire growth and may place firefighters and victims further into harm's way. The appropriate use of horizontal ventilation allows the attack hose line to advance rapidly toward the fire area, reduces the danger of heat passing around the nozzle team by providing another means of escape for the heat, and facilitates search and rescue operations. Consider the following when conducting horizontal ventilation. A charged hose line should be in position before starting ventilation. When time permits, windows should be opened as much as possible. Avoid breaking glass, if possible. Remove or open storm windows. Ensure the ventilation opening is clear of obstructions such as shades, blinds, drapes, curtains, and other window coverings."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "486DB01E-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the principles and procedures of horizontal ventilation, including its impacts, proper coordination, and key considerations for safe and effective implementation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "2f9fc39a-ba53-487e-b3ba-a00402caabf8"
+          }
+        },
+        {
+          "title": "Lesson 4 A",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Wind is a significant factor in any natural ventilation procedure. When using horizontal ventilation, the order of ventilation is important. First, make an opening on the side facing away from the wind, also known as the leeward side. Then, ventilate the side facing the wind, the windward side. If the windward side is opened first, the wind can and will churn smoke and gas around the interior, which increases the danger presented by the fire."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "4951BB1A-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of wind direction and proper ventilation order in horizontal ventilation procedures to minimize fire hazards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "e71d7a2f-8274-4910-acc5-c59ecb508350"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the principles and procedures of horizontal ventilation, including its impacts, proper coordination, and key considerations for safe and effective implementation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "2f9fc39a-ba53-487e-b3ba-a00402caabf8"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of wind direction and proper ventilation order in horizontal ventilation procedures to minimize fire hazards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "e71d7a2f-8274-4910-acc5-c59ecb508350"
+        }
+      ]
+    },
+    {
+      "title": "Forced Ventilation",
+      "section_id": "03ead8e8-6ecd-496e-9953-b4a483d506e5",
+      "learning_objects": [
+        {
+          "title": "Forced Ventilation",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Rather than using natural phenomenon, such as the wind or the rising of heat, forced ventilation, also referred to as mechanical ventilation, uses artificial mechanisms to move large quantities of air and smoke. Typical forced ventilation procedures can include negative pressure ventilation, smoke ejecting fans, positive pressure ventilation, positive pressure blowers, hydraulic ventilation, fog streams. Note, depending on where you're located in the country, you may use the term fan or the term blower. For this course, we will use the term fan to refer to a mechanism intended to suck air out and blower when the intent is to push air in. However, they're essentially the same mechanism. Mechanical ventilation cannot be used as a substitute for natural venting techniques. Heat, smoke, and gases are most effectively removed by convection, whether through natural or forced openings. Crews should always attempt to use natural ventilation techniques when possible."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "4A378FE6-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the concept of forced ventilation and its various methods, distinguishing it from natural ventilation techniques in firefighting operations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "48593dce-fde0-414d-ac91-2e5a4c0ffaf9"
+          }
+        },
+        {
+          "title": "Lesson 5 A",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Advantages. Forced ventilation can supplement natural ventilation to help firefighters clear a contaminated environment quickly. This ensures more direct control over the fire, provides for safer rescue conditions, and reduces smoke damage. Disadvantages. When done improperly, forced ventilation can cause a fire to spread rapidly because it introduces a large volume of air into the fire environment. For this reason, fans should not be used in partially or completely confined spaces in which there is a fire, although they may be used in confined areas after the fire has been knocked down. In addition, forced ventilation requires special equipment and access to a power source."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "4B607446-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the advantages and disadvantages of forced ventilation in firefighting operations, including its impact on fire control, rescue conditions, and potential risks.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "ad6cadf3-a95d-4d89-ab6a-87d7974d6fa8"
+          }
+        },
+        {
+          "title": "Lesson 5 B",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Smoke ejectors are a form of mechanical ventilation. Like all mechanical ventilation techniques, this technique is best used as an adjunct to natural ventilation techniques and cannot be the only mechanism used for ventilation. Smoke ejectors are often used when there is either little or no wind or where the wind does not align properly with the building's natural openings. Smoke ejecting fans are used to draw fire, smoke, and other products of combustion out of the structure. As a result, they must be able to withstand this extreme environment. The procedure for establishing negative pressure ventilation of a room using a smoke ejector fan is as follows. Determine the area to be ventilated and the outside wind direction. If possible, place the smoke ejector fan to exhaust on the leeward side of the building in a position to maximize the amount of air that is released. Maximize airflow. Using the appropriate hardware, hang the fan as high as possible in the selected opening. Remove any obstructions from the area used to ventilate smoke. Obstructions can include shades, drapes, mini blinds, curtains, and screen doors. Reduce churning by covering the area around the fan with salvage covers or plastic sheeting. Provide an opening on the windward side of the structure to provide cross ventilation. When possible, place the smoke ejector fan to exhaust on the leeward side of the building. If possible, the open area around the fan should be closed to increase efficiency. By directing air through a narrower opening, airflow increases. This also reduces the chances that smoke will re-enter through the same opening being used to remove the smoke. Fans are particularly effective when used in tandem. The first fan can be placed so that it blows smoke toward the second fan, which ejects the smoke to the outside. Two fans can also be used to exhaust smoke and draw in freshness. The exhaust fans should be mounted high and the intake fans should be lower."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "4C9229FE-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the principles and procedures for using smoke ejectors as a mechanical ventilation technique, including proper placement, maximizing airflow, and utilizing multiple fans for effective smoke removal.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b6426611-3b02-41eb-a0d9-3cbedfc1194a"
+          }
+        },
+        {
+          "title": "Lesson 5 C",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Positive pressure blowers are, in effect, the opposite of smoke ejectors. Where smoke ejectors pull smoke through a fire, positive pressure blowers push fresh air through the fire. The fans increase the pressure inside the structure. If pressure in the space is higher, the smoke will seek a lower pressure outlet. By selectively opening and closing doors and windows, firefighters can control the path of the smoke. Positive pressure blower techniques can be initiated from the exterior of the building and are best used when the integrity of the doors and windows has been maintained. When working with positive pressure techniques, the fire crew must properly identify the location of the fire. Properly used, this technique can be used between firefighters and the fire or between the fire and any trapped victims. Advantages This technique does not require smoke. It allows smoke and fire gases to pass through the fan and works more quickly than a negative pressure ventilation. Positive pressure ventilation works well in large areas and can be used to help maintain egress routes."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "4DA582D2-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the principles and advantages of positive pressure ventilation techniques in firefighting, including how they differ from smoke ejectors and their effective application in various scenarios.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d2aa9316-9d67-489f-a9e3-6a50280e7da3"
+          }
+        },
+        {
+          "title": "Lesson 5 D",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Positive pressure blower fans should be placed in such a way as to best move fire and fire gases without adding risk to the fire crew or increasing damage to the structure. When placing positive pressure blower fans, the fans should be placed far enough from the doorway to fill the opening with a cone of air. Placing such a fan directly in the doorway greatly reduces the air volume as compared to placing it several feet outside the doorway. Stacking two fans increases the air volume greatly. Single fans should be placed between 6 and 10 feet away from the doorway, while multiple fans should be placed between 3 and 5 feet away. For oversized doors, place fans side-by-side or in tandem. The procedure for establishing positive pressure ventilation of a room is as follows. Ensure an attack team is in place and ready to enter the building. Place the fan. Place the fan 4 to 10 feet in front of the opening to be used for attack. Provide an exhaust opening at or near the fire. This opening can be made before starting the fan or when the fan is started. Check for interior openings that could allow the products of combustion to be pushed into unwanted areas. Start the fan and check that the cone of air produced completely covers the opening. Allow the smoke to clear, usually about 30 seconds to a minute. Depending on the size of the area to be ventilated and the smoke conditions."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "4ECA8234-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand proper placement techniques and procedures for using positive pressure blower fans in ventilation, including optimal distances, configurations for different door sizes, and steps for establishing effective positive pressure ventilation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "5048076b-869b-4e83-9686-53885e233312"
+          }
+        },
+        {
+          "title": "Lesson 5 E",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Hydraulic ventilation is the use of an interior fog stream to move smoke and gases through windows or doors. This technique is generally used by hose teams to clear a room of smoke, heat, steam and other gases after the initial knockdown of the fire. This technique will move air faster than smoke ejectors and is a quick way for the attack team to start the ventilation process. However, hydraulic ventilation increases water damage to the space. It is a temporizing measure. It will buy you some time, but is not a permanent solution. It should be done in concert with your department's standard operation procedures, SOPs, or by direction of the incident commander. A fog stream should only be used in the short term and is generally best utilized within the fire room. To hydraulically ventilate a space, a fog stream is applied toward an opening, such as a window, with the stream covering 85 to 90% of the room. When directing the fire stream through the window, you should hold the nozzle two to four feet back from the window opening. Ideally, the water discharge should not touch the edges of the opening and the nozzle should be set to a narrow to medium fog pattern. The water droplets from the stream will push and pull air in the direction of the stream, helping to ventilate the area. It is also crucial that when administrating hydraulic ventilation, you remain close to the ventilation opening and stay low and out of the heat and smoke. By standing up during hydraulic ventilation, you become a natural obstruction that diminishes the effectiveness of the procedure. In addition, remaining upright causes you to receive unneeded contact with thermal and smoke toxins. To avoid unnecessary exposure, be sure to work from a lower position. A fog stream should not be used for ventilation. If it would cause damage to any items removed from the ventilation opening, you should be careful. A fog stream should not be used for protection. If the stream would enter adjoining buildings, if it might form ice outside, cold weather reduces the effectiveness of this technique, and most importantly, if you are attempting to ventilate a smoldering fire. A fog stream is never appropriate for use in smoldering fires due to the large amounts of air it introduces into the room, resulting in the flare-up or worse of any smoldering materials."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "4FD7EB12-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Explain the process and considerations for hydraulic ventilation in firefighting, including its benefits, limitations, and proper techniques for implementation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "fde42174-e813-4bef-a2ba-874c75e2b8da"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the concept of forced ventilation and its various methods, distinguishing it from natural ventilation techniques in firefighting operations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "48593dce-fde0-414d-ac91-2e5a4c0ffaf9"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the advantages and disadvantages of forced ventilation in firefighting operations, including its impact on fire control, rescue conditions, and potential risks.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "ad6cadf3-a95d-4d89-ab6a-87d7974d6fa8"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the principles and procedures for using smoke ejectors as a mechanical ventilation technique, including proper placement, maximizing airflow, and utilizing multiple fans for effective smoke removal.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b6426611-3b02-41eb-a0d9-3cbedfc1194a"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the principles and advantages of positive pressure ventilation techniques in firefighting, including how they differ from smoke ejectors and their effective application in various scenarios.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d2aa9316-9d67-489f-a9e3-6a50280e7da3"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand proper placement techniques and procedures for using positive pressure blower fans in ventilation, including optimal distances, configurations for different door sizes, and steps for establishing effective positive pressure ventilation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "5048076b-869b-4e83-9686-53885e233312"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Explain the process and considerations for hydraulic ventilation in firefighting, including its benefits, limitations, and proper techniques for implementation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "fde42174-e813-4bef-a2ba-874c75e2b8da"
+        }
+      ]
+    },
+    {
+      "title": "Smoldering Fires",
+      "section_id": "511b4ade-9cd4-4c0a-ba59-5ff13f5b1895",
+      "learning_objects": [
+        {
+          "title": "Smoldering Fires",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "An ongoing primary danger faced by firefighters is the smoldering fire, the kind of fire that can develop when there is not enough oxygen to support open flame. Fires can smolder in buildings of any size or type. When there is sufficient heat and fuel, but not enough oxygen, a smoldering fire ensues. Modern construction makes smoldering fires more likely. Such construction is, in part, designed to be energy efficient. Achieving this goal requires that buildings be well insulated and sealed, which also makes them very compartmentalized. Because of the modular aspects to modern buildings, fires in non-legacy construction structures can quickly degrade from fuel-controlled to oxygen-controlled. This occurs because the oxygen levels drop from a normal fire sustaining 21% down to levels around 14%. In addition, the properties that keep the building energy efficient also keep the gases within these environments heated at or above the ignition temperature for prolonged periods of time. The following factors can indicate that a smoldering fire exists. Visible smoke without visible flame. Smoke rising rapidly from a building, superheated smoke. Smoke leaving the building at intervals. Smoke being drawn back into the building at openings. Windows stained brown from intense heat. A smoldering fire needs only the introduction of oxygen to burst into flames. Because the introduction of oxygen can produce an explosion , this type of fire must be ventilated before it is attacked. Proper ventilation allows this to be controlled. Ventilation efforts for a smoldering fire should never be spur-of-the-moment or improvised. They must be done in concert with directions from the incident commander or by directive of your SOPs. The sudden ignition of a smoldering fire can take any form, such as superheated gases and combustibles bursting into flame. Ignition forces that might be powerful enough to blow windows and doors out of the building. Massive explosions causing significant structural damage. All of these have the potential result of catastrophic loss of life."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "50E3DAFC-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the characteristics and dangers of smoldering fires, and understand the importance of controlled ventilation in addressing these hazards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "61ab26aa-f934-468a-8341-88c08bb7a95a"
+          }
+        },
+        {
+          "title": "Lesson 6 A",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Backdraft is a major danger that firefighters face when ventilating a smoldering fire. Backdraft is the explosion that can occur when oxygen is introduced too quickly into an environment with a smoldering fire, an environment that was previously unventilated and oxygen deficient. Another danger firefighters face are smoke explosions, which can occur when combustible-rich fire smoke spontaneously ignites. Backdrafts and smoke explosions are oxygen-driven. Meanwhile, their cousin, the flashover, is more temperature-induced, as are ghosting and rollover that precede it. Flashover occurs during the growth stages of a fire. While backdraft is triggered by the sudden introduction of an air into oxygen-deficient environment, one with less than 14% oxygen, structure fires burn hotter and faster today than the legacy fires of the past. As discussed earlier, well-sealed, energy-efficient buildings retain heat and superheated gas. The gases that were produced by the fire before it became oxygen-limited and degraded. Those gases, even though the fire is a smoldering remnant of what it once was, will spontaneously ignite with the introduction of oxygen. If the energy-efficient, well-sealed compartment is pressurized with these gases, an explosive backdraft will occur. This explosion can be deadly. Firefighters should heed the telltale warnings that a backdraft, situation provides, being sure to take note when the signs of a smoldering fire are evident. ."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "51F3A2CE-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and understand the dangers of backdraft, smoke explosions, and flashover in firefighting, including their causes, characteristics, and warning signs.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "182b1fa6-19f0-4b8b-957e-4270dda3605d"
+          }
+        },
+        {
+          "title": "Lesson 6 B",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Ventilation of a smoldering fire is similar to the ventilation which must be performed on a free-burning fire but differs in one respect. Venting must be done before entering a smoldering structure. This is sometimes unnecessary in free-burning situations. Natural roof openings are the most appropriate places to ventilate a smoldering structure. However, if roof venting seems particularly dangerous, the tops of the highest windows can be knocked out with either ladders or a stream of water. Smoldering fires should not be approached directly but should be approached from an oblique angle or parallel to the building. This minimizes exposure to a possible explosion. By avoiding the obvious exits such as doors and windows, firefighters are less likely to be burnt if an explosion should happen to occur. Attack lines should be at the ready when ventilating a smoldering structure since the structure will burn freely once ventilated."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "52FAEFB0-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the unique ventilation requirements and safety precautions for smoldering fires, including proper venting techniques and firefighter positioning.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "032f5b93-a3bc-4aef-a4e2-c31acb38c67a"
+          }
+        },
+        {
+          "title": "Lesson 6 C",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In February 2006, fire crews were dispatched to a structure fire, after reports of heavy smoke and fire. The report stated that there were occupants trapped inside. One crew pulled attack lines and made entry through the front, where they were met with clouds of dark smoke and high heat, while another crew was sent to the rear of the building. At the same time the first crew was entering the building, a member of the second crew broke a window on the ground floor. The result? A backdraft smoke explosion, which forced the crew that had entered from the front to have to go back out quickly. Luckily, the crew was only a few steps into the building and was able to escape the backdraft with only minor injuries and with no loss of life. A second alarm was requested, bringing additional engines and one more ladder company. Initial reports of trapped occupants proved false. Prior to fire department arrival, several people had been rescued, from a porch roof, by a neighbor, and one had jumped from a window. Crews re-entered the structure and found heavy fire in the walls and attic. It was determined after investigation that wood shingles had been covered with metal siding and that the wood was burning underneath the metal. The fire was brought under control soon after. The takeaway? This is what can happen when ventilation efforts aren't coordinated with command. Ventilation must be part of a coordinated effort and completed before crews enter. All units of fire in the building were removed and\uae30\uc5d0 of fire safety instructions which, upon\uac04 had been issued."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "540606A6-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of coordinating ventilation efforts with command during firefighting operations and recognize the potential consequences of improper ventilation timing.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "832328e1-3a4e-4948-adc8-152907c0992b"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the characteristics and dangers of smoldering fires, and understand the importance of controlled ventilation in addressing these hazards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "61ab26aa-f934-468a-8341-88c08bb7a95a"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and understand the dangers of backdraft, smoke explosions, and flashover in firefighting, including their causes, characteristics, and warning signs.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "182b1fa6-19f0-4b8b-957e-4270dda3605d"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the unique ventilation requirements and safety precautions for smoldering fires, including proper venting techniques and firefighter positioning.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "032f5b93-a3bc-4aef-a4e2-c31acb38c67a"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of coordinating ventilation efforts with command during firefighting operations and recognize the potential consequences of improper ventilation timing.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "832328e1-3a4e-4948-adc8-152907c0992b"
+        }
+      ]
+    },
+    {
+      "title": "Safety Precautions",
+      "section_id": "a8ccf80f-5d48-4c88-9880-05a9c5c18b2b",
+      "learning_objects": [
+        {
+          "title": "Safety Precautions",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Throughout the course, you have learned the best practices for conducting ventilation procedures in varying conditions. The following are some of the most important safety precautions that apply to all ventilation operations. Always wear full protective equipment and a self-contained breathing apparatus, SCBA, when ventilating. Be sure hose lines are in place, manned and ready to make the attack before ventilation procedures are begun. On the roof, always vent at the highest point possible. Always work with the wind at your back or your side. This is one of the most important principles of safe ventilation. Working downwind of a fire can present significant dangers. Never place a hose line or elevated fire stream into a ventilation opening. This can cause superheated steam to form, endangering the safety of those near the line. Before working on a roof, cautiously check the stability of that roof. In addition, trick the number of personnel working on a roof to the minimum number necessary to safely accomplish the task. Watch out for overhead power lines. Watch for signs of unsafe roof conditions, such as distortion in the roof surface, smoke, or fire coming from cracks and spaces in the roof covering or sagging in the roof. Always have a secondary escape route from the roof. Be sure to maintain communications at all times with the incident commander or appropriate division."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "5511B086-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and apply key safety precautions for conducting ventilation operations in various firefighting scenarios.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "098f0f5c-254f-4e94-907b-0529052752d2"
+          }
+        },
+        {
+          "title": "Lesson 7 A",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "During ventilation efforts, firefighters put themselves even further into harm's way. With today's modern buildings adding to the danger, it should go without saying that personal protective equipment, PPE, should always be worn when operating in an atmosphere that is immediately dangerous to life or health, IDLH. However, not all firefighters take this to heart. The requirement to wear PPE must be betrothed pre-fire and enforced on the fire ground by company and chief officers, as lives depend on this best practice. Changing cultural views isn't always easy, but it's necessary to protect firefighters from unnecessary harm. Far too many line of duty dangers and diseases begin on the fire ground. Here's what one chief officer has to say. No question. The fire ground can be really dangerous. Decades ago, firefighters would make entry into a building without any SCBA to protect them fully from thermal, smoke, and chemical hazards. No one would allow that behavior today. But I don't know why I'll still see peripheral players on the fire ground without their full PPE. Hey, if you can smell smoke, you're probably inhaling carcinogens like benzene. And that stuff doesn't leave your body. It bioaccumulates and can predispose. You to cancer and hidden in the smoke are carbon monoxide and cyanide, the toxic twins of the fire ground. Each one of those can drag down your system, exacerbate underlying conditions, and even lead to heart attack. The only answer is that chief and company officers have to enforce a policy requiring firefighters to wear full PPE at all times on the fire ground. Zero tolerance for not following the policy. Firefighters must be. Injured. In turn-out gear. Packed out. And on air. We need everyone to stay safe. Thank you. Thank you."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "56267FB0-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the critical importance of wearing full personal protective equipment (PPE) on the fire ground and the role of officers in enforcing PPE policies to protect firefighters from immediate dangers and long-term health risks.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "c38088bb-ed19-4554-9e7e-603a295d9928"
+          }
+        },
+        {
+          "title": "Lesson 7 B",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In January of 2016, a Gardner, Maine firefighter was embarking upon rooftop operations on a three-story home that was heavily involved. Fully packed out in PPE and with pipe pole in hand, sounding as he progressed along the ridge, the thermally damaged roof gave way. Caught on video, the firefighter briefly fell into the burning quagmire before being extricated to safety. Yet, miraculously, the firefighter only sustained minor injuries. To take away from this, this case exemplifies how dangerous rooftop operations can be. As you can imagine, this situation could have easily had a far worse outcome. What made the difference? Following best practices, just about everything was done correctly by this crew, including an escape route and a cohesive emergency plan in place between the truck company colleagues. You can see a video of this event in the resources section located at the end of this course. Thank you for watching!"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "5715569E-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of following safety protocols and having emergency plans in place during rooftop ventilation operations, as demonstrated by a real-life firefighter incident in Gardner, Maine.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "09d6a425-3960-4f94-ad53-149b001bfe2f"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and apply key safety precautions for conducting ventilation operations in various firefighting scenarios.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "098f0f5c-254f-4e94-907b-0529052752d2"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the critical importance of wearing full personal protective equipment (PPE) on the fire ground and the role of officers in enforcing PPE policies to protect firefighters from immediate dangers and long-term health risks.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "c38088bb-ed19-4554-9e7e-603a295d9928"
+        },
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of following safety protocols and having emergency plans in place during rooftop ventilation operations, as demonstrated by a real-life firefighter incident in Gardner, Maine.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "09d6a425-3960-4f94-ad53-149b001bfe2f"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "section_id": "c58e6b4c-6300-4f9f-9013-788a9ea733e1",
+      "learning_objects": [
+        {
+          "title": "Conclusion",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Ventilation is the planned, systematic removal of heat, smoke, and other combustion gases, replacing these byproducts with cooler air. Ventilation can be natural or mechanical and requires careful attention to safety procedure. The techniques described in this course must be performed by those with proper training and can present serious risks when done improperly. In this course, you learned about the benefits of ventilating a structure, natural ventilation, vertical ventilation, and horizontal ventilation, the forced ventilation techniques of negative pressure ventilation, positive pressure ventilation, and hydraulic ventilation, special considerations for working on different types of roofs, how to recognize and ventilate a smoldering fire, ways to mitigate the dangers inherent in firefighting, because ventilation is a very important part of the process, and how to mitigate the dangers inherent in firefighting, because ventilation is a very important part of the process, and how to mitigate the dangers inherent in firefighting, because ventilation is a half-event, you don't get to practice these skills often. It is hoped that this course has provided you with the information you need to keep these skills fresh in your mind and to enhance your ability to make rapid and accurate decisions in the field."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": false,
+          "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "581C7A90-BCE1-11EA-9E85-EAB442E589C8",
+          "learning_objective": {
+            "topic": "NFPA 1001 Ventilation",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the principles, techniques, and safety considerations of ventilation in firefighting, including natural and mechanical methods, and their application in various scenarios.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d90cff61-c498-41dc-953e-f1b544aab8a7"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "NFPA 1001 Ventilation",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the principles, techniques, and safety considerations of ventilation in firefighting, including natural and mechanical methods, and their application in various scenarios.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d90cff61-c498-41dc-953e-f1b544aab8a7"
+        }
+      ]
+    }
+  ],
+  "course_id": "32896022-BCE1-11EA-9E85-EAB442E589C8",
+  "description": "Ventilation is the practice of opening parts of a structure in order to remove heat, smoke, and toxic gases, replacing these combustion products with cooler air. Proper ventilation leads to better visibility, lower temperatures, the reduced possibility of flashover, and reduces smoke damage to the affected property. Additional advantages of ventilation include the easier rescue of victims and increased ability to attack the fire. Ventilation requires full personal protective equipment and should not be attempted without qualified training. There are several different types of ventilation, and this course will examine each of those briefly.",
+  "revision_id": "6efb089e-b30c-43e2-94c7-56c9680a43b8",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 3012.1377000000007
+}

@@ -1,0 +1,684 @@
+{
+  "sku": "JCT-340",
+  "goal": "Equip workers and supervisors with comprehensive knowledge and skills to identify, assess, and mitigate hazards in trenching and excavation operations, ensuring compliance with safety regulations and implementing effective protective measures to prevent accidents and injuries.",
+  "title": "Trenching and Excavation Safety - Full Course",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "82329c13-fa49-4122-8a85-80bdf31e822e",
+      "learning_objects": [
+        {
+          "title": "Course Overview",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Excavating is one of the most dangerous operations in construction work. There are an average of 70 deaths each year in the U.S. due to excavation accidents and thousands more injuries. Most of these accidents could be prevented by following simple safety procedures. An excavation is any man-made cavity created in the ground by removing earth. A trench is a kind of excavation. It is a narrow channel that is deeper than it is wide. The term trench is typically applied to channels that are less than 15 feet, or 4.6 meters, wide at their base. Even if you are not in charge of overseeing an excavation, you must be familiar with the general hazards of this work. Knowing how to spot potential problems will help keep you and your coworkers safe. Note, completion of this lesson alone does not declare the learner as a competent person. The title of competent person is provided by the employer after having evaluated the worker's applied knowledge, skill, and authority. By the end of this course, you will be able to Identify common dangers associated with trenching and excavation work. Define competent person and discuss their role and their importance. Discuss the different types of soil and the importance of soil type in evaluating excavation and trenching hazards. And, identify and discuss the protective systems of sloping and shoring. Thank you for listening to this lesson. If you found this video useful, please like, share, and subscribe. If you have any questions or other problems, please post them in the comments. If you have any questions or other problems, please post them in the comments. If you have any questions or other problems, please post them in the comments."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "A871C842-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify common hazards in trenching and excavation work, understand the role of a competent person, recognize soil types and their impact on safety, and describe protective systems used in excavations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "ce811c66-dbc1-498a-a8cd-456470b7889a"
+          }
+        },
+        {
+          "title": "Competent Person",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Every excavation operation must have what OSHA terms a competent person. The competent person plans and oversees an excavation operation. They can recognize any existing or potential excavation and related dangers, such as confined spaces or hazardous atmospheres. They must also have the authority to take appropriate actions to fix any problems that are found. The competent person also inspects the soil and decides what protective equipment will be used. The competent person must be readily available if problems arise or if there are questions about the excavation. Employers are responsible for determining who will serve as a competent person for excavation activities. These persons often have significant field experience and authority over field operations. The designation of competent person commonly falls on those who are titled supervisor, crew leader, or foreman. For small employers, the role of the competent person is often held by heavy equipment operators, namely those operating excavation equipment like an excavator or backhoe. It should be noted that when a site visit is made by an OSHA official, the designated competent person will be asked questions and requested to produce documents, such as inspection logs."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "A895604A-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the role and responsibilities of the competent person in excavation operations, including their qualifications and authority to ensure safety compliance.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "1239651f-a62d-4777-bf7f-b4d76d7f97fd"
+          }
+        },
+        {
+          "title": "What Regulations Apply?",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "All excavation work must follow OSHA regulations, even if the work only involves making a small, shallow trench. While the OSHA excavation standard requires safeguards for a trench at least 5 feet, or 1.5 meters, in depth, a trench less than 5 feet, or 1.5 meters, deep, can still cave in and cause serious injuries. One study reported that 35% of trenching injuries happened in excavations less than 5 feet, or 1.5 meters, deep. Safety starts with planning, and excavation work is no different than any other type of construction-related activity. In addition to OSHA's workplace safety regulations, the following requirements also contribute to preventing worker injury. Utility Locate Laws are specific to each state, and in most cases, the responsibility to request a utility locate falls on the excavator, the entity breaking ground, electrical, natural gas, water, and petroleum pipelines present a significant risk. Therefore, no excavation work shall proceed until a locate request has been made by dialing 811 and all utilities are confirmed cleared. Traffic Control This is required where excavation work is completed within or adjacent to a roadway. The control of the motoring public is critical to maintaining a safe work zone. Advanced warning signs and barriers help protect workers. All necessary permits and approvals must be obtained when working on public roadways."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "A8BA5832-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify key safety requirements for excavation work, including OSHA regulations, utility locate laws, and traffic control measures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "e1fd1b2e-1baa-4cec-a929-003ff353dbc9"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify common hazards in trenching and excavation work, understand the role of a competent person, recognize soil types and their impact on safety, and describe protective systems used in excavations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "ce811c66-dbc1-498a-a8cd-456470b7889a"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the role and responsibilities of the competent person in excavation operations, including their qualifications and authority to ensure safety compliance.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "1239651f-a62d-4777-bf7f-b4d76d7f97fd"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify key safety requirements for excavation work, including OSHA regulations, utility locate laws, and traffic control measures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "e1fd1b2e-1baa-4cec-a929-003ff353dbc9"
+        }
+      ]
+    },
+    {
+      "title": "Inspections",
+      "section_id": "05ee1b85-52c4-4fd4-bce9-ee5d5d6c818a",
+      "learning_objects": [
+        {
+          "title": "Competent Person Daily Inspections",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "OSHA requires that a competent person inspect the excavation conditions and protective systems daily before the start of work. These inspections are mostly visual in nature, but must also include examining the soil physically for its cohesive properties to confirm that the correct protective systems are in place. It is recommended that the competent person use a checklist to complete their daily inspection. The checklist ensures that all necessary items will be evaluated and that the inspection is completed if asked by an OSHA official. The competent person must also inspect the excavation whenever any relevant site conditions have changed. Changes that would require a re-inspection include, but are not limited to, weather changes such as rainstorms, thaws, earthquakes, and snowstorms. When fissures, cracks, sloughing, water seepage, or other changes are noticed. If there is a change in the spoil pile location or size. When there is a change in the scope of the work requiring alternate excavation plans. If the competent person determines there is an excavation hazard, workers in the excavation must leave immediately. No one may re-enter until the hazard has been eliminated. The following section describes some of the more notable hazard items on a checklist that a competent person must evaluate."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "A92B8192-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the role and responsibilities of a competent person in conducting daily inspections and re-inspections of excavation sites, including key hazards to evaluate and actions to take when hazards are identified.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "f771ed67-fd26-41a3-bc95-7eacefcccc53"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the role and responsibilities of a competent person in conducting daily inspections and re-inspections of excavation sites, including key hazards to evaluate and actions to take when hazards are identified.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "f771ed67-fd26-41a3-bc95-7eacefcccc53"
+        }
+      ]
+    },
+    {
+      "title": "Trench Hazards and Cave-ins",
+      "section_id": "2cb2e049-c41d-4dab-887a-1547baaba719",
+      "learning_objects": [
+        {
+          "title": "Trench Hazards and Cave-ins Overview",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Cave-ins are the cause of most excavation fatalities. Preventing cave-ins should be the top safety concern during excavation work. Soil is very heavy, probably heavier than you'd expect. A cubic yard of dirt typically weighs around 2,700 pounds, or 1,224.6 kilograms. Being hit by a wall of earth is similar to being hit by a car. Don't make the mistake of thinking you can spot a potential cave-in before it happens. Soil can cave-in suddenly and without warning. A person buried in dirt will suffocate quickly. Even if the victim avoids suffocation, the weight of the soil can break bones and cause crushing injuries. The following sections will discuss the factors that contribute to cave-ins. In addition to cave-ins, other hazards may be present and must be accounted for by the contractor. Other excavation hazards discussed later in this course include Hazardous atmospheres Contacting buried utilities Being struck by, crushed by, falling objects And Falling into the excavation"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AA00BBBE-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the primary dangers of excavation work, focusing on cave-ins, and recognize other potential hazards associated with trenching and excavation activities.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "951b74fe-2ff3-4685-9ba8-1982b7828355"
+          }
+        },
+        {
+          "title": "Soil Types",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Many safety-related decisions made about trenching and excavations are based on the predicted behavior quality of the soil. It's a fact that cohesive, or sticky, soil poses less of a danger of caving in than non-cohesive and granular soil. Determining the type of soil is the responsibility of the competent person and is accomplished by completing both a visual and physical examination of the soil. The physical tests performed on the soil to evaluate the cohesiveness can be accomplished by several methods, including the ribbon test, a pocket pentrometer device, or a sheer vein device. There are four primary soil types, as defined by their constituents and compressive strength. Solid rock, type A, type B, type C. Solid rock presents... The most stable soil conditions, followed by soil types A, B, and C. Note that frozen soil conditions cannot be treated like solid rock. All areas that have been previously excavated, or disturbed, must be treated as type C soil."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AA2741A8-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the four primary soil types and understand how soil classification impacts trenching and excavation safety decisions.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b93f3410-eb9b-484f-9171-108a63aff7db"
+          }
+        },
+        {
+          "title": "Water",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Water is a significant contributing factor in cave-ins. It increases the weight of the soil and makes it more fluid and likely to shift. Water in an excavation can come from rain, snow, thawing ice, or groundwater. No matter how water enters the excavation, it is a potential problem. No one can work in an excavation with incoming water or standing water unless the competent person has taken the presence of the water into account. Methods of protecting against water hazards include special support systems, water removal equipment, and use of a safety harness and lifeline."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AA4BCA96-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the hazards associated with water in excavations and understand appropriate protective measures to mitigate these risks.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "00f14ecd-4c4f-46eb-bc9e-6b0f18f71b44"
+          }
+        },
+        {
+          "title": "Equipment and Vehicles",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Vehicles such as backhoes, trucks, and cranes are very heavy and can contribute to cave-in risk. The closer heavy equipment gets to a trench, the greater the compressive force inward to collapse the unfilled open section of a trench. Generally, heavy equipment should be set back from the excavation sidewalls at the rate of one foot from the sidewall for each foot in the depth of the trench. For example, a five-foot deep excavation would require that a cement truck delivering cement to fill footing forms be positioned at least five feet, or 1.5 meters, from the edge of the trench."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AA7719B2-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the safe positioning of heavy equipment near trenches to prevent cave-ins, including the general rule of one foot setback for each foot of trench depth.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "90ff528e-e221-4738-a42b-2daacf46315b"
+          }
+        },
+        {
+          "title": "Vibration",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Vibration is another contributing cause of soil collapse. Vibration can come from large vehicles, smaller equipment like jackhammers, or distant industrial work or traffic. If there is even a small chance for soil vibration, it must be considered when preparing a trench or excavation. Vibration can also jeopardize the stability of nearby structures where a trench has exposed the foundation or below-grade portion of the structure. Undermining, or soil removed from the underside of a building, can be caused by the vibration of nearby equipment."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AA9BCD66-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify sources of vibration that can contribute to soil collapse and understand their potential impact on trench stability and nearby structures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0b22076a-5d34-49d6-b035-7ddf7c917a99"
+          }
+        },
+        {
+          "title": "Pre-Excavated Earth",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Soil that has been excavated in the past will be looser than undisturbed soil. Extra caution is necessary when working in areas that may have been excavated before. This includes soil around buildings and around utility lines. All previously excavated soil is treated as Type C for classification and protective system purposes."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AABCF18A-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and assess previously excavated soil, recognizing its looser nature and classification as Type C for protective system purposes.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "96c294c5-a5cd-40aa-a14c-764bf2bd3d86"
+          }
+        },
+        {
+          "title": "Loose Soil and Spoil",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Loose rock or soil can fall from an excavation face. Workers must be protected from this danger. Protective methods include scaling of the excavation face and installation of protective barricades. Spoil is the earth that is dug out of an excavation and either cast next to the excavation or hauled away. Like nearby heavy equipment, spoil piles placed immediately next to the excavation place extra downward and inward force on the ground and can contribute to a cave-in. It also poses another risk because it could fall into an excavation on top of workers. To reduce risks associated with spoil piles, they must be either kept at least 2 feet or 0.6 meters away from the edge of a trench or, held back by some type of retaining wall or barrier."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AADC5BEC-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify protective methods for workers against falling materials in excavations and understand proper placement of spoil piles to prevent cave-ins and worker injuries.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d515fe7b-0006-44cd-a5b2-439c3ddd566b"
+          }
+        },
+        {
+          "title": "Hazardous Atmospheres",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "A hazardous atmosphere is an environment that poses a risk of impairment or death due to atmospheric conditions. Hazardous atmospheres include poisonous atmospheres, oxygen-deficient atmospheres, less than 19.5% oxygen, combustible atmospheres, and any atmosphere that may cause death, illness, or injury to persons exposed to it. One factor leading to hazardous atmospheres in excavations is the fact that some dangerous gases are heavier than air and will accumulate in low areas. This is where combustion engines are used nearby and carbon monoxide, or CO, gas accumulates in the trench. Compressors, generators, gas-powered equipment used in the trench, or idling equipment on top of the trench, present as a risk of death. This can be a CO hazard to the workers in the trench. Hitting buried utilities in the trench, like a sanitary sewer or natural gas line, presents immediate atmospheric and life safety hazards. If there is any chance that the atmosphere in an excavation could be or become hazardous, the competent person must take appropriate action. This might include air testing, installing air monitoring devices, and installing ventilation systems. The equipment and equipment must be made ready to be used before entering the trench, or continuously working in the trench. Additionally, proper personal protective equipment must be used. In any location where there may be a hazardous atmosphere, emergency rescue equipment, like respirators and other PPE for rescue personnel, must be made readily available."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AAFB2392-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential sources of hazardous atmospheres in excavations and understand the necessary safety measures, including air testing, monitoring, ventilation, and emergency rescue equipment preparation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d38edd0d-59a6-4627-8ca0-5ae17b186d99"
+          }
+        },
+        {
+          "title": "Underground Utilities",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Excavation activities are the number one cause of damage to buried utilities in the U.S. each year. These damages result in public safety, property, and environmental emergencies. Digging contractors must know and observe the state and local utility locate laws where they are working. No excavation should occur until all utilities have been identified and cleared."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AB1A643C-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Recognize the importance of utility locate laws and the necessity of identifying and clearing all utilities before beginning excavation work to prevent damages and emergencies.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "98247fa9-4516-4458-b81f-9081e29bca8e"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the primary dangers of excavation work, focusing on cave-ins, and recognize other potential hazards associated with trenching and excavation activities.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "951b74fe-2ff3-4685-9ba8-1982b7828355"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the four primary soil types and understand how soil classification impacts trenching and excavation safety decisions.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b93f3410-eb9b-484f-9171-108a63aff7db"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the hazards associated with water in excavations and understand appropriate protective measures to mitigate these risks.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "00f14ecd-4c4f-46eb-bc9e-6b0f18f71b44"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the safe positioning of heavy equipment near trenches to prevent cave-ins, including the general rule of one foot setback for each foot of trench depth.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "90ff528e-e221-4738-a42b-2daacf46315b"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify sources of vibration that can contribute to soil collapse and understand their potential impact on trench stability and nearby structures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0b22076a-5d34-49d6-b035-7ddf7c917a99"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and assess previously excavated soil, recognizing its looser nature and classification as Type C for protective system purposes.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "96c294c5-a5cd-40aa-a14c-764bf2bd3d86"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify protective methods for workers against falling materials in excavations and understand proper placement of spoil piles to prevent cave-ins and worker injuries.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d515fe7b-0006-44cd-a5b2-439c3ddd566b"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential sources of hazardous atmospheres in excavations and understand the necessary safety measures, including air testing, monitoring, ventilation, and emergency rescue equipment preparation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d38edd0d-59a6-4627-8ca0-5ae17b186d99"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Recognize the importance of utility locate laws and the necessity of identifying and clearing all utilities before beginning excavation work to prevent damages and emergencies.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "98247fa9-4516-4458-b81f-9081e29bca8e"
+        }
+      ]
+    },
+    {
+      "title": "Protective Systems and Selection",
+      "section_id": "36ccb37b-54dd-4ace-8bf7-cef1b61ab5ef",
+      "learning_objects": [
+        {
+          "title": "Protective Systems and Selection Overview",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "There are several ways to protect against cave-ins. The three main protective systems are sloping and shoring. Sloping involves excavating a trench wall at an angle to prevent the soil from caving in. Shoring a trench involves using supporting structures that brace the sides of the trench wall and physically prevent a cave-in. Shoring materials include wood and metal and may require the system to be designed by a registered professional engineer. Shoring prevents a cave-in by pressing up against and supporting the sidewalls of the excavation. The selection of the protective system by a competent person depends upon the visual and physical examination of the soil as well as an understanding of how the work will be performed. An appropriate protective system can be selected once the soil has been classified. A, B, or C."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "ABA5880A-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and differentiate between the three main protective systems used in trenching and excavation to prevent cave-ins: sloping and shoring.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "42dc5199-d85e-4d83-ad74-6052fb1517aa"
+          }
+        },
+        {
+          "title": "Sloping",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Sloping requirements vary depending on the type of soil. Because it is the least stable type, Type C soil requires a low sloping angle. The maximum allowable slope of Type C soil is 34 degrees. Type B soil has a maximum allowable slope of 45 degrees. Type A soil, being the most stable, has a maximum allowable slope of 53 degrees. Solid rock doesn't require sloping, or any protective system, because it is not at risk of collapsing. Many excavations will be on Earth with two or more layers of different soil types. The two soil layers can be sloped separately. For example, an excavation may have a Type B soil layer on top of a Type A soil layer. If other factors are present, like water or vibration, the competent person must decide if the slope needs to be lower than the maximum allowable slope. When in doubt about the soil type, the soil must be sloped for Type C soil. This will ensure that the sloping is adequate for all soil types. These sloping requirements only apply to excavations less than 20 feet, or 6 meters, deep. Excavations deeper than 20 feet, or 6 meters, and by a registered professional engineer."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "ABCB2FC4-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the maximum allowable slope angles for different soil types and recognize factors that may require adjustments to sloping requirements in excavations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "83c5a5bf-cd54-4c07-96cb-e41a82727384"
+          }
+        },
+        {
+          "title": "Shoring",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Shoring is a method of supporting the sides of a trench wall to prevent collapse. There are two primary types of shoring. Timber shoring. Mechanical shoring devices. Most shoring systems have a similar structure. Uprights are vertical planks that line the excavation wall. This lining may be referred to as sheeting when the planks are installed continuously or if a solid sheet of material is used. Wailers are the horizontal pieces that run across the uprights. The struts, also called cross braces or spreaders, extend between the trench walls and support the bulk of the load. These struts can be made of wood or of expandable metal braces. Certain shoring systems are designed to be placed remotely without having to access the trench to install them. Pneumatic and hydraulic jacks can be used to deliver the shoring system to the trench wall. They deliver a compressive force against the planks to hold them in place against the trench sidewalls."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AC2EA9A0-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the key components and types of shoring systems used in trench support, including timber and mechanical methods, and understand how they function to prevent trench collapse.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "a0d86b2f-73c6-4f71-bec9-cf98b38c0db4"
+          }
+        },
+        {
+          "title": "Access",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Trenches 4 feet or 1.2 meters deep or more must have a fixed structure that will let workers climb out, such as a ladder or ramp. Access is allowed if the sidewall slope of the excavation is such that a worker can enter and exit the trench without using their arms to assist. In this instance, the excavation sidewall is considered a ramp. In trenches, means of access must be spaced so that no more than 25 feet or 7.6 meters of lateral travel is ever needed to reach the nearest access point. Most often, an extension ladder is used and is acceptable."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AC4DDE1A-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the required access methods and spacing for trenches 4 feet (1.2 meters) or deeper, including ladders, ramps, and acceptable sidewall slopes.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0c2921b7-b6a0-4c48-849f-8fa397057f36"
+          }
+        },
+        {
+          "title": "Protection from Falling In/Objects Falling On",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Where an excavation is 6 feet, or 1.8 meters, or deeper, it must provide protection from persons falling into it. Both workers and pedestrians may be at risk. To guard against falling into the excavation, all excavations must be properly barricaded and marked to prevent people from walking near the open excavation. In cases where access over the top of the trench must be made, walkways with handrails can be used, or the excavation can be covered with metal plates strong enough to support a load traveling over the top of it. Upon completion of the excavation work, it should be backfilled as quickly as possible to prevent someone from falling into it. There is also the danger of objects or loads falling onto workers in the excavation. Loads handled by lifting or lifting. Hand signals or mechanical signals must be used as required. If necessary, barricades must be set up around the excavation site to keep away unwanted vehicles or foot traffic."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "AC6CC08C-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify safety measures to prevent falls and protect workers in excavations 6 feet or deeper, including proper barricading, walkways, and protection from falling objects.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "653259fd-af55-4433-a49f-2f578a2c2d3e"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and differentiate between the three main protective systems used in trenching and excavation to prevent cave-ins: sloping and shoring.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "42dc5199-d85e-4d83-ad74-6052fb1517aa"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the maximum allowable slope angles for different soil types and recognize factors that may require adjustments to sloping requirements in excavations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "83c5a5bf-cd54-4c07-96cb-e41a82727384"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Differentiate between single and multiple benching techniques, and describe their proper implementation in trenching based on soil type and safety requirements.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "8c2ffbe3-9d30-4eac-8662-9a06de1c0292"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the purpose, characteristics, and proper usage of trench trench boxes for worker protection during excavation activities.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "fd0bf04f-426d-4fdd-8be9-c38aafff8328"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the key components and types of shoring systems used in trench support, including timber and mechanical methods, and understand how they function to prevent trench collapse.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "a0d86b2f-73c6-4f71-bec9-cf98b38c0db4"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the required access methods and spacing for trenches 4 feet (1.2 meters) or deeper, including ladders, ramps, and acceptable sidewall slopes.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0c2921b7-b6a0-4c48-849f-8fa397057f36"
+        },
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify safety measures to prevent falls and protect workers in excavations 6 feet or deeper, including proper barricading, walkways, and protection from falling objects.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "653259fd-af55-4433-a49f-2f578a2c2d3e"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "section_id": "af97849b-6e6f-44d3-af7a-3c44f0abe64d",
+      "learning_objects": [
+        {
+          "title": "Summary and Implications",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "This module has covered the primary hazards associated with trenching and excavations, including cave-ins, atmospheric hazards, falling into the excavation, falling loads. Of all the hazards, cave-ins are the deadliest. The soil type is the primary factor in cave-ins, but other factors include water, heavy equipment, spoil piles, and vibrations. The three types of systems that protect against cave-ins are sloping, shoring. Even if someone else is the competent person in charge of an excavation, you should know the dangers of this type of work. Always be aware of your surroundings, and never take your safety for granted when working in trenches and excavations."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "ACEF4ED0-2434-11EF-A76B-F498C68A4852",
+          "learning_objective": {
+            "topic": "Trenching and Excavation Safety",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the primary hazards associated with trenching and excavations, and understand the protective systems used to prevent cave-ins.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "923658ff-fc56-41a9-ad87-46fdbd336f60"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Trenching and Excavation Safety",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the primary hazards associated with trenching and excavations, and understand the protective systems used to prevent cave-ins.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "923658ff-fc56-41a9-ad87-46fdbd336f60"
+        }
+      ]
+    }
+  ],
+  "course_id": "A725C5C8-5436-11EB-90CC-721267F96AF6",
+  "description": "This course covers safe work practices for excavation and trenching work. It is meant to be used as an introductory or refresher course for construction workers involved in digging or working in an excavation. It is based on OSHA Construction regulations and industry best practices.",
+  "revision_id": "A7F0EDA8-2434-11EF-A76B-F498C68A4852",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 1675.3139999999996
+}

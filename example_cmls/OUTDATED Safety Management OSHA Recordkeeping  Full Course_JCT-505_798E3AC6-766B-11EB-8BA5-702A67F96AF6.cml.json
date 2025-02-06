@@ -1,0 +1,1076 @@
+{
+  "sku": "JCT-505",
+  "goal": "Equip learners with comprehensive knowledge and practical skills in OSHA recordkeeping standards to ensure accurate documentation, compliance, and effective analysis of workplace safety incidents.",
+  "title": "Safety Management: OSHA Recordkeeping - Full Course",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "6f8b1539-02c9-4d3d-86f5-15978cf92732",
+      "learning_objects": [
+        {
+          "title": "Course Overview",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Congress enacted the Occupational Safety and Health Act of 1970 to assure safe and healthful working conditions for working men and women. The Occupational Safety and Health Administration, or OSHA, was established to enforce and administer the Act. The Act gives OSHA the authority to set standards and conduct inspections to ensure that employers provide safe and healthful workplaces. One of these standards, 29 CFR 1904, describes the rules for recording and reporting occupational injuries and illnesses. Specific recording and reporting requirements ensure uniform, nationwide data to help analyze causes, identify potential trends, and prevent future occurrences. Injury and illness records are also used locally to implement workplace safety and health. Failure to properly record an injury or illness may result in an OSHA violation and citation. Thus, it is extremely important for all employees to know and understand the OSHA rules and requirements for recording an injury or illness. By the end of this course, you will be able to list the criteria used to determine what makes a case OSHA recordable, describe what makes a case work-related, differentiate between a new case and the recurrence of an existing case, list and describe the general recording criteria, determine if a case is recordable, and describe OSHA's recordkeeping and reporting requirements, including the purpose of the OSHA recordkeeping forms."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "F6EB97A8-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand OSHA's recordkeeping standards, including criteria for recordable cases, work-relatedness, and reporting requirements, to ensure compliance and contribute to workplace safety analysis.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "ad1210b7-af5e-4fa9-a05a-c73c20b529a2"
+          }
+        },
+        {
+          "title": "Employee Rights",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "To capture accurate injury and illness data, employees must report all incidents. Employers must inform each employee how to report work-related injuries and illnesses. The method of reporting must allow prompt and accurate reporting and not deter or discourage a reasonable employee from doing so. Employers must also inform them that employees have the right to report work-related injuries and illnesses. And Employers are prohibited from discharging or discriminating in any way against employees for reporting work-related injuries and illnesses."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "F7217396-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the requirements for employee incident reporting and employer responsibilities in promoting accurate injury and illness data collection.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "95f50ecd-6aa2-4d25-8a5e-1018b7079308"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand OSHA's recordkeeping standards, including criteria for recordable cases, work-relatedness, and reporting requirements, to ensure compliance and contribute to workplace safety analysis.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "ad1210b7-af5e-4fa9-a05a-c73c20b529a2"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the requirements for employee incident reporting and employer responsibilities in promoting accurate injury and illness data collection.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "95f50ecd-6aa2-4d25-8a5e-1018b7079308"
+        }
+      ]
+    },
+    {
+      "title": "OSHA Recording Criteria",
+      "section_id": "ebbae4aa-191b-470c-b5fd-33beb3a7e7c5",
+      "learning_objects": [
+        {
+          "title": "OSHA Recording Criteria",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Employers must record each injury and illness that is work-related, is a new case, and meets one or more of the general recording criteria or the application to specific cases. A five-step process consisting of a series of yes or no questions can be used to determine whether an injury or illness meets these recording criteria. The four questions that need to be asked are Did the employee experience an injury or illness? Is the injury or illness work-related? Is the injury or illness a new case? Does the injury or illness meet the general recording criteria or application to specific cases? If the answer to a question is yes, move on to the next question. If the answer to all four questions is yes, then the final step is to record the case on the facility OSHA logs. If the answer to any question is no, the injury or illness does not need to be recorded."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "F816277E-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and apply the five-step process for determining whether an injury or illness should be recorded on OSHA logs.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d9a5a14a-adae-49bc-8c67-9c094752788f"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and apply the five-step process for determining whether an injury or illness should be recorded on OSHA logs.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d9a5a14a-adae-49bc-8c67-9c094752788f"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "section_id": "f0504b40-d942-415b-b8c2-59fee2624fe9",
+      "learning_objects": [
+        {
+          "title": "Summary",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "OSHA requires recording and reporting occupational injuries and illnesses. When an incident is reported, determine if an employee experienced an injury or illness. If an injury or illness occurred, decide whether or not it is work-related, a new case, and meets either general recording criteria or the criteria for special cases. If the answer to each of these questions is yes, then the injury or illness must be recorded on OSHA's Form 301, Injury and Illness Incident Report, and OSHA's Form 300, Log of Work-Related Injuries and Illnesses. At the start of each year, complete Form 300A, which summarizes all of the injuries and illnesses from the previous year. Form 300A must be physically posted for employees to receive. Review from February 1 through April 30. All forms must be saved for five years. Many employers, based on their size and industry, must electronically submit information from the record-keeping forms to OSHA each year. All employers are required to report fatalities within eight hours and inpatient hospitalizations, amputations, and loss of an eye within 24 hours."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "0496B964-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand OSHA's recordkeeping requirements for occupational injuries and illnesses, including the use of Forms 301, 300, and 300A, and the reporting timelines for specific incidents.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "a587e614-9747-4ea3-8a6f-a43a068d70eb"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand OSHA's recordkeeping requirements for occupational injuries and illnesses, including the use of Forms 301, 300, and 300A, and the reporting timelines for specific incidents.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "a587e614-9747-4ea3-8a6f-a43a068d70eb"
+        }
+      ]
+    },
+    {
+      "title": "Did the Employee Experience an Injury or Illness?",
+      "section_id": "0199ffa1-1d1b-4bd9-8053-5bfe8bc4d8f6",
+      "learning_objects": [
+        {
+          "title": "Definition of an Injury or Illness",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The first question to answer is, did the employee experience an injury or illness? An injury or illness is defined as an abnormal condition or disorder. Injuries include cases such as, but not limited to, a cut, fracture, sprain, or amputation. Illnesses include both acute and chronic illnesses, such as, but not limited to, a skin disease, respiratory disorder, or poisoning. Subjective symptoms, such as aches and pains, can also be considered an injury or illness. If there is no injury or illness, the case does not need to be recorded. For example, exposures that do not result in signs or symptoms, are not considered an injury or illness and should, therefore, not be recorded. The existence of an injury or illness by itself does not make the case recordable. If an injury or illness is present, next determine if it is work-related."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "F8CB0EFA-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and define what constitutes a recordable workplace injury or illness according to OSHA standards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "4f3c9d64-8cef-4a66-8852-634ee9beb368"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and define what constitutes a recordable workplace injury or illness according to OSHA standards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "4f3c9d64-8cef-4a66-8852-634ee9beb368"
+        }
+      ]
+    },
+    {
+      "title": "Is the Injury or Illness Work-related?",
+      "section_id": "52a16d63-0293-456b-a28f-6ccb8f4b8a72",
+      "learning_objects": [
+        {
+          "title": "Determination of Work-relatedness",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "If it was determined that an employee suffered an injury or illness, ask, Is the injury or illness work-related? An injury or illness is work-related if an event or exposure in the work environment either caused or contributed to the resulting condition or significantly aggravated a pre-existing injury or illness. The work environment is defined as the establishment and other locations where one or more employees are working or present as a condition of employment. This includes physical locations and the equipment and materials used by the employee during their work. Company-owned parking lots and sidewalks are considered part of the facility for record-keeping purposes. According to OSHA, a pre-existing condition is any injury or illness resulting solely from a non-work-related event or exposure that occurred outside the work environment. A pre-existing injury or illness has been significantly aggravated when an event or exposure in the work environment results in one of the following, which otherwise would not have occurred. Death, loss of consciousness, medical treatment, or one or more days away from work, restricted work, or a job transfer."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FA1214DE-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify work-related injuries or illnesses and understand how pre-existing conditions can be significantly aggravated in the work environment according to OSHA guidelines.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d4f2fab1-b4e2-4896-996c-fbd32ff0de7c"
+          }
+        },
+        {
+          "title": "Work-related Exceptions",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "There are some exceptions, and not all events and exposures that occur in the work environment are considered work-related. You do not have to record if the injury or illness occurred when the employee was present in the work environment as a member of the general public rather than as an employee. For example, if the facility hosts a family day and the employee is injured while at the facility, it is not work-related. It involves signs or symptoms that surface at work but results solely from a non-work-related event or exposure that occurs outside the work environment, results solely from voluntary participation in a wellness program or in a medical, fitness, or recreational activity, is solely the result of an employee eating, drinking, or preparing food or drink for personal consumption, whether bought on the employer's premises. However, becoming ill by ingesting food contaminated by workplace contaminants or food poisoning from food supplied by the employer is considered work-related, is solely the result of an employee doing personal tasks, unrelated to their employment, at the establishment outside of the employee's assigned working hours, is solely the result of personal grooming, self-medication for a non-work-related condition. It is not work-related if the employee is ill or is intentionally self-inflicted, is caused by a motor vehicle accident and occurs in the facility parking lot or access road while the employee is commuting to or from work, is the common cold or flu note, contagious diseases such as tuberculosis, brucellosis, hepatitis A, or plague are considered work-related if the employee is infected at work, is a mental illness. Mental illness will not be considered work-related unless the employee voluntarily provides the employer with an opinion from a physician or other licensed health care professional with appropriate training and experience stating that the employee has a mental illness that is work-related."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FA7448C0-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and understand the exceptions to OSHA's work-related injury and illness recordkeeping requirements.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b4b8fbdf-117d-4f98-8a54-3430aa09f2a4"
+          }
+        },
+        {
+          "title": "Travel Rules",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "For traveling employees, injuries or illnesses occurring while the employee was engaged in work activities in the interest of the employer are considered work-related. Examples of such activities include travel to and from customer contacts, conducting job tasks, and entertaining or being entertained, provided the activities are at the direction of the employer. There are a couple of travel situations that are exceptions. When checked into a hotel, motel, or other temporary residence, an employee establishes a home away from home and is considered to have left the work environment. Also, injuries or illnesses that occur while commuting between the temporary residence and a fixed work site are not work-related. Finally, injuries or illnesses are not considered work-related if they occur on a personal side trip. OSHA record-keeping regulations only apply to United States operations. Thus, any injury or illness that occurs to a worker traveling outside the United States does not need to be recorded on the OSHA log."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FACFD186-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify work-related injuries for traveling employees and understand exceptions to OSHA recordkeeping requirements for international travel.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "106ec3b0-0783-4d7c-b0e3-9b84d2235746"
+          }
+        },
+        {
+          "title": "Working From Home Rules",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "For employees working from home, cases are considered work-related if the injury or illness occurs while the employee is performing work for pay or compensation in the home and the injury or illness is directly related to the performance of the work rather than the general home environment or setting. For example, an injury caused by lifting a box of work documents is considered work-related. However, being electrocuted by faulty home wiring is not work-related."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FB1410D0-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Distinguish between work-related and non-work-related injuries or illnesses for employees working from home, based on OSHA recordkeeping guidelines.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "e1be7410-3b6e-481f-ba2d-02ac94b11310"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify work-related injuries or illnesses and understand how pre-existing conditions can be significantly aggravated in the work environment according to OSHA guidelines.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d4f2fab1-b4e2-4896-996c-fbd32ff0de7c"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and understand the exceptions to OSHA's work-related injury and illness recordkeeping requirements.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b4b8fbdf-117d-4f98-8a54-3430aa09f2a4"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify work-related injuries for traveling employees and understand exceptions to OSHA recordkeeping requirements for international travel.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "106ec3b0-0783-4d7c-b0e3-9b84d2235746"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Distinguish between work-related and non-work-related injuries or illnesses for employees working from home, based on OSHA recordkeeping guidelines.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "e1be7410-3b6e-481f-ba2d-02ac94b11310"
+        }
+      ]
+    },
+    {
+      "title": "Is the Injury or Illness a New Case?",
+      "section_id": "ca39be98-3d54-4d11-885d-a383e0ae0711",
+      "learning_objects": [
+        {
+          "title": "Determining New Cases",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "If it is determined to be work-related, ask, Is the injury or illness a new case? For OSHA purposes, an injury or illness is a new case if The employee has not previously recorded an injury or illness of the same type that affects the same body part. Or The signs and symptoms had disappeared from a previous injury or illness, and an event or exposure in the work environment caused them to reappear. So, if an exposure triggers a recurrence, it is a new case. However, if signs and symptoms recur without exposure, it is not a new case. Some examples of chronic conditions that can recur without exposure may include silicosis, cancer, asbestosis, and tuberculosis. Employers are not required to seek medical advice from a licensed health care professional to determine if a case is a new case. However, if advice is sought, you must follow their recommendation. If you receive multiple recommendations, you must decide which recommendation is most authoritative and determine the case status based on that recommendation."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FBE5C5BC-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand how to determine if an injury or illness qualifies as a new case for OSHA recordkeeping purposes, including criteria for recurrences and the role of medical advice.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "fec880a5-0257-493e-ae32-ba58fae0fbb7"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand how to determine if an injury or illness qualifies as a new case for OSHA recordkeeping purposes, including criteria for recurrences and the role of medical advice.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "fec880a5-0257-493e-ae32-ba58fae0fbb7"
+        }
+      ]
+    },
+    {
+      "title": "Does the Injury or Illness Meet the General Recording Criteria?",
+      "section_id": "c4249b59-a4bd-4813-887a-65fae4bd6de0",
+      "learning_objects": [
+        {
+          "title": "General Recording Criteria",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The final step in determining whether a case is recordable is to ask, Does the injury or illness meet the general recording criteria or application to specific cases? We will address the first part of this question first. The six general recording criteria are Death Days away from work Days of restricted work or job transfer Medical treatment beyond first aid Loss of consciousness or Diagnosis by a physician or other licensed health care professional as a significant injury or illness, even if it does not result in one of the other five criteria. Cases that result in any of these scenarios must be recorded."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FCC3A238-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and apply the six general recording criteria used to determine if an injury or illness case is recordable under OSHA standards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0d297096-038d-44d3-abc5-81bb5179e2bf"
+          }
+        },
+        {
+          "title": "Days Away from Work",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Cases that result in an employee missing days of work are recordable. Record the total number of days away from work. When counting days, do not include the day of injury or illness. Count the number of calendar days the employee was unable to work, including weekend days, holidays, and vacation days. Stop the day count if the employee leaves the company for a reason unrelated to the injury or illness. Next, cap the day count at 180 days. If a medical opinion about days off and return to work exists, the employer must follow that opinion."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FD1EEE18-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and accurately record cases involving employee absences due to work-related injuries or illnesses, following specific guidelines for counting and capping days away from work.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d2142696-bfd1-4761-b02d-b9d11510f234"
+          }
+        },
+        {
+          "title": "Restricted Work and Job Transfers",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Restricted work activity exists if the employee is unable to work the full work day they would otherwise have been scheduled to work, or is unable to perform one or more routine job functions. An employee's routine job functions are those activities the employee regularly performs at least once per week. It is not recordable if the employee experiences minor musculoskeletal discomfort. A health care professional determines they can fully perform all their routine job functions, and the employer assigns a work restriction to prevent a more serious condition from developing. A job transfer means that an injured or ill employee is assigned to a job other than their regular job for part of the day. A case is recordable if the injured or ill employee performs their routine job duties for part of the day and is assigned to another job for the rest of the day. When counting days of restricted work or job transfer, do not include the day of injury or illness. If the restriction is limited to the day of the injury or illness, the case is not recordable."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FD6358BE-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the criteria for restricted work activity, job transfers, and recordable cases in OSHA recordkeeping, including how to count days and exceptions to recordability.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "11fd5627-96bd-4cf8-8f0f-b11894624f44"
+          }
+        },
+        {
+          "title": "Definition of Medical Treatment",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Medical treatment is the management and care of a patient to combat disease or disorder. Medical treatment does not include visits to a physician or other licensed health care professional solely for observation or counseling, diagnostic procedures, such as x-rays, blood tests, and prescription medications used solely for diagnostic purposes, or first aid."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FDC57602-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Define medical treatment in the context of OSHA recordkeeping and distinguish it from non-recordable healthcare activities.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "dacb05c4-63af-4a27-94ce-4d0ca123ff4a"
+          }
+        },
+        {
+          "title": "Definition of First Aid",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "First aid is medical attention for minor injuries and illnesses. It often consists of a one-time, short-term treatment and requires little technology or training to administer. The following treatments are considered first aid. Taking non-prescription medication at non-prescription strength. However, using non-prescription drugs at prescription strength is considered medical treatment. Tetanus immunizations, cleaning, flushing, or soaking surface wounds. Applying bandages, band-aids, gauze pads, butterfly bandages, or Steri-Strips, etc. Other wound-closing devices, such as sutures and staples, are considered medical treatment. Hot or cold therapy. Using non-rigid means of support, such as elastic bandages, wraps, and back belts. Devices with rigid stays or other means designed to immobilize parts of the body are considered medical treatment. Using temporary immobilization devices while transporting an accident victim. Splints, neck collars, backboards, etc. Drilling of fingernails or toenails to relieve pressure or drain fluid. Using an eye patch. Removing foreign bodies. Removing bodies from the eye using only irrigation or a cotton swab. Removing splinters or foreign material from areas other than the eye by irrigation. Tweezers, cotton swabs, or other simple means. Using finger guards. Massages. Physical therapy or chiropractic treatment are considered medical treatment. And drinking fluids for relief from heat stress. It does not matter who provides. The treatment, even if provided by a physician or other licensed health care professional, these treatments are considered first aid for OSHA record-keeping purposes. So they are not recordable."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FDF99EDC-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and distinguish between first aid treatments and medical treatments according to OSHA recordkeeping standards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "c2f8af0a-f8e9-4f7c-b903-4b4efae3a7c8"
+          }
+        },
+        {
+          "title": "Significant Diagnosed Injury or Illness",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Most significant injuries and illnesses will result in one of the general criteria. Death, days away from work, restricted work or job transfer, medical treatment beyond first aid, or loss of consciousness. However, there are some significant injuries and progressive illnesses that may not require medical treatment or work restrictions. Work-related cases that involve cancer, chronic irreversible disease, a fractured or cracked bone, or a punctured eardrum must always be recorded at the time of the initial diagnosis."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FE36A91C-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and understand the general criteria for recording significant work-related injuries and illnesses, including special cases that must always be recorded regardless of treatment or work restrictions.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "2abaaf22-66c9-4447-ae3c-ea56de5840f8"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and apply the six general recording criteria used to determine if an injury or illness case is recordable under OSHA standards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0d297096-038d-44d3-abc5-81bb5179e2bf"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and accurately record cases involving employee absences due to work-related injuries or illnesses, following specific guidelines for counting and capping days away from work.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d2142696-bfd1-4761-b02d-b9d11510f234"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the criteria for restricted work activity, job transfers, and recordable cases in OSHA recordkeeping, including how to count days and exceptions to recordability.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "11fd5627-96bd-4cf8-8f0f-b11894624f44"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Define medical treatment in the context of OSHA recordkeeping and distinguish it from non-recordable healthcare activities.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "dacb05c4-63af-4a27-94ce-4d0ca123ff4a"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and distinguish between first aid treatments and medical treatments according to OSHA recordkeeping standards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "c2f8af0a-f8e9-4f7c-b903-4b4efae3a7c8"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and understand the general criteria for recording significant work-related injuries and illnesses, including special cases that must always be recorded regardless of treatment or work restrictions.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "2abaaf22-66c9-4447-ae3c-ea56de5840f8"
+        }
+      ]
+    },
+    {
+      "title": "Does the Injury or Illness Meet the Application to Specific Cases?",
+      "section_id": "e573ae4e-1f97-46d8-a19d-aaabb5dd56cd",
+      "learning_objects": [
+        {
+          "title": "Additional Criteria",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In addition to the general recording criteria, you must determine if the recording criteria for specific cases apply. There are recording criteria for cases involving needle stick and sharps injuries, medical removal under OSHA standards, occupational hearing loss, and work-related tuberculosis."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FF0089B2-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and apply specific recording criteria for cases involving needle stick injuries, medical removal, occupational hearing loss, and work-related tuberculosis.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "c665c9de-493c-4524-95da-33da6b1eba2b"
+          }
+        },
+        {
+          "title": "Needlestick and Sharps Injuries",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Record all work-related needle sticks and cuts from sharp objects that are contaminated with another person's blood or other potentially infectious material, including bodily fluids, tissues and organs, and materials infected with HIV or hepatitis B virus, or HBV. Splashes or other exposures to blood or other potentially infectious material are recorded if they result in a diagnosis of a blood-borne disease or meet the general recording criteria."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FF31883C-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and record work-related incidents involving blood or other potentially infectious materials, including needle sticks, cuts, and splashes that meet OSHA's reporting criteria.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "a025d13a-68d5-495f-8775-fb61fe410403"
+          }
+        },
+        {
+          "title": "Medical Removal",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "If an employee is medically removed under the medical surveillance requirements of an OSHA standard, you must record the case. The case is recorded as one involving days away from work or days of restricted work activity. If the case involves voluntary removal below the removal levels required by the standard, the case does not need to be recorded."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FF6D8260-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Differentiate between mandatory and voluntary medical removals under OSHA standards and identify when these cases require recordkeeping.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "f10bc66c-5ada-4ce7-a76f-a305b812d7c1"
+          }
+        },
+        {
+          "title": "Hearing Loss",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "OSHA's Occupational Noise Standard requires employers to conduct periodic audiometric testing of employees whose noise exposures are equal to or exceed an 8-hour time-weighted average of 85 dBA. If an employee's hearing test, or audiogram, reveals that the employee experienced a change in hearing threshold of 10 decibels, or dB, averaged at 2,000, 3,000, and 4,000 Hz relative to the baseline audiogram, they have experienced a standard threshold shift. If there is a standard threshold shift in hearing in one or both ears, and the employee's total hearing level, is 25 decibels, or dB, or more above audiometric zero, averaged at 2,000, 3,000, and 4,000 Hz, in the same ear or ears as the standard threshold shift, the case must be recorded. Once a standard threshold shift has occurred, the employee's baseline audiogram should be revised to reflect the results of the current audiogram. Revisions are done on a per-ear basis. For example, if an employee suffers a standard threshold shift in only one ear, the baseline audiogram may only be revised for the affected ear, not both ears. An employee's hearing may be retested within 30 calendar days of the date the first test was administered. If the retest does not confirm the standard threshold shift, the case does not need to be recorded. If the retest confirms the standard threshold shift, and the standard threshold shift is work-related, the hearing loss must be recorded within seven calendar days of the retest. An employer may adjust for aging using the tables in the OSHA Hearing Conservation Standard to determine whether a standard threshold shift has occurred. However, an employer may not adjust for when determining if the hearing level is 25 dB or more above audiometric zero."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FFA083C2-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the criteria for recording a standard threshold shift in hearing and understand the process of revising baseline audiograms in occupational hearing tests.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b525c6a4-96f9-4059-9e2c-b91843cba3b7"
+          }
+        },
+        {
+          "title": "Tuberculosis",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "If an employee has been occupationally exposed to anyone with a known case of active tuberculosis, or TB, and that employee subsequently develops a TB infection, as evidenced by a positive skin test or diagnosis by a physician or other licensed health care professional, the case is considered work-related and must be recorded. A positive TB skin test on a pre-employment physical is not work-related and thus not recordable because the test result cannot be the result of an event or exposure in the current employer's work environment. If there is evidence that the case was not caused by an occupational exposure, it is not recordable. The following tuberculosis cases are not recordable. The worker is living in a household with a person who has been diagnosed with active TB. The public health department has identified the worker as a contact of an individual with a case of active TB unrelated to the workplace. Or, a medical investigation shows that the employee's infection was caused by exposure to TB away from work."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "FFDAB1D2-565E-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and differentiate between recordable and non-recordable cases of tuberculosis (TB) in the workplace according to OSHA guidelines.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "21f3efaf-e1db-4378-a13d-5f62a5884de1"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and apply specific recording criteria for cases involving needle stick injuries, medical removal, occupational hearing loss, and work-related tuberculosis.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "c665c9de-493c-4524-95da-33da6b1eba2b"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and record work-related incidents involving blood or other potentially infectious materials, including needle sticks, cuts, and splashes that meet OSHA's reporting criteria.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "a025d13a-68d5-495f-8775-fb61fe410403"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Differentiate between mandatory and voluntary medical removals under OSHA standards and identify when these cases require recordkeeping.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "f10bc66c-5ada-4ce7-a76f-a305b812d7c1"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the criteria for recording a standard threshold shift in hearing and understand the process of revising baseline audiograms in occupational hearing tests.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b525c6a4-96f9-4059-9e2c-b91843cba3b7"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and differentiate between recordable and non-recordable cases of tuberculosis (TB) in the workplace according to OSHA guidelines.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "21f3efaf-e1db-4378-a13d-5f62a5884de1"
+        }
+      ]
+    },
+    {
+      "title": "Recordkeeping Forms",
+      "section_id": "82b483b9-034e-4202-846d-d0af1f00fb2b",
+      "learning_objects": [
+        {
+          "title": "What to do if an Injury or Illness is Recordable",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "If an employer determines that an injury or illness is recordable, they must complete OSHA's Form 301, Injury and Illness Incident Report, or an equivalent form that includes the same information, and create an entry on OSHA's Form 300, Log of Work-Related Injuries and Illnesses. Forms 300 and 301 must be filled out within seven calendar days of receiving information that a recordable case occurred. Finally, at the start of a calendar year, the employer must use OSHA's Form 300A to summarize all the injuries and illnesses listed on Form 300 from the previous year."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "0099F042-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the required OSHA forms for recording workplace injuries and illnesses, and understand the timelines for completing and summarizing these forms.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "c2b44fb0-7c57-440b-a45a-4e57f2af7d4f"
+          }
+        },
+        {
+          "title": "OSHA Form 301",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "OSHA's Form 301, Injury and Illness Incident Report, must be filled out every time there's an injury or illness at a workplace. In some cases, OSHA will accept alternative forms, such as those used for state workers' compensation or insurance, as equivalent substitutes for Form 301. To be considered equivalent, the alternate form must include all of the information that's included on OSHA's Form 301. Since the form contains information relating to employee health, it must be kept confidential."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "00CF1D9E-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the requirements and confidentiality aspects of OSHA Form 301, including when it must be completed and acceptable alternative forms.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "e9bbfc56-9206-46ef-bc54-fcc7cc7de239"
+          }
+        },
+        {
+          "title": "OSHA Form 300",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The OSHA Form 300 is a log of work-related injuries or illnesses that have occurred during a specific year. The purpose of the log is to classify work-related injuries and illnesses and to note the extent and severity of each case. Form 300 should be updated whenever there's a new injury or illness. A new Form 300 must be created each calendar year. The log does not need to be posted. A separate log should be kept for each establishment. Injuries must be recorded at the facility where the employee's work hours are counted. If an employee experiences a recordable injury while traveling for work or visiting a different facility, the case is recorded for the injured employee's home facility."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "010B9026-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the purpose, usage, and key requirements of the OSHA Form 300 for logging work-related injuries and illnesses.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "63ca5a99-6729-4c40-ad9b-f7ecf5f33c97"
+          }
+        },
+        {
+          "title": "Privacy Protection",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "If an injury or illness is a Privacy Concern Case, do not enter the employee's name on the OSHA Form 300. Instead, enter Privacy Case in the Name column and keep a separate confidential list of the case numbers and employee names. Privacy Concern Cases include an injury or illness to an intimate body part or reproductive system, an injury or illness resulting from sexual assault, mental illness, HIV infection, hepatitis, or tuberculosis, needle stick and sharps injuries that are contaminated with another person's blood or other potentially infectious material, and cases where the employee voluntarily requests that their name not be entered on the log. The employer may use discretion in describing the case if the employee's name is not entered on the log. If the employee's name is not entered on the log, the employer may use discretion in describing the case if the employee's name is not entered on the log. If the employee's identity can be implied from the description, the rule only requires enough information to identify the cause and severity of the incident. Forms with personally identifying information should only be disclosed to auditors or consultants hired by the employer to evaluate the safety and health program, persons processing workers' compensation or other insurance benefit claims, and a public health authority or law. enforcement agency. If the forms are voluntarily provided to other persons, names and other personally identifying information must be removed."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "01567528-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and handle Privacy Concern Cases in OSHA Form 300, including appropriate documentation and disclosure practices.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "8ecb0ddb-a58c-4074-8267-ba519b4807ac"
+          }
+        },
+        {
+          "title": "OSHA Form 300A",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Form 300A is a summary of the work-related injuries and illnesses that occurred during the previous calendar year. Form 300A must be completed for each establishment every January. A company executive must certify that they have examined the OSHA 300 log and, to the best of their knowledge, the annual summary is correct and complete. The company executive must be the company owner, an officer of the corporation, or the highest-ranking company official at the establishment or their boss. By law, employees must be aware of the injuries and illnesses that occurred in their workplace. Therefore, Form 300A must be physically, not electronically, posted in a location visible to all employees by February 1, and it must remain. The form must remain posted until April 30 of that same year. The form must still be posted even if there were no injuries or illnesses in the previous year."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "01A0D654-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the requirements for completing and posting Form 300A, including its content, certification process, and posting timeline.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "467165a7-4089-4cbc-9bb5-5f40a8128ea9"
+          }
+        },
+        {
+          "title": "Retention and Updating",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The OSHA forms must be kept on file for five years following the year they cover. During this retention period, employers must update the log of work-related injuries and illnesses, Form 300, with any newly discovered cases or those with changes in status. However, Forms 300A and 301 do not need to be updated."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "01E1B548-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the retention period for OSHA forms and understand the requirements for updating Form 300 during this time.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "91b83653-0cfb-46c3-a3bd-352be48db5db"
+          }
+        },
+        {
+          "title": "Employee Records Requests",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Employees, former employees, their personal representatives, and their authorized employee representatives have the right to access the OSHA injury and illness records, with some limitations. A personal representative is any person that the employee or former employee designates as such in writing, or the legal representative of a deceased or legally incapacitated employee or former employee. An authorized employee representative is an authorized collective bargaining agent. When requested by any of the listed parties, employers must provide an OSHA 300 log by the end of the next business day. OSHA 301 incident reports must be provided to employees, former employees, or personal representatives by the end of the next business day. Authorized employee representatives are only entitled to the section of the report titled, Information About the Case. Employers have seven calendar days to provide the forms, with all other information removed."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "021C2318-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the rights of employees and authorized representatives to access OSHA injury and illness records, and recognize the employer's obligations in providing these records within specified timeframes.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "5b10c6c1-b59a-4757-a8ae-a1f5bc90d018"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the required OSHA forms for recording workplace injuries and illnesses, and understand the timelines for completing and summarizing these forms.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "c2b44fb0-7c57-440b-a45a-4e57f2af7d4f"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the requirements and confidentiality aspects of OSHA Form 301, including when it must be completed and acceptable alternative forms.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "e9bbfc56-9206-46ef-bc54-fcc7cc7de239"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the purpose, usage, and key requirements of the OSHA Form 300 for logging work-related injuries and illnesses.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "63ca5a99-6729-4c40-ad9b-f7ecf5f33c97"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and handle Privacy Concern Cases in OSHA Form 300, including appropriate documentation and disclosure practices.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "8ecb0ddb-a58c-4074-8267-ba519b4807ac"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the requirements for completing and posting Form 300A, including its content, certification process, and posting timeline.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "467165a7-4089-4cbc-9bb5-5f40a8128ea9"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the retention period for OSHA forms and understand the requirements for updating Form 300 during this time.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "91b83653-0cfb-46c3-a3bd-352be48db5db"
+        },
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the rights of employees and authorized representatives to access OSHA injury and illness records, and recognize the employer's obligations in providing these records within specified timeframes.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "5b10c6c1-b59a-4757-a8ae-a1f5bc90d018"
+        }
+      ]
+    },
+    {
+      "title": "Electronic Submission of Injury and Illness Records",
+      "section_id": "14ec8db3-87e4-441a-adf6-bca2a910dc73",
+      "learning_objects": [
+        {
+          "title": "Electronic Submission",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In addition to posting at each establishment, many, but not all, employers must electronically report information from the OSHA record-keeping forms to OSHA. There are two categories of employers, based on the establishment’s size and industry, that are required to submit information. These categories and requirements are: 1. Establishments with 250 or more employees at any time during the previous calendar year are required to submit information from Form 300A once a year. 2. Establishments with 20 to 249 employees that are classified in an industry listed in Appendix A to Subpart E of Part 1904 are required to submit information from Form 300A once a year. Each individual employed at any time during the year counts as one employee, including full-time, part-time, seasonal, and temporary workers. OSHA provides a website called the Injury Tracking Application, or ITA, where employers can determine if an establishment is required to report electronically and, if so, submit their data. The submission deadline is March 2."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "02FDF7FC-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the categories of employers required to electronically report OSHA recordkeeping information and understand the submission process using the Injury Tracking Application.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "f477435e-19a8-4eb8-982c-628bd0f19133"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the categories of employers required to electronically report OSHA recordkeeping information and understand the submission process using the Injury Tracking Application.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "f477435e-19a8-4eb8-982c-628bd0f19133"
+        }
+      ]
+    },
+    {
+      "title": "Reporting Fatalities and Serious Injuries",
+      "section_id": "13aff8d7-ed1f-4dc2-8bbc-5643bf6cc7eb",
+      "learning_objects": [
+        {
+          "title": "Reporting Fatalities and Serious Injuries",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "All employers, even those exempt from maintaining injury and illness records due to size or industry, must comply with the following reporting requirements for work-related fatalities and certain types of serious injuries. Work-related fatalities must be reported to OSHA within 8 hours. Inpatient hospitalizations, amputations, and loss of an eye must be reported within 24 hours. Reporting can be done by calling or going in person to the OSHA area office nearest the incident, by calling OSHA's central telephone number, or by using the reporting application on OSHA's website. The following information must be reported. Establishment name, location of the incident, time of the incident, type of event, fatality, inpatient hospitalization, amputation, or loss of an eye. Brief description of the incident, number of employees affected and their names, and contact person and their phone number."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "03AE9B0C-565F-11EF-8ECB-CEA7C68A4852",
+          "learning_objective": {
+            "topic": "Safety Management: OSHA Recordkeeping",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand and identify OSHA's reporting requirements for work-related fatalities and serious injuries, including timeframes, reporting methods, and necessary information to be provided.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "4eb14f22-7514-424b-b6bd-7035a03c497b"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Safety Management: OSHA Recordkeeping",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand and identify OSHA's reporting requirements for work-related fatalities and serious injuries, including timeframes, reporting methods, and necessary information to be provided.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "4eb14f22-7514-424b-b6bd-7035a03c497b"
+        }
+      ]
+    }
+  ],
+  "course_id": "DDFA0036-766A-11EB-9C91-702A67F96AF6",
+  "description": "In the workplace, employees may be confronted with a variety of injury and illness cases. When these occur, employees will need to determine or help determine whether or not a case should be recorded on the OSHA 300 Log for their facility. Injury records are kept to help analyze injury causes, identify potential trends, and prevent future occurrences. Failure to properly record an injury or illness may also result in an OSHA violation and citation. Thus, it is extremely important to know and understand the OSHA rules and requirements for recording an injury or illness. This course will review the criteria for recording injuries and illnesses for OSHA purposes.",
+  "revision_id": "F636CA08-565E-11EF-8ECB-CEA7C68A4852",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 2300.8280000000004
+}

@@ -1,0 +1,885 @@
+{
+  "sku": "AHHRM00CEN",
+  "goal": "Develop comprehensive skills and knowledge to effectively implement and manage routine maintenance programs for hydraulic systems, ensuring optimal performance, safety, and longevity of equipment.",
+  "title": "Hydraulics: Routine Maintenance - Full Course",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "12ab5a09-f2e3-44eb-89c7-d24bc6ab342d",
+      "learning_objects": [
+        {
+          "title": "Course Overview",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The goal of a preventive maintenance program is to keep a system operating in the most cost-effective, trouble-free manner. A hydraulic system that is thoroughly inspected and serviced at appropriate intervals will be more likely to perform at the desired pressure and speed with minimal downtime. In this unit, we'll see general recommendations for establishing a routine maintenance program, and we'll see how to perform system inspections and component maintenance."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "233F3E92-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of a preventive maintenance program for hydraulic systems and learn how to establish and implement routine maintenance procedures for optimal system performance.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "fe1e5140-edd8-4665-8159-b446301fca75"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of a preventive maintenance program for hydraulic systems and learn how to establish and implement routine maintenance procedures for optimal system performance.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "fe1e5140-edd8-4665-8159-b446301fca75"
+        }
+      ]
+    },
+    {
+      "title": "Topic I: General Recommendations",
+      "section_id": "4b890219-7100-40c9-8cd1-e92ec9c660d3",
+      "learning_objects": [
+        {
+          "title": "Topic I: General Recommendations",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this topic, we'll see the steps involved in establishing a routine maintenance program, and we'll examine safety precautions associated with hydraulic maintenance procedures. These are the learning objectives for this topic."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "238EAE50-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the steps for establishing a routine hydraulic maintenance program and identify safety precautions for hydraulic maintenance procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "210eee14-4b9b-451e-8843-9dc4a8c2d60f"
+          }
+        },
+        {
+          "title": "Establishing a Program: Introduction",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this part, we'll see what routine maintenance is, and we'll look at four basic steps for establishing a routine maintenance program for your hydraulic systems. Two types of maintenance are routine maintenance and repair maintenance. Routine maintenance is a set of scheduled tasks that are performed on a regular basis to prevent repair maintenance. Routine maintenance tasks generally include checking the system's operating condition, examining the operation of individual components, and adjusting, cleaning, and replacing certain components. The purpose of performing these tasks is to minimize costly repairs and downtime. We'll examine four basic steps in establishing a routine maintenance program. They are establishing a maintenance schedule, developing a maintenance log, making system diagrams, making programs accessible to maintenance personnel, and keeping parts and supplies clean and organized."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "23B2716E-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the concept of routine maintenance for hydraulic systems and identify the four basic steps for establishing a routine maintenance program.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "94e6c600-b751-4f9b-bb59-85c81b84b0ab"
+          }
+        },
+        {
+          "title": "Establishing a Program: Routine Maintenance",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Setting up the maintenance schedule includes establishing what tasks will be performed and how often they will be done. When you're establishing a routine maintenance schedule, the place to start is the manufacturer's documentation. Manuals provide a list of tasks that need to be performed to keep the components in a system operating effectively. The manufacturer's documentation can also help you determine how often each task should be performed. Some tasks have to be done on a daily basis. Others are performed weekly, monthly, quarterly, or yearly. The frequency of the tasks on your list will depend on the size and type of system, the system's hours of usage, and the system's application. The maintenance schedule should be established according to manufacturer's recommendations with your facility's needs in mind. Once the maintenance schedule has been established, a maintenance log should be developed. While a maintenance log has many possibilities, its main purposes are to allow personnel to check off tasks that have been performed and to provide a place for documenting any unusual conditions that are discovered during inspections. This information then becomes a maintenance record for future reference. As unusual conditions are discovered, personnel may have to troubleshoot the system to determine the source of a problem. To assist in this process, it's a good idea to have circuit drawings and component descriptions available near the system. In some facilities, each person who performs work on equipment has his or her own copy of circuit drawings. Another important step in establishing a maintenance program is keeping replacement parts and supplies clean and organized. These items should be stored in a logical order with clear labels so that they can be accessed quickly and easily. The storage area should also be cleaned to prevent the contamination of parts and supplies. Equipment Emilio Smart Maximum capacity for 1 to 8 units Maximum capacity for 1 to 8 units Maximum capacity for 1 to 8 units"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "23D3409C-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the key components of establishing a routine maintenance schedule for hydraulic systems, including task identification, frequency determination, and maintenance log development.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "fc6b2a26-5983-4da3-9b1e-0b0b1c808174"
+          }
+        },
+        {
+          "title": "Safety Guidelines",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this part, we'll take a look at safety guidelines that are associated with routine maintenance tests. We'll examine personal protective equipment and clothing, and safe practices for working around moving parts. We'll also see a procedure for cleaning up a hydraulic fluid spill, and a procedure for locking out and tagging out a system that's been shut down for maintenance. While safety procedures may vary slightly from facility to facility, there are some general guidelines that apply to most situations. We'll begin by taking a look at appropriate personal protective equipment and clothing. A hard hat, of course, is essential for avoiding head injuries. Earplugs are vital for protecting you from hearing damage while you're working around operating machinery. Since you'll be close to the machinery when you make external inspections, your shirt sleeves should cover your skin to protect you from contact with hot components. And when it's time to go out, gloves should be worn to protect your hands from a variety of hazards. Some tasks must be performed without gloves. For instance, a mechanic may have to put his or her hand near a component to check for concentrated areas of heat. Since gloves can make it difficult to detect these hot spots, this task should be done without gloves. When performing tasks without gloves, you should exercise extra caution. For example, when feeling for hot spots, you should start with your hand some distance away from the area to be felt, then gradually move it closer to avoid getting burned. Your hand should approach the equipment as if you're expecting it to be very hot. When you're working close to hydraulic equipment, your shirt tail should be tucked in at all times, and you should avoid loose-fitting clothing. This is a safeguard against clothing getting caught on a component. This metal cover is called a coupling guard. The coupling guard is a protective piece of clothing that protects your hands from getting caught on a component. This metal cover is called a coupling guard. The coupling guard is in place to protect personnel from injuries that could result from working around the rotating coupling between the pump and the motor. The Occupational Safety and Health Administration, or OSHA, requires that couplings be covered with a guard that is bolted down. It's a good idea to check the guard periodically to ensure that it's in place and securely bolted. The coupling guard is a protective piece of clothing that protects your hands from getting caught on a component."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "24832430-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and apply safety guidelines for routine hydraulic maintenance, including proper use of personal protective equipment and safe practices around moving parts.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "590d7e36-17ac-4c2a-a660-20bc6850b1b4"
+          }
+        },
+        {
+          "title": "Safety: Fluid Spills",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Occasionally, hydraulic fluid may get on the floor as the result of a leak or a spill. This is a dangerous situation because of the potential for fire and because of the risk of personnel slipping and falling. Therefore, any hydraulic fluid that is on the floor, or anywhere else that it shouldn't be, should be cleaned up immediately. There are several methods for cleaning up a hydraulic fluid spill. One method is to use an absorbent material. A liberal amount of the material is sprinkled on the spill. After it has absorbed the hydraulic fluid, the material is swept into a pile with a squeegee. The squeegee is an effective tool for this because of the firm contact it makes with the floor's surface. The pile can then be shoveled into a container. Any excess material that remains should be wiped up with rags. The rags and the waste material should then be disposed of according to your facility's procedures. This is what happens when a waste material comes out of the sieve. This will go through an empty cylinder. This is how it works. It runs the filter. It runs the filter. It runs the filter. It runs the filter. It runs the filter."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "24ADE9CC-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of promptly cleaning up hydraulic fluid spills and learn the proper methods for safely handling and disposing of such spills.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "43937d09-d8c8-4b9d-b082-a94cf40550cd"
+          }
+        },
+        {
+          "title": "Safety Lockout / Tag Out Procedures",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Some maintenance tasks must be done while the system is not operating. When a system is shut down for maintenance, it's important that all of your facility's lockout and tagout procedures are followed closely. Lockout and tagout generally include securing all sources of energy and tagging the system as out of service. In the example system, the source of energy is in a motor starter cabinet. The example facility requires that the motor starter cabinet be locked. Here, an electrician puts his lock on the cabinet, as well as the mechanic's personal lock. Preventing access to the system's energy source prevents physical injury or death that could result from the system being accidentally started while it's being worked on. The electrician also enters information on a tag, including the date and time of the shutdown. When all the information is entered, the stub is removed and given to the mechanic. The stub is the mechanic's contract. The mechanic's contract is a confirmation that the cabinet was properly locked and tagged. Your facility's lockout and tagout procedures may include additional steps. Be sure to follow your facility's procedures carefully."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "24D0F0FC-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand and follow facility-specific lockout and tagout procedures for hydraulic system maintenance, including securing energy sources and proper documentation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "26ae6ec1-588e-4fb8-962e-9bfe5634240b"
+          }
+        },
+        {
+          "title": "Topic I: Summary",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this topic, we saw some general steps in establishing a routine maintenance program, as well as some safety guidelines associated with performing routine maintenance. Now try some practice questions on this information."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "251A5EEA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify general steps for establishing a routine hydraulic maintenance program and recognize associated safety guidelines.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "efe5ecd7-dd7b-4886-b3dc-d579cf222472"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the steps for establishing a routine hydraulic maintenance program and identify safety precautions for hydraulic maintenance procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "210eee14-4b9b-451e-8843-9dc4a8c2d60f"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the concept of routine maintenance for hydraulic systems and identify the four basic steps for establishing a routine maintenance program.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "94e6c600-b751-4f9b-bb59-85c81b84b0ab"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the key components of establishing a routine maintenance schedule for hydraulic systems, including task identification, frequency determination, and maintenance log development.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "fc6b2a26-5983-4da3-9b1e-0b0b1c808174"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and apply safety guidelines for routine hydraulic maintenance, including proper use of personal protective equipment and safe practices around moving parts.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "590d7e36-17ac-4c2a-a660-20bc6850b1b4"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of promptly cleaning up hydraulic fluid spills and learn the proper methods for safely handling and disposing of such spills.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "43937d09-d8c8-4b9d-b082-a94cf40550cd"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand and follow facility-specific lockout and tagout procedures for hydraulic system maintenance, including securing energy sources and proper documentation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "26ae6ec1-588e-4fb8-962e-9bfe5634240b"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify general steps for establishing a routine hydraulic maintenance program and recognize associated safety guidelines.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "efe5ecd7-dd7b-4886-b3dc-d579cf222472"
+        }
+      ]
+    },
+    {
+      "title": "Topic II: System Inspections",
+      "section_id": "0842e96a-1d1d-4f64-a5fb-90463db4b557",
+      "learning_objects": [
+        {
+          "title": "Topic II: System Inspections",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this topic, we'll go over system inspections that are performed as part of routine maintenance, including visual inspections and other external inspections. These are the learning objectives for this topic."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2593E1FC-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand and perform visual and external inspections as part of routine hydraulic system maintenance.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "821bd30e-e3a2-4c2b-93ba-fd285d4428d9"
+          }
+        },
+        {
+          "title": "Visual Inspections Gauges: Introduction",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Part of routine maintenance is observing the system to see if it's operating normally. The purpose of this observation is to detect problems before they cause serious damage or hinder the performance of the machinery. In this part, we'll see what can be revealed by a visual inspection. Hydraulic systems are equipped with gauges, sight glasses, and filter indicators that can provide very useful information to maintenance personnel."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "25B4DCE0-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify key components and indicators for visual inspection in hydraulic systems, and explain their importance in detecting potential issues during routine maintenance.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "6b011d40-4155-4677-b4d2-e0fc272fc3d7"
+          }
+        },
+        {
+          "title": "Visual Inspection: Gauges",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "One type of gauge that is typically found on a system is a pressure gauge. Problems can be detected by comparing the pressure gauge readings with previous readings. Abnormal pressure can prevent the system from performing its intended function properly or cause harm to personnel and machinery. Another gauge found on some hydraulic systems is a flow rate gauge. The flow rate gauge can help personnel determine if the pump and the flow control valves are working properly. If the flow rate is not at the desired level, the system could be prevented from performing its intended function properly."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "25D51B68-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and interpret common hydraulic system gauges, such as pressure and flow rate gauges, to detect problems and ensure proper system function.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0bd36a6e-0dde-47ee-8544-70110f5a97d3"
+          }
+        },
+        {
+          "title": "Visual Inspections: Sight Glasses",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "A sight glass on the side of the reservoir indicates how much hydraulic fluid is in the reservoir. Sometimes, manufacturers do not provide a line on the sight glass to indicate the normal level. In such instances, when the reservoir is filled, a line is drawn on or next to the sight glass to indicate the normal level. A below normal level of hydraulic fluid could mean that there's a fluid leak in the system. A low level of hydraulic fluid in the reservoir could cause serious damage to the pump and hinder system operation. In some cases, the sight glass is also equipped with a thermometer. The thermometer indicates the system's operating temperature. A higher than normal temperature can cause a breakdown of lubricating oil, which can lead to serious damage in the pump and the motor. Improper temperatures can also change system operating conditions by changing clearances in the system. In addition, fluid at an abnormal temperature can affect the system's pressure and flow rate. In addition, fluid at an abnormal temperature can affect the system's pressure and flow rate."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "25F314F6-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the purpose and importance of sight glasses in hydraulic systems, including their role in monitoring fluid levels and temperature for optimal system performance and prevention of damage.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "2960739a-242c-4184-a65d-9b0dfca60bcd"
+          }
+        },
+        {
+          "title": "Visual Inspections: Filter Indicators",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The condition of filters and strainers should also be checked during a visual inspection. Some filtering devices are equipped with an indicator that changes colors as the filter element becomes clogged. The indicator on this strainer is green when fluid is passing through the device normally, and red when there is a severe clog. This is an example of another type of indicator. It has printed descriptions of the filter element's possible conditions, along with a pointing device that changes position depending on the filter element's current condition."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "261FC8B6-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and interpret visual indicators for filter and strainer conditions during hydraulic system inspections.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "03d01336-1781-4ec3-8cb1-16e6a11c2c40"
+          }
+        },
+        {
+          "title": "Visual Inspection: Chafing and Shocks",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Fluid lines should also be visually inspected. By looking at hoses and pipes, personnel can detect chafing, unusual shocks, or leaks. Chafing is a condition that occurs when hoses rub against each other or against other components. This can happen if hoses aren't properly supported or if there's excessive vibration. In addition, chafing causes hoses to wear and, if not corrected, it could cause a hose to leak or even rupture. A shock is a sudden excessive movement of a fluid line. It can occur when bursts of hydraulic fluid pass through a pipe or hose. While some movement is normal, excessive movement can indicate a problem. One cause of this problem is abrupt valve movement. If the problem goes uncorrected, the pipes or hoses may break. And the pump can be damaged."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "26475908-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and understand common issues in hydraulic fluid lines, including chafing, shocks, and leaks, and their potential consequences if left uncorrected.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "4bbb9087-39ac-41b8-a6aa-292105959478"
+          }
+        },
+        {
+          "title": "Visual Inspections: Leaks",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "It's also important that personnel look for fluid leaks during a visual inspection. Leaks are commonly found at connections, in actuators, and valves. Leaks can occur in an actuator if there is a bad seal or if the cylinder is worn. Hoses may leak if they're worn or improperly connected. Improper connections can be the result of under-tightening, over-tightening, or excessive vibration or shocks that occur in the system. Valve leaks are frequently caused by solid particles that plug openings and wear away mating surfaces. Any leaks that are detected should be fixed immediately. A leak that is not fixed can cause the fluid in the reservoir to drop below the normal level. To operate properly, the pump requires a certain amount of fluid to be in the reservoir. If the fluid is below the minimum level required by the pump, the pump can starve. The pump is starved. When it doesn't get enough hydraulic fluid, this condition can cause serious damage to the pump. A low level of hydraulic fluid can also cause the system to waste energy as it works harder to meet the demands of the machinery that it's controlling. Any fluid that has leaked out of the system should be cleaned immediately to avoid the potential for fire and other hazards. The spillage should be removed and disposed of according to your facility's safety procedures. As you perform inspections, it's important to document any unusual conditions that you observe and follow troubleshooting steps to determine the cause of the problem. Once the source of a problem is pinpointed, the malfunctioning component should be scheduled for service or replacement."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2671141E-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify common sources of hydraulic fluid leaks, understand their consequences, and recognize the importance of prompt leak detection and repair.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "f94b14b0-e68b-4066-ad56-b835c786a42a"
+          }
+        },
+        {
+          "title": "Other External Inspections Unusual Sounds: Introduction",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Part of maintaining a hydraulic system is observing the system to see if it's operating normally. The purpose of this observation is to detect problems before they cause serious damage or hinder the performance of the machinery. When components are not operating properly or are beginning to fail, they sometimes make unusual sounds."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "26B8CF98-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and interpret unusual sounds in hydraulic systems to detect potential problems and prevent serious damage or performance issues.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "a3efe0b9-68e2-4774-bd1d-3567f2e1039e"
+          }
+        },
+        {
+          "title": "Other External Inspections: Unusual Sounds",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Sounds that are indicative of trouble are not always obvious. While some can be heard in passing, others can only be detected with sound-enhancing devices. One such device is a sounding rod. The sounding rod is placed in locations where component failures occur most frequently. Grinding, thumping, and whistling are examples of sounds that a malfunctioning component may make. Bearings on pumps and electric motors are examples of components that make unusual sounds when they're failing. A worn bearing may make a thumping, screeching, or grinding noise. Another condition that can cause a pump to make an unusual sound is cavitation. Cavitation occurs when vapor bubbles form and collapse in the fluid that flows through the pump. As a result, the internal parts of the pump become pocked and pitted. In positive displacement pumps, which are frequently found on hydraulic systems, cavitation can cause immediate pump failure. This sound may or may not be detected with a sound-enhancing device, depending on the severity of the condition. Relief valves sometimes make a whistling sound when they're malfunctioning. Relief valves usually have a disc or some other movable element inside that moves up and down in response to pressure changes. Dirt and other solid particles can cause a sound-enhancing sound. This can enter the valve and cause the disc to stick or fail to open and close properly. As you become more experienced in inspecting hydraulic systems, you'll know where unusual sounds are most likely to be heard on your systems, and you will become more skilled in identifying unusual sounds and their causes."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "26E300F6-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and interpret unusual sounds in hydraulic systems using sound-enhancing devices, and recognize common component failures associated with specific noises.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "a5ba02f5-a982-460d-813e-479452e1477c"
+          }
+        },
+        {
+          "title": "Other External Inspections: Hot Spots",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Hot spots are small, concentrated areas of heat that are found on malfunctioning or failing components. Hot spots can be found almost anywhere in a hydraulic system. But some components in which they typically occur include electric motors, pumps, valves, and fluid lines. Hot spots can be detected by special equipment that is designed for this task, or by placing your hand on or near a component. If you're going to check for hot spots by touch, you'll probably need to do this without gloves on. To avoid getting burned, start with your hand away from the component, then gradually move it closer. Only put your hand as close as necessary to pinpoint the source of the abnormal heat. Test equipment can also be used to detect hot spots. One such device is an infrared heat tracer. The heat tracer is aimed at a target component. When the trigger is pulled, a targeting light is visible on the component. A sensor measures the radiation of the targeted location and translates the measurement into degrees. The temperature reading appears on an LCD display. The heat tracer is just one example of a heat sensing device. While hot spots generally don't cause any problems directly, they should be noted as a symptom of a problem somewhere in the system."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "270D969A-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify common locations of hot spots in hydraulic systems and understand methods for detecting them, including manual inspection and the use of specialized equipment like infrared heat tracers.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "365a0809-c61a-41ea-9137-276285325488"
+          }
+        },
+        {
+          "title": "Other External Inspections: Excessive Vibration",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Another part of external inspections is a check for vibration. While some amount of vibration is normal, excessive vibration is not. There are many causes of this condition, like a loose fitting, a malfunctioning valve, or a clogged filter element, for example. Excessive vibration can cause such problems as misalignment and chafing, which can lead to serious component damage or leaks. As you become familiar with the system, you'll be better able to tell the difference between excessive vibration and normal vibration. As you perform these external inspections, it's important to document any unusual conditions that you observe and follow troubleshooting steps to determine the cause of the problem. Once the source of a problem is pinpointed, the malfunctioning component should be scheduled for service or replacement."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "27376254-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify signs of excessive vibration in hydraulic systems and understand its potential causes and consequences.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "1edf8c7d-93cc-4860-a097-f07b2e4ae47e"
+          }
+        },
+        {
+          "title": "Topic II: Summary",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this topic, we saw how to detect problems in a hydraulic system through visual inspections and other external inspections. Now is a good time to try some practice questions on this material."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "277DE832-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and perform visual and external inspections to detect problems in hydraulic systems.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "45e40239-7229-455f-8235-4b597ebf3c54"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand and perform visual and external inspections as part of routine hydraulic system maintenance.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "821bd30e-e3a2-4c2b-93ba-fd285d4428d9"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify key components and indicators for visual inspection in hydraulic systems, and explain their importance in detecting potential issues during routine maintenance.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "6b011d40-4155-4677-b4d2-e0fc272fc3d7"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and interpret common hydraulic system gauges, such as pressure and flow rate gauges, to detect problems and ensure proper system function.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0bd36a6e-0dde-47ee-8544-70110f5a97d3"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the purpose and importance of sight glasses in hydraulic systems, including their role in monitoring fluid levels and temperature for optimal system performance and prevention of damage.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "2960739a-242c-4184-a65d-9b0dfca60bcd"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and interpret visual indicators for filter and strainer conditions during hydraulic system inspections.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "03d01336-1781-4ec3-8cb1-16e6a11c2c40"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and understand common issues in hydraulic fluid lines, including chafing, shocks, and leaks, and their potential consequences if left uncorrected.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "4bbb9087-39ac-41b8-a6aa-292105959478"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify common sources of hydraulic fluid leaks, understand their consequences, and recognize the importance of prompt leak detection and repair.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "f94b14b0-e68b-4066-ad56-b835c786a42a"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and interpret unusual sounds in hydraulic systems to detect potential problems and prevent serious damage or performance issues.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "a3efe0b9-68e2-4774-bd1d-3567f2e1039e"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and interpret unusual sounds in hydraulic systems using sound-enhancing devices, and recognize common component failures associated with specific noises.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "a5ba02f5-a982-460d-813e-479452e1477c"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify common locations of hot spots in hydraulic systems and understand methods for detecting them, including manual inspection and the use of specialized equipment like infrared heat tracers.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "365a0809-c61a-41ea-9137-276285325488"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify signs of excessive vibration in hydraulic systems and understand its potential causes and consequences.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "1edf8c7d-93cc-4860-a097-f07b2e4ae47e"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and perform visual and external inspections to detect problems in hydraulic systems.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "45e40239-7229-455f-8235-4b597ebf3c54"
+        }
+      ]
+    },
+    {
+      "title": "Topic III: Component Maintenance",
+      "section_id": "7a0b8ed0-eb4b-4076-8863-51b98cf6015c",
+      "learning_objects": [
+        {
+          "title": "Topic III: Component Maintenance",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this topic, we'll see procedures that are performed to maintain hydraulic fluid, reservoirs, filtering devices, accumulators, and heat exchangers. These are the learning objectives for this topic."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "27CBFA7C-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and perform routine maintenance procedures for key hydraulic system components, including fluid, reservoirs, filters, accumulators, and heat exchangers.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "6afabc3c-4f7e-450b-bb50-c10a4b087e3b"
+          }
+        },
+        {
+          "title": "Fluid and Reservoir: Fluid",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this part, we'll look at procedures that are performed to maintain hydraulic fluid, filtering devices, and reservoirs. Hydraulic fluid that is clean allows components to move freely and to operate smoothly. However, fluid that is contaminated causes the system to work harder, causes components to fail, and prevents the system from performing its intended function properly. For example, when dirt and other contaminants get into the system, they can cause sticking and erosion of internal components. Routine maintenance includes periodically checking the condition of hydraulic fluid. To check the condition of fluid, a sample should be taken from the reservoir. Where the sample is taken from depends on the design of the reservoir. This reservoir has a drain on the front. To take a sample, the mechanic first removes a plug. With the plug removed, he turns a shut-off valve. As the valve is opened, fluid begins to drain into the container. The quality of the fluid is generally checked by sending the sample to a lab for analysis. The lab tests will reveal any liquid contaminants or solid contaminants that are in the fluid. Water is one liquid contaminant that can get into hydraulic fluid. While water is a component of some fire-resistant fluids, water that gets into a hydraulic system accidentally can be harmful to the system. When water combines with hydraulic fluid, the resulting mixture tends to collect contaminants and cause components to stick. Unwanted water can also inhibit the hydraulic fluid's ability to lubricate. Dirt particles and pieces of lint are two examples of solid contaminants that can get into the fluid. Solid contaminants can get into the system in a number of ways. For example, they can come from corrosion within the system. They can enter the system during reservoir filling. And they can be left in the reservoir after it has been cleaned."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "27F79560-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of clean hydraulic fluid and identify common contaminants that can affect system performance and component longevity.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "2e626509-b266-47ec-b9e0-3093db140b02"
+          }
+        },
+        {
+          "title": "Fluid and Reservoir: Strainers and Filters",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Strainers and filters are devices that are installed in many locations throughout a hydraulic system to block harmful particles from entering certain parts of the system. Filters and strainers usually consist of a filter element, which contains a filter medium. The filter medium is the material, such as steel or fabric, that actually does the filtering. The element is enclosed by a housing. Filter elements are constructed in a wide variety of shapes, sizes, and media. The various media provide different degrees of filtration. Regardless of the material, filter media are designed basically to allow fluid to pass through, while at the same time blocking solid particles. Because the particles that are blocked remain in the filter medium, the medium eventually becomes clogged and no longer allows fluid to pass through at the intended rate. This can cause pump damage, a loss of pressure in the system, and strain on components. Such as valves and actuators. To prevent such problems, filter elements must be cleaned or replaced at appropriate intervals. Let's take a look at how to remove a strainer and how to remove a filter. We'll demonstrate the strainer removal on this offline system that's located in a classroom. While some strainers are installed inside the reservoir, this one is installed on the outside. This particular strainer is a suction strainer. Its job is to remove solid particles from hydraulic fluid before the particles reach the pump. The filter element is accessed by removing the cover of the housing. To remove the cover, the bolts that hold it in place are loosened in a crossing pattern. A spring inside the housing pushes outward on the cover. To prevent the cover from flying off as the bolts are removed, it's important to maintain pressure on the cover. With the cover removed, the filter element can be lifted out of the housing along with a spring that spirals around it. The element is separated from the spring, then inspected for excessive dirt and clogs. With the element removed, the manufacturer's recommendations for cleaning or replacement are followed. Breather filters remove contaminants from air. The breather assembly is located on an air vent on the reservoir. The vent allows air to pass into or out of the reservoir. creating pressure in the reservoir. This pressure prevents the creation of a vacuum in the reservoir that can lead to reservoir and pump damage. Eventually, the breather's filter element becomes clogged with dirt and must be cleaned or replaced. On this system, the element is accessed by removing a screw from a vented breather cap, then lifting the cap off."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "28453FAE-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the purpose and maintenance of strainers and filters in hydraulic systems, including how to remove and inspect filter elements.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "f91533ea-6bf8-4dc6-b7b0-93100d9b4e90"
+          }
+        },
+        {
+          "title": "Fluid and Reservoir: Reservoirs",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Some of the contaminants in a hydraulic system do not get caught in filters and strainers, but instead collect on the bottom of the reservoir. Dirt in the reservoir can be picked up by the suction of the pump or clog the strainer. Additionally, contaminants that collect in the reservoir can cause erosion in the reservoir. Cleaning the reservoir on a regular basis can help prevent this type of damage. We'll demonstrate a cleaning procedure on this reservoir, which has been removed from the system and placed in a classroom. With the reservoir drained, this end plate, which is commonly called a clean-out plate, can be removed. On this system, the first step is to take out the large bolt that holds the clean-out plate in place. The plate can then be pulled off so that the inside of the reservoir can be accessed. One way to clean the reservoir is with a metal scraper. The metal scraper is a tool that is used to pull the sludge to the front of the reservoir. Once the debris is brought close enough to the opening, it can be removed with rags and placed in a container. It's important to use lint-free rags, since lint and threads are solid particles that can interfere with component operation. Once all of the residue has been removed, the contents of the container should be disposed of properly."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "287BF940-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Demonstrate the proper procedure for cleaning a hydraulic reservoir and understand the importance of regular reservoir maintenance in preventing system contamination and damage.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "54d64ffe-0424-45fa-8f5e-a39de6ec5d0b"
+          }
+        },
+        {
+          "title": "Accumulators and Heat Exchangers",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this part, we'll take a look at procedures that are performed to maintain accumulators and one type of air-cooled heat exchanger. Many hydraulic systems use nitrogen-charged accumulators. The function of these devices is to store hydraulic fluid under pressure. A below-normal charge decreases the accumulator's ability to store fluid. If there is a leak in the accumulator, the charge could go down. As part of routine maintenance, the charge level should be checked periodically. The charge level of an accumulator is checked with a gauge. However, this should be done only by qualified personnel. Because accumulators store energy, they are under extremely high pressure, and they should only be maintained by individuals who have received the necessary training and authorization to do so. Heat exchangers are another part of a hydraulic system that requires a high level of energy to be stored. Heat exchangers are designed to cool or heat hydraulic fluid that is flowing through a system. Some heat exchangers accomplish this with fluid, and others use air. Most heat exchangers do not require a great deal of maintenance. Generally, maintenance of these devices includes only a check to ensure that the inlet and outlet temperatures are within the normal range. One exception, however, is an air-cooled heat exchanger, such as this one. A fan on the rear side of the device forces air to circulate through metal fins that are attached to tubes. The fins transfer heat from the fluid to the atmosphere. This simplified illustration represents a typical air-cooled heat exchanger. Fluid travels into one side of the heat exchanger through a single tube. The fluid is then separated into four tubes as it passes through the heat exchanger. It exits through a tube on the opposite side. As fluid travels through the tubes, the tubes absorb the fluid's heat. The heat from the tubes is then transferred to the fins, which are attached to the tubes. As air contacts the fins, the fins are constantly cooled. Through this process, the heat from the fluid is transferred to the atmosphere. To keep this type of heat exchanger running efficiently, the fins must be kept clean. Over time, the fins accumulate dust. As dust builds up, it creates a blanket of insulation on the fins, reducing their contact with the air and their ability to transfer heat properly. By blowing compressed air directly onto the fins, the dust can be removed."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "28A1837C-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the routine maintenance procedures for nitrogen-charged accumulators and air-cooled heat exchangers in hydraulic systems, including safety precautions and cleaning techniques.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "c8b73459-85ea-49a5-8edf-1c5392541442"
+          }
+        },
+        {
+          "title": "Topic III: Summary",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In this topic, we saw procedures that are performed to maintain hydraulic fluid, filtering devices, reservoirs, accumulators, and heat exchangers. Now try some practice questions on this material."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "28D28AE4-ACAB-11EB-A2D8-DF1067F96AF6",
+          "learning_objective": {
+            "topic": "Hydraulics: Routine Maintenance",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and describe the routine maintenance procedures for key hydraulic system components, including fluid, filters, reservoirs, accumulators, and heat exchangers.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "c7bdb15b-c6bc-4e63-a194-2645f017f478"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and perform routine maintenance procedures for key hydraulic system components, including fluid, reservoirs, filters, accumulators, and heat exchangers.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "6afabc3c-4f7e-450b-bb50-c10a4b087e3b"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of clean hydraulic fluid and identify common contaminants that can affect system performance and component longevity.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "2e626509-b266-47ec-b9e0-3093db140b02"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the purpose and maintenance of strainers and filters in hydraulic systems, including how to remove and inspect filter elements.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "f91533ea-6bf8-4dc6-b7b0-93100d9b4e90"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Demonstrate the proper procedure for cleaning a hydraulic reservoir and understand the importance of regular reservoir maintenance in preventing system contamination and damage.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "54d64ffe-0424-45fa-8f5e-a39de6ec5d0b"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the routine maintenance procedures for nitrogen-charged accumulators and air-cooled heat exchangers in hydraulic systems, including safety precautions and cleaning techniques.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "c8b73459-85ea-49a5-8edf-1c5392541442"
+        },
+        {
+          "topic": "Hydraulics: Routine Maintenance",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and describe the routine maintenance procedures for key hydraulic system components, including fluid, filters, reservoirs, accumulators, and heat exchangers.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "c7bdb15b-c6bc-4e63-a194-2645f017f478"
+        }
+      ]
+    }
+  ],
+  "course_id": "320FF682-ACA1-11EB-B77B-DF1067F96AF6",
+  "description": "This course is designed to familiarize participants with tasks associated with the routine maintenance of hydraulic systems. After completing this course, participants should be able to describe general considerations associated with routine maintenance. They should also be able to describe procedures for performing external inspections and for maintaining some system components. <p><a href=\"https://www.vectorsolutions.com/metric-conversion-pdf\" target=\"_new\" style=\"color:#ffffff; text-decoration: underline;\">Click here for US measurements to metric units PDF.</a></p>",
+  "revision_id": "223B09EA-ACAB-11EB-A2D8-DF1067F96AF6",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 1841.131
+}

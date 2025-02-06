@@ -1,0 +1,1209 @@
+{
+  "sku": "RV-10102",
+  "goal": "Ensure comprehensive understanding and application of OSHA safety standards, hazard identification, and risk mitigation strategies in oil and gas well drilling operations to create a safer work environment and reduce incidents and injuries across all aspects of the drilling process.",
+  "title": "OSHA Safety: Drilling - Full Course",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "730921e4-93bf-41fd-aa1d-e098dbe7d562",
+      "learning_objects": [
+        {
+          "title": "Introduction",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The narration in this course is computer generated so there may be variations in pronunciation. If you prefer to read the on-screen text without audio, please use the mute and pause controls in the video player. The oil and gas industry employs hundreds of thousands of people and is a vital component of the national economy. Worker safety and health are important to this industry so it is essential to be aware of potential hazards present in the workplace. This course discusses OSHA standards and directives that dictate OSHA safety procedures for oil and gas well drilling and also identifies common hazards and possible solutions to reduce incidents that could lead to injuries or fatalities. At the conclusion of this course, you will be able to discuss the procedure for safely placing and assembling the various parts of equipment that make up the rig and preparing the rig for drilling. Describe the process of actually drilling the well and the equipment and drilling fluids utilized for the task. Discuss the potential hazards and potential hazards that may be present in the workplace. Possible solutions of casing operation procedures. List the types of equipment that need regular maintenance and the procedures to ensure safety maintenance compliance. Define the two basic components of well control. Explain the general safety and health procedures related to the oil and gas well drilling industry including crane, derrick, and hoist safety, fire safety, PPE, and chemical safety, etc. There will be a multiple choice exam at the conclusion of this course to gauge your understanding of the material. Worker safety awareness is necessary for injury prevention during all phases of drilling operations. Procedures and processes will include safety meetings, JSAs, and general and task-specific training. At the end of each topic section within the chapter, resources are identified which provide more details for establishing safe work practices and procedures. These additional resources are for your information only and will not be covered in the scope of the exam. The following chapters discuss specific information including the potential hazards and possible solutions for situations on the job, rigging up, drilling ahead, tripping out slash in, casing operations, maintenance activities, well control, general safety and health. This course is based on OSHA oil and gas well drilling and servicing e-tool. Links to additional pages are for your information."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": false,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "642BA2F0-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify common hazards in oil and gas well drilling operations and explain OSHA safety standards and procedures to reduce incidents and injuries in the workplace.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "2c3502d6-1ea2-4e1d-8d01-f44a45b2243f"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify common hazards in oil and gas well drilling operations and explain OSHA safety standards and procedures to reduce incidents and injuries in the workplace.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "2c3502d6-1ea2-4e1d-8d01-f44a45b2243f"
+        }
+      ]
+    },
+    {
+      "title": "Rigging Up",
+      "section_id": "2b2e2b82-3ff6-4396-93d0-7cbe38536406",
+      "learning_objects": [
+        {
+          "title": "Rigging Up",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Rigging up is placing and assembling the various parts of equipment that make up the rig, and preparing the rig for drilling. There are many rig designs, and this course does not cover each type individually. This course focuses on the common hazards and solutions that many rig designs share. During assembly of the rig, some equipment may be handled and set with crane, rig up trucks, or forklift, depending on the size of the rig. It should be noted that overhead hazards such as high voltage power lines may be present. Topics covered in this chapter include Setting up the substructure Setting up the rig floor and master derrick Installing handrails, guardrails, stairs, walkways, and ladders Installing the power system Rigging up the circulating system Installing the auxiliary equipment Inspecting the rig Rigging down There may be two or more crews working together in the rigging up process. The rigging up process includes the following steps. Some of which are done simultaneously. Servicing, rigging up Transporting and rigging up the equipment is the first step in well servicing operations. After these steps, servicing activities commence. After the drilling rig is removed, the well site is cleaned and re-leveled for the service rig. A work-over rig is driven or transported to the site and positioned at the well. Potential hazards Working in unstable or slippery conditions on the lease road-slash-drill site. Striking fixed objects such as power line poles. Contacting electrical service lines. Being involved in vehicular accidents. Getting caught between the rig and the wellhead. Being struck by a moving rig. Possible solutions Inspect the route in advance for adequate vehicle access and satisfactory surface conditions. Ensure adequate driver training. Ensure proper vehicle maintenance. Establish and follow a specific procedure for positioning the rig. Use a ground guide while backing the rig up. Keep all personnel clear of the moving rig. Before rigging up, guide line anchors are set into the ground and pull tested. The service rig is then spotted over the well. The truck or trailer mounted rig is stabilized and leveled by manual or hydraulic jacks. All guide lines are uncoiled and laid out to remove kinks or knots. The mast is readied for raising, then raised and guide into place. The derrick emergency escape device is rigged up and the work platform is readied for service operations. Potential hazards Being electrocuted by overhead power lines. Slips, trips, and falls as a result of unstable or slippery conditions. Being caught between the mast and mast cradle or being struck by or caught in guide lines and cables when mast is being raised. Being struck by a toppling mast if the carrier shifts. Being sprayed with oil if the hydraulic cylinder or hoses fail as mast is being raised. Twisting and falling of the mast if the guide line or anchor breaks or fails. Receiving strains and sprains. Getting hand, finger, and foot injuries during rig up. Getting the climbing assist counterweight tangled in the mast. Possible Solutions Identify all electrical hazards and maintain adequate clearances. 29 CFR 1910.303 Table S3 Take appropriate precautions to mitigate slip, trip, and fall hazards. Stay clear of the unit while the mast is being raised, lowered, or telescoped. Uncoil and visually inspect. Uncoil and visually inspect all cables before starting to raise the mast. Stand to the side of lines and cables as the mast is being raised. Inspect the well pad and set additional foundation materials as appropriate. Inspect all high pressure hoses and fittings. Ensure that the unit operator assesses the wind speed and direction to determine if the mast can be raised safely. Allow no personnel on the unit, other than the operator working at the controls, when raising or lowering the mast. All others stand clear. Possible Solutions Inspect all anchors before rigging up the mast. Anchors should meet American Petroleum Institute specifications for loads and guying patterns. 2004 Publications, Programs, and Services American Petroleum Institute Use proper lifting techniques. Use proper hand and foot placement. See General Safety and Health. Control the position of the counterweight by maintaining tension on the guy wire to keep the weight away from the mast. Additional Information Use of Anchors and Guy Wires Association of Energy Services Companies 72 KB PDF 2004 Publications, Programs, and Services American Petroleum Institute 2004 29 CFR 1910.303 3003 Table S3 Elevation of Unguarded Energized Parts Above Working Space OSHA Standard www.osha.gov www.osha.gov www.osha.gov www.osha.gov www.osha.gov www.osha.gov www.osha.gov www.osha.gov www.osha.gov www.osha.gov www.osha.gov"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "65333FFA-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify common hazards and safety solutions associated with rigging up drilling equipment, including electrical risks, mast raising procedures, and proper use of anchors and guide lines.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "81cc14e1-ddda-4a89-97d5-ba52e80ab674"
+          }
+        },
+        {
+          "title": "Set Up the Work Area",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The work area is prepared by setting up all relevant equipment for the job, including the derrick emergency escape device. Potential hazards, being struck by or caught between equipment. Receiving strains and sprains. Getting hand, finger, and foot injuries. Slips, trips, and falls. Failing to properly install derrick emergency escape device when personnel may be expected to work in the derrick. Getting burned or exposed to respiratory hazards due to ignition of flammable liquids, vapors, and gases. Possible solutions. Install guardrails as required. 29 CFR 1910.23, Association of Energy Services Companies, AESC, recommended safe procedures and guidelines for oil and gas well servicing. Inspect equipment integrity such as slings, tongs, and hand tools. 29 CFR 1910.184 Train crew to select and use the proper tools for the job. Instruct workers to stand clear of suspended loads. Use a tagline to guide equipment into position. Inspect hoses and connections before and after attaching to the tongs. Connect hoses after the tongs have been positioned. Properly install derrick emergency escape device in accordance with manufacturer's recommendations. Proper equipment type and placement. See well site ignition sources under general safety and health. Additional information. Crane operation. Association of Energy Services Companies, AESC, 15 kilobytes PDF, 4 pages. Use of wooden, metal and plastic, fiberglass, portable ladders. Association of Energy Services Companies, AESC, 17 kilobytes PDF, 4 pages. Fall protection systems. Association of Energy Services Companies, AESC, 17 kilobytes PDF, 4 pages. Scaffolding. Association of Energy Services Companies, AESC, 24 kilobytes PDF, 7 pages. 2004 Publications, Programs, and Services. American Petroleum Institute, API, 2004, 29 CFR 1910.23, Guarding floor and wall openings and holes. OSHA Standard. 29 CFR 1910.184, Slings. OSHA Standard."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "65DDB7E6-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards in drilling operations and understand safety measures, including proper equipment setup, fall protection, and regulatory compliance.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "3d9738ce-1dd6-4445-b4b7-5d80bfe5e464"
+          }
+        },
+        {
+          "title": "Setting Up the Substructure",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Equipment is unloaded and positioned at or near the exact location that it will occupy during operations. The substructure is assembled, pinned together, leveled, and made ready for other rig components on the floor. Equipping the cellar begins but can be done throughout the rigging up process. This includes welding on a drilling nibble to the conductor pipe and attaching a flow line. Potential hazards, being struck by the crane, load, truck, or forklift tipping. Pinched fingers when assembling equipment. Burns from cutting and welding on the drilling nibble. Temporary eye irritation from welding light flash. Falling from heights. Possible solutions. Instruct all workers in safety procedures and ensure that they are knowledgeable about job hazards. This can be done during pre-job safety meetings or JSA briefings. Instruct workers to stand clear and keep hands and other body parts away from pinch points. Wear proper long-sleeve clothing to protect from burns. Wear proper welding eye slash face protection. Avoid looking directly at the flame or arc when welding. Wear fall protection when working from heights. 29 CFR 1926 Subpart M"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "660E8A24-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards during equipment unloading and substructure assembly, and understand appropriate safety measures to mitigate risks in drilling operations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "77280dbe-458f-431c-928f-3d96defd4184"
+          }
+        },
+        {
+          "title": "Setting Up the Rig Floor and Mast or Derrick",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Once the substructure is set in place, the process of setting up the rig floor begins. Begin by installing stairways and guardrails to allow access to the rig floor. Then, the drawworks is set in place and secured to the substructure. On mechanical rigs, the engines are set in place in the compound and associated equipment connected to the drawworks. On electric rigs, the electric cables, lines, are strung to the drawworks. The bottom of the mast is raised to the rig floor and pinned in place. The crown section is then raised into place on the derrick stand. The a-legs are raised and pinned into place. The monkey board is pinned in place on the mast and all lines and cables are laid out to prevent tangling when the mast is raised. A thorough inspection of the mast should be made before raising the mast-slash-derrick. The mast is now ready to be raised. The engines are started, see installing the power system at the end of this chapter, and the drilling line is spooled onto the drawworks drum. Once the mast has been raised and pinned, the remaining floor equipment can be set into place. If a rig has safety guy lines, they must be attached to the anchors and properly tensioned prior to continuing the rigging up process. A derrick emergency escape device is installed on the mast. Setting mast on rig floor. Setting crown on derrick stand. Rigging up the mast. Raising the mast. Potential hazards, falling or tripping during rigging up. Falling from rig floor. Being struck by swinging equipment. Being struck by falling. Being crushed or struck by equipment due to failure or overloading of hoisting equipment. Getting entangled in lines during raising of the derrick or mast. Failure to properly install derrick emergency escape device. Possible solutions, install, inspect, and secure stairs and handrails. 29 CFR 1926.1052, do not use guardrails for anchor points or for lifting or supporting loads. Use fall protection when installing or removing. Use fall protection when installing or removing. Use a tag line to guide equipment, rather than positioning yourself under suspended loads. Check the derrick for unsecured tools before raising it. Allow only the operator raising the mast to be on the rig floor. Uncoil all lines so that they are clear of all workers when the mast or derrick is raised. Attach safety lines to all tools hanging from the rig. Keep a safe distance from moving equipment. Install Derrick emergency escape device properly in accordance with manufacturer's recommendations."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6661F1AA-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the key steps and safety considerations in setting up a drilling rig floor, including mast installation, equipment placement, and potential hazards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "2eb3fac7-9510-4cdc-a8f9-8ca278b547af"
+          }
+        },
+        {
+          "title": "Installing Handrails, Guardrails, Stairs, Walkways, and Ladders",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Handrails, guardrails, stairways, walkways, and ladders are installed where they are needed for safety and access. Potential hazards. Falls from ladders. Falls or slips from ladders and stairs due to damaged or missing rungs or steps. Slips or falls on walkways due to debris or uneven surfaces. Falls from heights. Falling into the mud pit or mixing tank. Possible solutions. Follow established procedures and best work practices. Instruct workers on proper procedures for using and installing ladders. Use only ladders in good repair that do not have missing rungs. Do not install stairs with missing or damaged steps. Repair them before installing them. Keep walkways clean and free of debris and tripping hazards. 29 CFR 1910.22. Use proper fall protection. Place guardrails in place prior to working in elevated areas. 29 CFR 1910.22. 29 CFR 1910.23."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6711C8C8-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify common hazards associated with ladders, stairs, and walkways in drilling operations, and understand key safety measures and OSHA regulations to prevent falls and accidents.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b9495020-38bd-45b8-8896-69e23e4c4035"
+          }
+        },
+        {
+          "title": "Installing the Power System",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Installing the power system is usually done simultaneously with setting up the rig floor, because power is needed to operate the equipment. Today there are generally two types of rigs being used on land. A mechanical rig is powered by engines and compound. An electric rig is powered by engines and generators. This type supplies power to electric motors, which drive the machinery. All power cords, belts, and chains need to be connected to the machinery from their associated power source. Simultaneously, the fuel lines and tanks need to be hooked up. Then, start the engines. Potential hazards, tripping on power cords and hoses. Slips and falls on slick walking surfaces. Getting caught in pinch points. Exposure to chemical hazards. Being shocked or electrocuted. Possible solutions, keep all cords and hoses orderly and clear of walking spaces. Clear and clean all walkways and walking surfaces of slipping hazards. Use the power source. Caution around all chain and belt pinch point areas. Install all guards. Use proper PPE when working with chemicals. 29 CFR 1910.1200. Use proper lockout slash tack out slash procedures. 29 CFR 1910.147."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6769A444-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions during power system installation on drilling rigs, including proper handling of cords, walkways, pinch points, chemicals, and electrical equipment.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "9eb65df2-0183-4d59-8c3d-52c3a8c4a82a"
+          }
+        },
+        {
+          "title": "Rigging Up the Circulating System",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "While one crew finishes preparing the rig floor, another crew might be rigging up the circulating system. The mud tanks and mud pumps are set into the predetermined location. The mud lines are then connected and electric cords are strung. Potential hazards, being struck by or crushed by equipment being set into place. Getting caught in pinch points. Being struck by crane, load, truck or forklift tipping. Being struck by hammer when connecting mud line unions. Possible solutions. Keep a safe distance from equipment that is coming together or moving. Maintain a safe distance from all pinch points. Stand clear of workers that may be swinging hammers."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "67A19480-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety measures associated with setting up the circulating system on a drilling rig, including equipment placement, mud line connections, and proper distancing from moving machinery and pinch points.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b549f08d-b845-4351-b525-228812dbcc41"
+          }
+        },
+        {
+          "title": "Installing the Auxiliary Equipment",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "All remaining drilling and auxiliary equipment must be set into place and installed where needed. The catwalk and pipe racks are positioned and the pipe and drill collars are set on the racks. Potential hazards, getting struck or pinched by, or caught in between, tubulars being loaded onto racks. Having feet pinched or crushed when setting up the pipe racks and catwalk. Possible solutions, keep a safe distance from equipment that is coming together. Use a tagline to guide the pipe racks and catwalks into position."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "67F53C98-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards associated with setting up drilling equipment and implement appropriate safety measures during the installation process.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "bc8b98ba-c5c4-481c-9176-21bb0c4a7727"
+          }
+        },
+        {
+          "title": "Inspecting the Rig",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Perform a complete inspection of the rig before operating. The driller and or rig superintendent slash tool pusher slash manager should walk around the entire rig and inspect for missing or loose pins and bolts, equipment guards, adequate guard railings, proper line and cable placement, and unclear walkways. Potential hazards, falling from the rig. Tripping on power cords and hoses. Slipping and falling on slick walking services. Possible solutions, use proper fall protection. 29 CFR 1926 Subpart M. Keep all cords and hoses orderly and clear of walking spaces. Clear and clean all walkways and walking surfaces of slipping hazards. After production casing is run and cemented, the rig is taken down and moved to another site. The rigging down process is basically the reverse of rigging up. The hazards and solutions are similar to those for rigging up."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "682F3EC0-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify key safety hazards associated with rig operation and understand proper inspection procedures and preventive measures to ensure a safe working environment.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "c79fa656-366c-4a8e-9518-f7c43c5aada6"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify common hazards and safety solutions associated with rigging up drilling equipment, including electrical risks, mast raising procedures, and proper use of anchors and guide lines.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "81cc14e1-ddda-4a89-97d5-ba52e80ab674"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards in drilling operations and understand safety measures, including proper equipment setup, fall protection, and regulatory compliance.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "3d9738ce-1dd6-4445-b4b7-5d80bfe5e464"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards during equipment unloading and substructure assembly, and understand appropriate safety measures to mitigate risks in drilling operations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "77280dbe-458f-431c-928f-3d96defd4184"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the key steps and safety considerations in setting up a drilling rig floor, including mast installation, equipment placement, and potential hazards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "2eb3fac7-9510-4cdc-a8f9-8ca278b547af"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify common hazards associated with ladders, stairs, and walkways in drilling operations, and understand key safety measures and OSHA regulations to prevent falls and accidents.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b9495020-38bd-45b8-8896-69e23e4c4035"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions during power system installation on drilling rigs, including proper handling of cords, walkways, pinch points, chemicals, and electrical equipment.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "9eb65df2-0183-4d59-8c3d-52c3a8c4a82a"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety measures associated with setting up the circulating system on a drilling rig, including equipment placement, mud line connections, and proper distancing from moving machinery and pinch points.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b549f08d-b845-4351-b525-228812dbcc41"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards associated with setting up drilling equipment and implement appropriate safety measures during the installation process.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "bc8b98ba-c5c4-481c-9176-21bb0c4a7727"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify key safety hazards associated with rig operation and understand proper inspection procedures and preventive measures to ensure a safe working environment.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "c79fa656-366c-4a8e-9518-f7c43c5aada6"
+        }
+      ]
+    },
+    {
+      "title": "Drilling Ahead",
+      "section_id": "fc7f2984-aa2a-46f2-83d1-33509ada3bd2",
+      "learning_objects": [
+        {
+          "title": "Drilling Ahead",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Drilling a head means the actual drilling of the well. Specific drilling processes vary, but many of the work hazards are similar. The following generic tasks assume the use of a Kellyanne rotary table. Other rig designs may include the use of a top drive. Topics covered in this chapter include. Handling tubulars. Preparing drilling fluid. Drilling fluid functions. Drilling fluid types. Drilling fluid additives. Starting drilling. Making a connection. Preparing to break out pipe. Breaking out pipe. Making a pipe and mouse hole. Raising the Kellyanne new joint. Adding pipe to the string. Resuming drilling. Coring."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "68D0A1CA-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the basic components and processes involved in drilling operations, including handling tubulars, preparing and managing drilling fluids, and key steps in the drilling process.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b63cc95a-0aaf-4c7f-b22a-feca8ec640d7"
+          }
+        },
+        {
+          "title": "Handling Tubulars",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The pipe is unloaded from trucks onto the pipe rack. The floor crew brings pipe from the pipe rack and catwalk, using the cat line, air hoist or hydraulic winch, up to the drilling floor and places it in the mouse hole. This is done for every connection. Note, the rig supervisor should hold a pre-job meeting with the crew to review responsibilities and to coordinate the operations to be performed. Potential hazards. Being struck by rolling or falling tubulars. Being struck by or caught between tubulars and other objects during movement, for example, being struck by tubulars being tailed into the rig floor. Slips, trips, and falls. Possible solutions. Use powered industrial truck, forklift, properly. Work the tubulars from the ends from ground level. Chalk or pin tubulars on the racks properly. Level your pipe racks properly. Stand clear of suspended, hoisted, or moving loads. Be aware of tubulars or equipment being lifted through the V-door. Potential hazards. Getting struck by falling tubulars due to lifting equipment failure. Possible solutions. Instruct workers in the need for proper use, inspection, and maintenance practices. Before each tour inspect the wire rope and slings, cat line ropes and knots. Do not allow a rope to lie in standing water, and chains and hooks. Stand clear of suspended, hoisted or moving loads and be aware of your surroundings. Additional information. RP 54, Occupational Safety for Oil and Gas Well Drilling and Servicing Operations. American Petroleum Institute, API, 1999, August 1. Includes procedures for promotion and maintenance of safe working conditions for employees engaged in rotary drilling operations and well servicing operations, including special services. Applies to rotary drilling rigs, well servicing rigs, and special services as they relate to operations on low-level, low-level rigs. Accident Prevention Guide. International Association of Drilling Contractors, IADC. Drilling Technology Series. Petroleum Extension Service, P-TEX, University of Texas at Austin. Unit I, The Rig and Its Maintenance. Unit 2, Normal Drilling Operations. Unit 3, Non-Routine Operations. Unit 4, Man Management and Rig Management."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "696836A2-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions associated with pipe handling and movement on drilling rigs, including proper equipment inspection and safe work practices.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0e698b95-489e-48e4-9128-cbdec0c53f9e"
+          }
+        },
+        {
+          "title": "Drilling Fluid Information",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "potential hazards burns or physical injury caused by contact with skin or eyes being exposed to explosions or violent reactions from chemicals mixed improperly being exposed to inhalation hazards receiving strains and sprains slips trips and falls possible solutions ensure workers follow the safe handling procedures found in safety data sheets sds example sds 29 cfr 1910.1200 where appropriate personal protective equipment including eye and face protection 29 cfr 1910.132 29 cfr 1910.133 where appropriate respiratory protection when handling chemicals and or additives 29 cfr 1910.133 1910.134 provide an eyewash station and other appropriate flushing apparatus as recommended by the sds 29 cfr 1910.151c provide adequate ventilation use proper mixing procedures use designated containers for mixing certain chemicals for example baffled container with lid substitute less hazardous materials or use pre-mixed mud see general safety and health note tank cleaning is a high hazard option operation requiring confined space entry procedures training for personnel ppe and specialized equipment 29 cfr 1910.14"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "69A2A95E-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards associated with chemical handling in drilling operations and understand the appropriate safety measures and regulations to mitigate these risks.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "7bb118e1-f0c3-44ca-a5da-6d9ca9b59e9d"
+          }
+        },
+        {
+          "title": "Starting Drilling",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "To start drilling, a surface drill bit is attached to a bottom hole drill collar, which is in turn attached to the kelly. Once made up, the driller lowers the bit through the rotary table and engages the mud pumps and checks for leaks and other abnormalities. The driller lowers the drill string and the kelly bushing is set in the rotary drive bushing and the rotary is engaged. The driller then slowly lowers the bit to bottom and begins the drilling operation. Potential hazards, being struck by the tongs, the make-up chain, or pipe. Being caught between collars and tongs, spinning chain, and pipe. Possible solutions, implement an effective pipe handling, make-up, breakout procedure, stand outside the tongue swing radius when breaking pipe. Use proper tongue latching techniques and use proper hand and finger placement on tongue handles. Stand clear of the rotary table when it is rotating. Use the tail rope on the spinning chain to keep hands away. Potential hazards, receiving strains and sprains during lifting or controlling movement of the rod. Drill collars, bit breaker, pipe, and tongs. Possible solutions, use proper lifting technique. Hoist slowly to limit pipe momentum. Use mechanical lifting aids such as a rig floor winch. Use tail rope to guide as necessary. Potential hazards, slips, trips, and falls. Possible solutions, see slips, trips, and falls under the chapter general safety and health. Potential hazards, encountering shallow gas, Possible solutions, see well control, blowout prevention program. Additional information. Well CAP. International Association of Drilling Contractors, IADC, 2006. Ensures that well control training schools adhere to a core curriculum developed by industry."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6A453552-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions associated with the drilling process, including proper equipment handling, lifting techniques, and well control procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "c04b7722-eb4b-4ae5-a10a-e87c91088f19"
+          }
+        },
+        {
+          "title": "Making a Connection",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "preparing to break out pipe the driller stops the drill string from rotating and hoists the drill string with the draw works until the kelly is out of the rotary table the driller then shuts down the mud pumps the floor hands set the slips around the joint of pipe the tongues are then latched onto the tool joints above and below the connection potential hazards pinching fingers or other body parts between slips or slip handles and rotary table experiencing muscle strain from improper lifting technique pinching fingers when latching the tongs onto the pipe possible solutions implement effective safe work procedures for using slips and tongs which include proper finger and hand placement on slip handles and tongue handles proper stance and slip lifting techniques proper tongue latching techniques additional information rp54 occupational safety for oil and gas while drilling and servicing operations american petroleum institute api notary public loan signing off 1999, August 1. Well CAP. International Association of Drilling Contractors, IADC, 2006. Ensures that well-controlled training schools adhere to a core curriculum developed by industry. Drilling Technology Series. Petroleum Extension Service, P-TEX, University of Texas at Austin. The tongs and cab head are used to break out the pipe. Either the rotary table or kelly spinner is used to spin the drill string or kelly to unscrew it from the drill pipe joint. Potential hazards, being struck by, swinging tongs if the tong dies fail, or the tong counterweight lines were to break. The slip handles if the rotary table is used to spin the drill string. Reverse backlash of tongs, backbiting, during spinning out operations. The tongs if a snub line breaks or the tongs come unlatched. Pipe. Possible solutions, inspect tong dies, counterweight cables, and spin the drill string. Snub lines hourly and prior to each trip. Implement an effective spinning out pipe procedure. Personnel other than tong operators stand outside the tong swing radius when breaking pipe. No one should stand in the red zone, see diagram 1, use proper tong latching techniques and use proper hand and finger placement on tong handles. Stand clear of the rotary table when it is rotating. Use special operational procedures when using a high torque connection. Maintain good communication between floor crew and driller. Potential hazards, release of excess drilling mud resulting in skin contact, loss of footing, etc. Possible solutions, use a mud bucket to direct mud down into the rotary table. Close the mud saver valve on the kelly, if present. Additional information, RP54, Occupational Safety for Oil and Gas While Drilling and Servicing Operations. American Petroleum Institute, API, 1999, August 1. Accident Prevention Guide. Information of Drilling Contractors, IADC. Drilling Technology Series. Petroleum Extension Service, P-TEX, University of Texas at Austin."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6A9C7E7A-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions associated with breaking out pipe during drilling operations, including proper use of slips, tongs, and rotary table procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "500568e3-fd98-4778-acbd-4f542cb1c2e7"
+          }
+        },
+        {
+          "title": "Making Up Pipe in Mousehole",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The crew swings the kelly out over the mouse hole and stabs it into a new joint of pipe. The trailer then spins up the kelly using the kelly spinner or spinning chain and the crew uses tongs to torque the joint. Potential Hazards Being struck or pinched by the kelly. Losing footing while swinging the kelly out over the mouse hole and stabbing it into a new joint of pipe. Being struck by or caught in the spinning chain. Possible Solutions Use Proper Hand Placement Keep the work area around the rotating table clean and clear of mud, ice, snow, debris and other materials that may cause slipping or tripping. Inspect chain for broken or distorted links. Chains with the metal reduced by wear at any point less than 90% of its original cross-section area should be discarded. Lubricate and maintain guide rollers to prevent undue wear on the chain or cable. Additional Information Accident Prevention Guide International Association of Drilling Contractors IADC Drilling Technology Series Petroleum Extension Service, P-TEX, University of Texas at Austin"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6AD33794-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions associated with kelly operations and spinning chains during drilling processes.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "baac3443-7f64-41c6-84b9-464aeb3e2ba5"
+          }
+        },
+        {
+          "title": "Raising the Kelly and New Joint",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The driller uses the drawworks to raise the kelly and attach joint out of the mouse hole. Potential Hazards Being struck by debris or overhead objects if the traveling block runs into the crown block or if the traveling block or swivel hits the derrick. Being struck by kelly or pipe. Possible Solutions Install a crown safety device on the drawworks and ensure proper functioning. Keep personnel clear of the potential swing path of the kelly and pipe. The new joint is guided over to the drill hole, the tool joint is doped, and stabbed into the end of the pipe suspended in the rotary table with the slips. The joints are threaded together using the pipe spinner, kelly spinner, or spinning chain. Final torque is provided by the tongs. The drawworks lifts the kelly and attached string to facilitate removal of the slips. Potential Hazards Being struck by, swinging kelly and pipe. Tongs if the stabber misses the stump. The Jerk or Spinning Chain Being caught between the swinging pipe and the tongs. Being caught between the joint of pipe being stabbed and the stump. Getting pinched between tongs or pipe spinner and pipe. Slips, trips, and falls. Possible Solutions Never step over a jerk chain and stay clear of spinning chain when a connection is being made. Keep hands away from end of stump or inside of pipe. Keep feet and legs away from underneath tongs when the pipe is being stabbed. Use proper tong latching techniques and hand and finger. Use longer placement on tong handles. Never stand or walk under suspended loads. Keep the work area around the rotary table clean and clear of drilling fluids, mud, ice, snow, debris, and other materials that may cause slipping or tripping. Inspect chains for worn or damaged links, and replace a chain having a broken or distorted link with the metal reduced by wear at any point less than 90% of its original cross section area. See Slips, Trips, and Falls Chapter General Safety and Helps See Slips, Trips, and Falls under Chapter General Safety and Helps and health. The driller starts the pump and picks up off the slips. The drill crew then removes the slips. The driller lowers the string until the kelly drive bushing engages the master bushing. Once the bushings are in place, the driller begins rotating the drill string, lowers the bit back to bottom, and continues making hole. Potential hazards. Being thrown off the rotary table when engaged. Getting caught by loose clothing. Possible solutions. Stand clear of the rotary table. In some cases the operator orders a core sample of the formation for testing. A special core barrel is lowered to the bottom on the drill string and is rotated to cut a core from the formation. This core is brought to the surface and examined in a laboratory. Potential hazards. Being pinched or struck by the core barrel and associated tools during floor operations. Being struck by the core as it is removed from the barrel. Encountering other hazards similar to those encountered during tripping out slash in. Possible solutions. Where appropriate PPE. Instruct workers in handling and using the special tools required during drill core extraction."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6B6EC3F8-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions associated with drilling operations, including drawworks usage, pipe connections, and core sampling procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b5c0c65a-1881-414a-89e0-7b50ccebb191"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the basic components and processes involved in drilling operations, including handling tubulars, preparing and managing drilling fluids, and key steps in the drilling process.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b63cc95a-0aaf-4c7f-b22a-feca8ec640d7"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions associated with pipe handling and movement on drilling rigs, including proper equipment inspection and safe work practices.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0e698b95-489e-48e4-9128-cbdec0c53f9e"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards associated with chemical handling in drilling operations and understand the appropriate safety measures and regulations to mitigate these risks.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "7bb118e1-f0c3-44ca-a5da-6d9ca9b59e9d"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions associated with the drilling process, including proper equipment handling, lifting techniques, and well control procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "c04b7722-eb4b-4ae5-a10a-e87c91088f19"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions associated with breaking out pipe during drilling operations, including proper use of slips, tongs, and rotary table procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "500568e3-fd98-4778-acbd-4f542cb1c2e7"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions associated with kelly operations and spinning chains during drilling processes.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "baac3443-7f64-41c6-84b9-464aeb3e2ba5"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions associated with drilling operations, including drawworks usage, pipe connections, and core sampling procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b5c0c65a-1881-414a-89e0-7b50ccebb191"
+        }
+      ]
+    },
+    {
+      "title": "Tripping Out/In",
+      "section_id": "254f8a92-3315-45aa-b2fd-085e41b08dcf",
+      "learning_objects": [
+        {
+          "title": "Tripping Out/In",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Tripping refers to the process of removing and or replacing pipe from the well when it is necessary to change the bit or other piece of the drill string, or when preparing to run certain tests in the wellbore. The activities that comprise tripping out are listed below. Tripping in essentially comprises the same steps in reverse order. Tripping out. Setting slips. Breaking out and setting back the kelly. Attaching elevators to the elevator links. Latching elevators to pipe. Working on the monkey board. Breaking out pipe. Maneuvering pipe to racking area. Tripping in. Tripping in, latching elevators to top of stand."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6C45AC2E-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Define the tripping process in drilling operations and identify the key steps involved in tripping out and tripping in procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0e16aa75-9ce2-4072-b5ee-62c708f4e831"
+          }
+        },
+        {
+          "title": "Setting Slips",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The floor crew sets slips around the drill stem. Potential hazards, getting fingers or other body parts pinched between slips or slip handles and rotary table. Receiving muscle strain from improper lifting technique. Possible solutions, use proper hand placement when setting slips. Use proper stance and slip lifting techniques. Slips have three handles and should be lifted jointly by more than one person. Additional information. Drilling Technology Series. Petroleum Extension Service, P-TEX, University of Texas at Austin. Unit I, The Rig and Its Maintenance. Unit II, Normal Drilling Operations. Unit III, Non-Routine Operations. Unit IV, Man Management and Rig Management. Accident Prevention Guide. International Association of Drilling Contractors, IADC. RP-54, Occupational Safety for Oil and Gas. Well Drilling and Servicing Operations. American Petroleum Institute, API, 2007, March. Includes procedures for promotion and maintenance of safe working conditions for employees engaged in rotary drilling operations and well servicing operations, including special services. Applies to rotary drilling rigs, well servicing rigs, and special services as they relate to operations on locations."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6C785E94-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions associated with setting slips around the drill stem, and recognize key resources for drilling safety and operations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "82653d9e-bc7c-4dd3-b198-34704d7aedb8"
+          }
+        },
+        {
+          "title": "Breaking Out and Setting Back the Kelly",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Break out the kelly and set it into the rat hole. Potential hazards, release of excess drilling mud resulting in skin contact, loss of footing, etc. Possible solutions, shut down the mud pumps before breaking out the kelly. Close the mud saver valve on the kelly, if present. Use a mud bucket to divert flow of excess mud. Potential hazards, being struck by the slip handles if the rotary table is used to spin the drill string. Possible solutions, stand clear of the rotary table when it is rotating. Consider other technologies, such as a pipe spinner, kelly spinner, or top drive unit, to eliminate this hazard. Potential hazards, being struck by the kelly if the pullback line unhooks when kelly is being pulled toward the rat hole. Possible solutions, implement an effective pullback line attachment procedure. Ensure workers stand in a safe location away from the pullback line and rat hole during this pullback operation."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6CB09976-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions associated with breaking out the kelly and setting it into the rat hole during drilling operations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "ccc80e6b-fb17-46f0-8967-e1183e95a77c"
+          }
+        },
+        {
+          "title": "Attaching Elevators to the Elevator Links",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The crew attaches elevators to the elevator links. Potential hazards, being pinched by the elevator links while attaching elevators, or attaching elevator links to the hook, being struck by the elevators. Receiving strains and sprains. Possible solutions, use proper hand placement when attaching elevator links. Ensure workers stand away from swing path of the elevators and elevator links. Use lifting equipment and limit manual positioning of elevators. Use proper mounting procedures. The floor crew latches the elevators onto the pipe. Potential hazards, getting hands or fingers pinched in elevators, being struck by elevators not securely latched, getting hands or fingers caught between elevators and stump. Possible solutions, ensure workers are instructed in proper latching procedure, including the use of handles on elevators as they are descending into place over the stump or tool joint. Inspect and maintain elevators. Additional information, RP. 8B, Inspection, Maintenance, Repair, and Remanufacture of Hoisting Equipment. American Petroleum Institute, API, 2005, April. Covers such items as crown block sheaves and bearings, drilling hooks, elevator links, rotary swivels, deadline tie-down slash wireline anchors, and safety clamps. This edition of API RP. 8B is an identical adoption of ISO 13534-2000."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6D06E556-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions associated with attaching and latching elevators during drilling operations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b6b50af3-cc06-42f5-a6c1-aeefa5d4e8b4"
+          }
+        },
+        {
+          "title": "Working on the Monkeyboard",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The derrickman climbs up the derrick to the monkey board. From here he unlatches the elevators and guides the stands of pipe into the fingerboard. The elevators are then lowered and attached to the next stand of pipe. The floor crew latches the elevators onto the pipe. Potential hazards, falling while climbing up or down the ladder. Falling from monkey board or fingerboard. Slips, trips, and falls. Falling during an emergency descent. Possible solutions, use climb assist device. Wear appropriate fall protection including a full body harness. For fall protection guidance, consult, 29 CFR 1910.23C, 1, Fall Protection When Working From Platforms. 29 CFR 1910.66AP, C, Fall Protection Guidelines. 29 CFR 1910 Subpart D, Walking Working Surfaces. Wear the proper protection. Proper personal protective equipment, PPE, such as, hard hat work gloves safety toed footwear practice 100% tie off while working in the derrick. Use slip resistant coatings or materials on working surfaces. Train personnel in use of emergency escape device. Potential hazards, being caught between pipe and other objects. Receiving strains and sprains. Possible solutions, practice proper hand placement and use of pullback, tail, ropes. Potential hazards, being struck by dropped objects. Possible solutions, implement a dropped objects program, such as tie off for all tools. Use extra caution while personnel are working overhead. Do not carry tools while climbing the derrick ladder. Raise tools with a line to any worker above the derrick floor. Additional information, Fall Protection Z359.1. American National Standards Institute, ANSI. Construction. OSHA eTool. Personal fall arrest systems. Please recognize that there is a weight limit, including equipment, fall protection guidance. International Association of Drilling Contractors, IADC."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6D38AE4C-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety measures for derrick workers, including fall protection, proper equipment usage, and prevention of dropped objects.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "da4b7ccc-b594-45bb-87da-87fbd29237ff"
+          }
+        },
+        {
+          "title": "Breaking Out Pipe",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The crew uses the tongs and cat head to break out the pipe. The rotary table may be used to spin out the pipe after breaking the connection. Potential hazards, being struck by swinging tongs if they break free from the pipe. Being struck by the slip handles if the rotary table is used to spin the drill string. Being struck by reverse backlash of tongs, backbiting, during breakout operations. Being struck by the tongs if a snub line breaks or the tongs come unlatched. Possible solutions Information between floor hands and driller. Pause this video to read the rest of the information at your own pace. When you are ready to continue, play the video. The stand is raised and maneuvered to the pipe racking area. Potential hazards, getting hands and fingers pinched between stands of pipe. Getting feet or toes crushed or amputated under a stand of pipe. Slips, trips, and falls. Receiving strains and sprains. Potential hazards, keep hands and fingers from between pipe stands. Position feet away from the bottom of the pipe stands. See general safety. Remember, tripping in essentially comprises the same steps in reverse order. Elevators raised. Tripping in, latching elevators to top of stand. Moving pipe to rotary. Pipe is made up. Slips are pulled. Slips are set. Elevators are unlatched. Process repeated for all stands. Pick up kelly and attach to drill string. Break circulation, and resume drilling. The derrickman latches the elevators onto the pipe from the monkey board. Potential hazards, getting hands or fingers pinched in elevators. Being struck by elevators not securely unlatched. Getting hands or fingers caught between elevators and stump. Possible solutions, ensure workers are instructed in proper latching procedure. Inspect and maintain elevators. Additional information, Drilling Technology Series. Petroleum Extension Service, P-TEX, University of Texas at Austin. Accident Prevention Guide. International Association of Drilling Contractors, IADC. R.P. 54, Occupational Safety for Oil and Gas Weld Drilling and Servicing Operations. American Petroleum Institute, A.P.I., 2007, Mar."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6D909288-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards and safety solutions associated with the pipe breakout process and tripping operations in drilling.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "8f83a0d3-f0c7-473d-a161-29224907e881"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Define the tripping process in drilling operations and identify the key steps involved in tripping out and tripping in procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0e16aa75-9ce2-4072-b5ee-62c708f4e831"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions associated with setting slips around the drill stem, and recognize key resources for drilling safety and operations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "82653d9e-bc7c-4dd3-b198-34704d7aedb8"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions associated with breaking out the kelly and setting it into the rat hole during drilling operations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "ccc80e6b-fb17-46f0-8967-e1183e95a77c"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions associated with attaching and latching elevators during drilling operations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b6b50af3-cc06-42f5-a6c1-aeefa5d4e8b4"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety measures for derrick workers, including fall protection, proper equipment usage, and prevention of dropped objects.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "da4b7ccc-b594-45bb-87da-87fbd29237ff"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards and safety solutions associated with the pipe breakout process and tripping operations in drilling.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "8f83a0d3-f0c7-473d-a161-29224907e881"
+        }
+      ]
+    },
+    {
+      "title": "Casing Operations",
+      "section_id": "3a571fe2-e636-48d6-a1dd-58ae8098a7a6",
+      "learning_objects": [
+        {
+          "title": "Casing Operations",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Casing is pipe usually larger in diameter and longer than drill pipe and is used to line the hole. Casing operations occur periodically throughout the drilling process starting with the surface casing, intermediate casing, and ending with production string which takes place during well completion. The activities involved in casing operations can vary according to the type of casing being installed, but generally fall into these steps. Installing casing tools. Running casing into the hole. Installing casing accessories. Circulating and cementing. Specialized casing handling tools are necessary to run casing. Note, the special service supervisor should hold a pre-job meeting with the special service crew and other involved personnel to review responsibilities and to coordinate the operations to be performed. Potential hazards. Being struck by or caught between tubulars and other objects during movement, such as being struck by tubulars being tailed or hit by a machine gun. Into the rig floor. Experiencing strains and sprains from maneuvering tools. Falling from work platform and or stabbing board. Possible solutions. Stand clear of suspended, hoisted or moving loads. Be aware of tubulars or equipment being lifted through the v-door. Use proper hand and foot placement to avoid pinch points, including use of tag lines. Use rig floor winch or other powered equipment to handle heavy casing tools. Use fall protection while installing equipment in the derrick. See slips, trips, and falls under Chapter General Safety and Health. Casing is run into the hole to a pre-determined depth. Note, the special service supervisor should hold a pre-job meeting with the special service crew and other involved personnel to review responsibilities and to coordinate the operations to be performed. Potential hazards. Hazards are similar to those for drilling a head or tripping. Getting caught between, struck by, or pinched by the power tongues, casing or other equipment. Being struck by or caught between tubulars and other objects during movement, for example, struck by tubulars being tailed into the rig floor. Falling from the stabbing board or work platform. Getting struck by dropped objects. Possible solutions. Include the casing crew and the drilling crew when conducting a JSA and pre-job safety meeting to coordinate the activities of casing operations. Stand clear of suspended, hoisted, or moving loads. Be aware of tubulars or equipment being lifted through the V-door. Emphasize all normal worker safety procedures, such as fall protection, PPE, placement of hands and feet, and teamwork and communication between workers. Implement full fall protection program for the casing stabber. Identify clearance between the stabbing board and casing elevators. Secure all items used by the casing stabber overhead with a safety line. As casing is being run, accessories such as centralizers, scratchers, guide shoe, and a float collar are installed and used as needed. Note, the special service supervisor should hold a pre-job meeting with the special service crew and other involved personnel to review responsibilities and to coordinate the operations to be performed. Potential hazards. Dropping guide shoe or float collar onto legs or foot. Getting fingers pinched between tools and casing tongs when manually moving guide shoe or float collar. Back strain. Exposure to hazardous materials, especially when using a guide shoe or float collar. Exposure to hazardous materials, especially when using a guide shoe or float collar. threadlock compounds. Possible solutions, use winch, air hoist, or other powered equipment to handle guide shoe, float collar, or other heavy casing equipment. Use appropriate PPE as required by the SDS. After the casing is landed, drilling fluid is circulated through the casing and annulus to remove any residual gases and to condition the mud. After circulating and conditioning the mud, the casing is cemented. During this process the casing is reciprocated or rotated to allow the scratchers to work to remove excess wall cake to give the cement a better bond. Usually another special servicing company is hired to conduct cementing operations. Potential Hazards. Being struck by high pressure lines failing if not secured properly. Having a high pressure connection failure caused by mismatched or excessively worn hammer unions. Possible Solutions. Hobble high pressure lines properly. Use proper equipment inspection techniques to include hammer unions, note, this is a particular problem with 602 and 1502, as they will couple but will not hold beyond the lower pressure rating number. Safety Alerts. International Association of Drilling Contractors, IADC. High Pressure Lines and Hammer Unions. Alert 98-01-1998, April. More on Mismatched Hammer Unions. Alert 99-33-1999, November. Additional Serious Incidents with Mismatched Hammer Unions. Mismatched Hammer Unions. Alert 00-15-2000, May. Mismatched Hammer Unions still being found. Alert 03-16-2003, April. Mismatched Hammer Union results in a fatality. Alert 06-01-2006, January."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6E0991CE-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the steps, potential hazards, and safety solutions involved in casing operations during the drilling process, including installing casing tools, running casing, installing accessories, and circulating and cementing.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "ab36b320-faed-4438-be84-b2173408379e"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the steps, potential hazards, and safety solutions involved in casing operations during the drilling process, including installing casing tools, running casing, installing accessories, and circulating and cementing.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "ab36b320-faed-4438-be84-b2173408379e"
+        }
+      ]
+    },
+    {
+      "title": "Maintenance Activities",
+      "section_id": "456b7c1a-8d30-4e83-8662-0a1af8a6cb27",
+      "learning_objects": [
+        {
+          "title": "Maintenance Activities",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Proper maintenance prevents premature equipment failure, which may cause injuries or fatalities. Drilling equipment is subjected to stress and vibration during operations. Maintenance is a necessary and ongoing activity on the drilling site. Maintenance activities include maintaining the Rig floor Drilling line maintenance Wire rope maintenance Mud circulating system Generator, electric motors, and electrical systems Engines Derrick equipment maintenance Maintenance activities include inspecting, adjusting, and servicing on equipment such as drawworks, rotary, catheads, tongs, air hoists, and wire rope. Potential hazards Slips, trips, and falls Possible solutions Wear personal protective equipment, such as hard hats, work gloves, safety shoes, and eye protection. Be aware of the slipping and falling hazards when performing maintenance on the drilling floor. Keep all work areas clean and clear Avoid Oil, tools, and debris Use non-skid surfaces where appropriate. Potential hazards Being caught in chains or other moving equipment Getting fingers and hands pinched in machine guards or covers Receiving sprains and strains Possible solutions Wear personal protective equipment, such as hard hats, work gloves, safety shoes, and eye protection. Use proper lockout-slash-tagout procedures. 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 29 CFR 1910.147 of metal when slipping and cutting the line. Being caught in moving equipment. Slips, trips, and falls. Being struck by drilling line. Possible solutions. Use proper lockout slash tack out procedures. 29 CFR 1910.147. Wear proper personnel protective equipment when cutting line. Attach a red flag or other warning device to the draw works clutch lever as a reminder to the driller whenever the crown safety device is moved or deactivated to allow the traveling block to be raised above the preset stopping point. Secure drilling line ends prior to cutting. Visually inspect wire ropes daily or per maintenance schedule. Potential hazards. Getting cuts from the wickers or loose strands on the rope. Receiving injuries to face and eyes from flying chips when cutting wire rope. Possible solutions. Wear proper personnel protective equipment when cutting wire rope. Cease wire rope before cutting. Maintenance activities include inspecting, adjusting, servicing on equipment such as mud pumps, hoses, hose connections, pop-off valve, shield shakers, belts, and guards. Potential hazards. Being caught between or struck by equipment. Slips, trips, and falls. Receiving a foreign body or fluid in the eye. Burned by fluid contact. Drowning in mud tank slash pit. Receiving strains and sprains. Possible solutions. Use proper lockout slash tack-out procedures. Wear personal protective equipment, such as hard hats, work gloves, safety shoes, and eye protection. Be aware of the slipping and falling hazards when working on the mud circulating system. Provide guardrails and guards around mud tanks. Electrical connections and power cords need to be checked for wear for deterioration and replaced if needed. Electric motors need to be serviced at recommended intervals. All guards should be present and correctly installed in motors. Electrical connections need to be kept sealed. Potential hazards. Receiving flash burns or shocks when servicing motors, generators, and breaker panels. Possible solutions. Do not wash down generators, electric motors, and breaker panels with water hose. Use proper lockout slash tack-out procedures. Wear appropriate personal protective equipment. Avoid wearing jewelry. Do not stand directly in front of breakers when operating. Use dielectric. Matte in front of control panel or breaker panel. Potential hazards. Being caught in moving equipment. Possible solutions. Avoid wearing jewelry. Use proper lockout slash tack-out procedures. Wear appropriate personal protective equipment. Cover with appropriate shields or guards all exposed revolving parts such as belts, flexible drives, generators, shafts and other moving parts to prevent contact and injury. Additional information, proper electrical equipment, electrical safety, including hot sticks. Association of Energy Service Companies, AESC, OSHA Safety and Health Topics Pages, Electrical. Machine guarding. Engines require servicing at recommended intervals. Potential hazards. Getting burned by hot fluids or engine parts. Possible solutions. Wear appropriate personal protective equipment. Let engine cool down before working on it. Use proper lockout slash tack-out procedures. Potential hazards. Being caught in moving equipment or moving parts. Possible solutions. Wear appropriate personal protective equipment. Use proper lockout slash tack-out procedures. Cover all exposed revolving parts with appropriate shields and guards. Maintenance activities in the derrick consists of lubricating the swivel, traveling block, and crown block, and replacement of swivel packing. Potential hazards. Getting caught between equipment and objects. Possible solutions. Use proper lockout-slash-tagout procedures Potential hazards Falling from heights Possible solutions Use appropriate fall protection Potential hazards Being struck by falling tools or equipment Possible solutions Wear appropriate personnel-protected equipment Minimize the number of personnel working on the rig floor Tie-off tools"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6EBF0FF4-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify key maintenance activities, potential hazards, and safety solutions for drilling equipment, including proper use of personal protective equipment and lockout/tagout procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "86f633a3-cce6-4b4e-b966-65c636951fab"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify key maintenance activities, potential hazards, and safety solutions for drilling equipment, including proper use of personal protective equipment and lockout/tagout procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "86f633a3-cce6-4b4e-b966-65c636951fab"
+        }
+      ]
+    },
+    {
+      "title": "Well Control",
+      "section_id": "c517987a-3657-453a-aa10-1888f009b71e",
+      "learning_objects": [
+        {
+          "title": "Well Control",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Properly trained personnel are essential for well control activities. Well control consists of two basic components, an active component consisting of drilling fluid pressure monitoring activities, and a passive component consisting of the blowout preventers, BOPs. The first line of defense in well control is to have sufficient drilling fluid pressure in the well hole. During drilling, underground fluids such as gas, water, or oil under pressure, the formation pressure opposes the drilling fluid pressure, mud pressure. If the formation pressure is greater than the mud pressure, there is the possibility of a blowout. The activities involved in well control are blowout prevention program, monitoring and maintaining mud system, installing BOPs, accumulator, and choke manifold, testing BOPs accumulators, and choke manifold, maintaining surface control system, blowout preventers. The second line of defense for the work of well control is to have sufficient drilling fluid pressure, mud pressure, and workers in the well to prevent a blowout is the group of equipment called blowout preventers, BOPs. BOPs and associated valves are installed on top of the casing head before drilling a head after rigging up. These high-pressure safety valves and associated equipment are designed to shut off the well hole and prevent the escape of the underground fluids and prevent a blowout from occurring. After installation, the BOP and associated valves are pressure tested to ensure integrity and proper operations. The BOP and associated equipment consists of BOPs and associated valves are installed on top of the casing head before drilling a head after rigging up. The BOPs and associated valves are accompanied by the BOPs and associated \uac1c OR tis. The individual containers are soiled BOPs and associated ERPs and other chips installed in each container, getting to the highest level of dependency equivalent for any gloves of any government and contract showers. When the BOPs are installed, they resemble the original standard KEP systems. BOPs and associated buckles of cutting, lados, etc. When the BOPs and associated buckles are installed, the traditional seventy ice creaker and offended are placed on top of the c\ufffd prev. 1300 LBS frames. Reflect sniff of dust dating form Loading wires and loose middle tops. NRMA V- \u0ba4 AP c\u0169ng Are usually mounted at the top of the bop stack. Ram-type bops have rubber-faced steel rams that come together with great force to seal the wellbore. Usually two or more ram-type bops are mounted in the bop stack. A choke manifold is a system of valves used to circulate out a kick and to circulate mud in of the proper weight. This device responds automatically to a kick and can prevent the blowout if properly installed and maintained. The bop control system, called an accumulator, provides the energy to operate the blowout centers. This system of consists of, compressed gas bottles, regulator valves, pumps, hydraulic reservoir, control manifold, and control valves. Potential hazard, receiving injuries caused by loss of well control. Possible solutions, appropriate training for tasks performed. Example topics include the following, causes of kicks, including detection. Pressure concepts and calculations. Well control procedures. Gas characteristics and behavior. Fluids. Constant bottom hole pressure well control methods. Well control equipment. Regulatory information. Use of appropriate well control equipment including, specification. Installation. Maintenance. Additional information. Well CAP. International Association of Drilling Contractors, IADC, 2006. Ensures that well control training schools adhere to a core curriculum developed by industry. RP-53, Blowout Prevention Equipment Systems for Drilling Operations. Second edition. American Petroleum Institute, AP I, 2006, May.' The MUDD circulatory system consists of the elements shown in Figure Two. Each part of this system must function and be in good repair to maintain well control. For more information, see Maintenance Activities. If the MUDD level increases, it may be a sign that a kick is in progress. On some rigs there is a MUDD Float Level Gauge' which sounds an automatic alarm if the MUDD is not listed on. If the station are forbidden to use slow if the mud exceeds a pre-specified level potential hazard loss of well control blowout possible solutions keep the mud circulating system in good working order check and maintain the properties of the drilling fluid including proper pit level periodically properly train crew in monitoring and well control procedures maintain a properly functioning surface control system pause this video to read the rest of the information at your own pace when you are ready to continue play the video the blowout preventer bop accumulator and choke manifold are installed by the rig crew after the surface casing is set and cemented the accumulator and choke manifold have been set into place during rigging up and now need to be hooked up and tested the choke line valve is used to redirect the mud from the wellboard to the choke manifold during a kick the kill line valve is used to direct drilling fluid to the bop during a kick potential hazard being crushed by falling equipment if hoisting slings fail being struck by pinched by or caught between equipment during installation possible solutions ensure workers stand clear of equipment being hoisted and tag lines are used where appropriate coordinate hoisting tasks with rig crew inspect the hoisting slings for wear before any hoisting operation ensure all personnel wear proper ppe additional resources rp53 blowout prevention equipment systems for drilling operations second edition american petroleum institute api 2006 may provides information that can serve as a guide for installation and testing of blowout prevention equipment systems on land and marine drilling rigs barge platform bottom supported and floating this is the recommended specification for the installation use and maintenance of this equipment the bops accumulators and choke manifold should be tested and properly maintained potential hazards being hit by hoisting slings for hoses or sprayed by hydraulic fluid if there is a seal or hydraulic line failure during pressure testing possible solutions ensure workers stand clear of pressurized lines during testing procedures properly maintain the surface control system potential hazards protruding pipes and objects being struck by dropped objects slips trips and falls atmospheric hazards possible solutions wear appropriate personal protective equipment such as hard hats work gloves safety and eye protection. Implement injury awareness training, such as dropped objects, working from heights, use appropriate fall protection. Ensure workers are aware of the slipping and falling hazards. Monitor for potential hazards, H2S, methane, O2 deficiency."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "6F7B4FCA-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the essential components of well control, including drilling fluid pressure monitoring and blowout preventer (BOP) systems, and identify key safety measures to prevent blowouts during drilling operations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "48fa8d31-fa1d-4a98-ae11-2fc90a58d55f"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the essential components of well control, including drilling fluid pressure monitoring and blowout preventer (BOP) systems, and identify key safety measures to prevent blowouts during drilling operations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "48fa8d31-fa1d-4a98-ae11-2fc90a58d55f"
+        }
+      ]
+    },
+    {
+      "title": "General Safety & Health",
+      "section_id": "fed3cb19-cedc-4d92-8ea1-56cfdf9130d1",
+      "learning_objects": [
+        {
+          "title": "General Safety & Health",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "This chapter lists many general safety and health concerns. Each topic is linked to a page with more information about the activity and sources of information. The links included in the text of this chapter provide additional references for this course. This additional information is not included in the final exam for this course. Establish a safety and health program. For further guidance see Safety and Health Management Systems eTool. Contact your workers' compensation insurance provider engineering group for further information about behavior-based safety programs. See OSHA's Oil and Gas Well Drilling, Servicing, and Storage Safety and Health Topics page. Contact OSHA Consultation Services. From the OSHA Consultation Service employers can find out about potential hazards at their work sites, improve their occupational safety and health management systems, and even qualify for a one-year exemption from routine OSHA inspections. General Safety and Health Management Systems Safety and Health Resources. Slips, trips, and falls. Strains and sprains. Weather conditions. Crane, derrick, and hoist safety. OSHA Safety and Health Topics page. Electrical. OSHA Safety and Health Topics page. Fire safety. OSHA Safety and Health Topics page. Hand and power tools. OSHA Safety and Health Topics page. H2S controls. Confined spaces. OSHA Safety and Health Topics page. Pressure vessels. OSHA Safety and Health Topics page. Compressed gas and equipment. OSHA Safety and Health Topics page. Control of hazardous energy. Lockout slash tag out. OSHA Safety and Health Topics page. Hydrogen sulfide. OSHA Safety and Health Topics page. Ventilation. Respiratory protection as it relates to oil fields. OSHA Standard Interpretation, 1993, April 14. Hot work, welding. Control of hazardous energy. Lockout slash tag out. OSHA Safety and Health Topics page. Motor vehicle safety. OSHA Safety and Health Topics page. Powered industrial trucks. OSHA Safety and Health Topics page. Personal protective equipment, PPE. Personal protective equipment, PPE. OSHA Safety and Health Topics page. Eye and face protection. OSHA Safety and Health Topics page. Personal protective equipment, for general industry osha federal register final rules 59 to 16 334 to 16 364 1994 april 6th noise and hearing conservation osha safety and health topics page respiratory protection osha safety and health topics page 29 cfr 1910 subpart i personal protective equipment osha standard 29 cfr 1910.132 general requirements"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "70512B72-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and understand the key safety and health concerns in oil and gas drilling operations, including specific OSHA standards and resources for addressing these issues.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "4aee95f7-c013-4cde-a2a3-8e8689118e36"
+          }
+        },
+        {
+          "title": "Slips, Trips, and Falls",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "There are many ways to protect from slips, trips, and falls. Even so, they still happen and the following are means to either prevent slips, trips, and falls or to minimize the consequences if they should happen. Wear personal protective equipment, such as hard hats, work gloves, safety shoes, and eye protection. Be aware of the slipping and falling hazards when working on the drilling floor, servicing rig floors or other platforms. Keep all work areas clean and clear of oil, tools, and debris. Use non-skid surfaces where appropriate. Provide guardrails and guards around work areas that are prone to slips, trips, and falls. Install, inspect, and secure stairs and handrails. 29 CFR 1926.1052 Instruct workers on proper procedures for using and installing ladders. Use only ladders in good repair that do not have missing rungs. Do not install stairs with missing or damaged steps. Repair them before installing them. Keep walkways clean and free of debris and tripping hazards. 29 CFR 1910.22 Keep all cords and hoses orderly and clear of walking spaces. Cover open cellars. Conduct a pre-job inspection to identify, then eliminate or correct hazardous work surfaces. Walking-slash-working surfaces standard requires, 29 CFR 1910.22a, 1, Keep all places of employment clean and intact. Keep aisles and passageways clear and in good repair, with no obstruction across or in aisles that could create a hazard, 29 CFR 1910.22b, 1. Provide floor plugs for equipment so power cords need not run across pathways. Use waterproof footgear to decrease slip-slash-fall hazards. Additional resources, walking-slash-working surfaces. OSHA Safety and Health Topics page. 29 CFR 1910.22a, 1, Provide floor plugs for equipment so power cords need not run across pathways. 29 CFR 1910.22a, 1, Provide floor plugs for equipment so power cords need not run across pathways. OSHA Standards Small Business Handbook. OSHA Publication 220902R, 2005. Walkways. Floor and Wall Openings. Stairs and Stairways. Elevated Surfaces."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "70B22E72-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and implement various safety measures to prevent slips, trips, and falls in drilling environments, including proper use of PPE, maintenance of work areas, and adherence to OSHA standards for walking-working surfaces.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "151f6002-8241-42e2-9776-88e81054131b"
+          }
+        },
+        {
+          "title": "Fall Protection",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Fall Protection OSHA Safety and Health Topics Page ANSI Z359 Fall Protection Code Z359.0 Definitions and Nomenclature Used for Fall Protection and Fall Arrest Z359.1 Safety Requirements for Personal Fall Arrest Systems, Subsystems and Components Z359.2 Minimum Requirements for a Comprehensive Managed Fall Protection Program Z359.3 Safety Requirements for Positioning and Travel Restraint Systems Z359.4 Safety Requirements for Assisted Rescue and Self-Rescue Systems, Subsystems and Components Construction OSHA e-Tool Body Harness Please recognize that there is a weight limit, including equipment. Webbing General solutions for strains and sprains include, use proper lifting technique. Hoist slowly to limit pipe momentum. Seek assistance when moving upward in heavy guards and covers. Use proper stance and slip lifting techniques. Slips have three handles and should be lifted jointly by more than one person. Use lifting equipment and limit manual positioning of elevators. Practice proper hand placement and use of pullback, tail, ropes use mechanical lifting aids, proper lifting techniques, and team lifting where appropriate. Use proper hand and body positioning. Ergonomics OSHA Safety and Health Topics Page Weather conditions can create hazardous working conditions. Therefore it is necessary to monitor weather conditions and forecasts to allow time to prepare for such conditions as may occur. Lightning is especially hazardous and unpredictable. When lightning is present, crews must avoid situations where they could become part of potential current paths."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "70E2242E-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify key fall protection equipment, standards, and ergonomic practices for safe drilling operations, including proper lifting techniques and weather-related hazards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "04d61e6a-2dc3-4cd0-8b4e-47c5f0c458fd"
+          }
+        },
+        {
+          "title": "Hot Work/Welding",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Hot work is any work that involves burning, welding, using fire or spark-producing tools, or that produces a source of ignition. Welding and cutting operations are common to drilling and servicing operations. Test for flammable gases in the work area before starting any hot work. Potentially hazardous areas include, but are not limited to, wellheads, fuel tanks, mud tanks, tank batteries, gas separators, oil treaters, or confined spaces where gases can accumulate. Hot work, fire, and explosive hazards. Welding, cutting, and brazing. Cylinder storage. Grinding. Wellside ignition sources. Workers performing hot work such as welding, cutting, brazing, soldering, and grinding are exposed to the risk of fires from ignition of flammable or combustible materials in the space, and from leaks of flammable gas into the space, from hot work equipment. Potential hazard. Getting burned by fires or explosions during hot work. Possible solutions. The basic precautions for fire prevention are. Perform hot work in a safe location, or with fire hazards removed or covered. 1910.252A-11 Use guards to confine the heat. Sparks. And slag, and to protect the immovable fire hazards. 1910.252A-12 Special precautions. Do not perform hot work where flammable vapors or combustible materials exist. Work and equipment should be relocated outside of the hazardous areas, when possible. 1910.252A-12 Make suitable fire extinguishing equipment immediately available. Such equipment may consist of pails of water, buckets of sand. 1910.252A-12 Use guards to confine the heat. Sparks. hose, or portable extinguishers. 1910.252A, 2-2. Assign additional personnel, fire watch, to guard against fire while hot work is being performed in locations where anything greater than a minor fire might develop, 1910.252A, 2-3A, or if any of the following conditions exist. Appreciable combustible material is closer than 35 feet to the point of operation. Appreciable combustibles are more than 35 feet away but are easily ignited by sparks. Wall or floor openings within a 35-foot radius expose combustible material in adjacent areas including concealed spaces in walls or floors. Combustible materials are adjacent to the opposite side of metal partitions, walls, ceilings, or roofs and are likely to be ignited by conduction or radiation. Fire watchers shall have fire extinguishing equipment readily available and be trained in its use. Be familiar with facilities for sounding an alarm in the event of a fire. Watch for fires in all exposed areas. Try to extinguish them only when obviously within the capacity of the equipment available, or otherwise sound the alarm. Maintain the fire watch at least a half hour after completion of welding or cutting operations to detect and extinguish possible smoldering fires. 1910.252A, 2-3B. Potential hazard. Getting burned by a flash fire or explosion that results from an accumulation of flammable gases, such as methane or hydrogen sulfide, around the wellhead area. Possible solutions. Monitor the atmosphere with a gas detector. If a flammable or combustible gas exceeds 10% of the lower explosive level, LEL, the work must be stopped. Identify the source of the gas and repair the leakage. Additional references, OSHA standards. 1,910.106, Flammable and Combustible Liquids. 1,910.252, Welding, Cutting, and Brazing, General Requirements. 1,910.253, Oxygen Fuel Gas Welding and Cutting. 1,910.254, Arc Welding and Cutting. 1,910.255, Resistance Welding. API RP-54, Recommended Practice for Occupational Safety for Oil and Gas Weld Drilling and Servicing Operations. Publication 2201. NFPA 30-51B, Flammable and Combustible Liquids Code, National Fire Protection Association. Hot Work. ESC. All hot work is potentially hazardous and a hazard assessment should be performed to determine where the hazards exist. Potential Hazard. Injury and Illness Caused by Hot Work, Such as, Welding Fumes, UV Light, Sparks, Noise, or Skin Injury. Possible Solutions. Inspect the work area to ensure that all fuel and ignition sources are isolated by shielding, clearing the area, lockout-slash-tagout, soaking flammable material with water. Wear appropriate PPE, such as face shield, leather welder's vest, and gauntlet gloves. Use cotton or denim clothing. Provide UV shielding for arc welding where practical. Inspect welding and cutting equipment before use, arc or gas welding-slash-burning. Leak test gas torches, gauges. And hoses. Review the hot work permit if available. Ensure the availability of adequate fire watch-slash-fire protection equipment. Ensure adequate ventilation from toxic welding and cutting fumes. Special Hazard. Accumulation of toxic gases within a confined space. A hazardous atmosphere exists in ox welding, cutting and bruising. Egon-deficient, atmospheric concentration of less than 19.5%, or oxygen-enriched, atmospheric concentration of more than. 23.5%. 1,910.146 confined space entry. Possible solutions. Ventilate toxic metal fumes mechanically, if entering a confined space, such as inside of a mud tank, water tank, oil tanks, hoppers, sump, pit or cellar. Use the written permit system to document authorization to enter, the work to be performed, and the results of the gas monitoring where there is a potential for toxic, flammable, or oxygen-deficient fumes. Both the hot work and confined entry permit may be required for welding, cutting or brazing within a confined space. Additional References ESC recommended safe procedures and guidelines for oil and gas well servicing. Section X, Welding, Cutting and Brazing and Hot Work, Pages 77-80, April 2000. ANSI Z49.1-67 Safety and Welding and Cutting, American National Standards Institute. AWS Z49.1-67 Safety and Welding and Cutting, American National Standards Institute. AWS Z49.1-67 Safety and Welding and Cutting, American National Standards Institute. 9.1288 Safety and Welding and Cutting and Applied Processes, American Welding Society"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "717C964E-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards associated with hot work in drilling operations and understand safety precautions and procedures to prevent fires, explosions, and personal injuries.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0230c0ad-6e6b-41f1-a540-43ea3fdb0b07"
+          }
+        },
+        {
+          "title": "Cylinder Storage",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Potential hazard, falling or rolling injuries from improper gas cylinder storage possible solutions, ensure cylinders are properly stored in an upright position and chained in separate racks. Store full and empty cylinders separately. Potential hazard, valve opening or break off, exposing workers to toxic fumes and flammable gas, caused by improper gas cylinder storage possible solutions, store cylinder properly. Always remove gauges and regulators, and install protective valve caps before transporting. Potential hazard, gas cylinders causing fires or explosions possible solutions, store cylinders in a dry, well-ventilated location. Avoid storing flammable substances in the same area as gas cylinders. Avoid storing cylinders of oxygen within 20 feet of cylinders containing flammable gases. Store all cylinders upright and chained in separate racks. Store full and empty cylinders separately. Additional References, Compressed Gas Cylinders, AESC Potential hazard, grinding, that results in sparks, noise, eye and skin injury from flying metal filings, grinding wheel pieces, etc. Having fingers or hands caught in the grinding wheel, resulting in amputation. Being struck by portable grinder. Possible solutions, wear appropriate PPE, such as face shield. Use cotton or denim clothing. Inspect grinding equipment beforehand. ...for use. Review the hot work permit if available. Ensure the availability of adequate fire watch slash fire protection equipment."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "7215A32A-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards associated with gas cylinder storage and grinding operations, and understand appropriate safety measures and storage solutions to prevent accidents and injuries.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "e1416654-2442-4237-9730-35624ea7b72c"
+          }
+        },
+        {
+          "title": "Well Site Ignition Sources",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "There are a number of potential sources of ignition for flammable gases and liquids on the drill site. It is necessary to provide for a general ignition safety program which could preempt potential hazards of fire and explosion. Potential Hazard Ignition and explosions of flammable gases or vapors from Internal combustion engine sparks Open flames from any source Smoking Welding operations Electric power tools Two-way radios Vehicles with catalytic converters Portable generators Possible solutions Provide spark arresters for internal combustion engines Post no smoking signs wherever a flammable gas or vapor hazard exists Locate spark-producing equipment or facilities well away from potential hazard areas Prohibit vehicles with catalytic converters from the immediate vicinity of the rig Prohibit open flames from the vicinity of the rig Additional Information, API, 500 API, RP 54 IADC, Accident Prevention Reference Guide ESC, Recommended Safe Procedures and Guidelines for Oil and Gas Well Servicing 1910.106, OSHA Flammable and Combustible Liquids 1910 Subpart S, OSHA Electrical"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "7245B9D4-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential ignition sources on drill sites and understand safety measures to prevent fires and explosions.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "3aae326c-9305-4f0e-8a87-f05b54078f5b"
+          }
+        },
+        {
+          "title": "Hydrogen Sulfide Gas",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Note, it is not the intent of this section to create an H2S contingency plan. Hydrogen sulfide or sour gas, H2S, is a flammable, colorless gas that is toxic at extremely low concentrations. It is heavier than air, and may accumulate in low-lying areas. It smells like rotten eggs at low concentrations and causes you to quickly lose your sense of smell. Many areas where the gas is found have been identified, but pockets of the gas can occur anywhere. Iron sulfide is a byproduct of many production operations and may spontaneously combust with air. Flaring operations associated with H2S production will generate sulfur dioxide, SO2, another toxic gas. Active monitoring for hydrogen sulfide gas and good planning and training programs for workers are the best ways to prevent injury and death. Also see, NIOSH Classification of H2S Hazard Areas. Release of H2S. Metal Fatigue. Accumulation of H2S. Additional Information. Appendix A, Physical Properties and Physiological Effects of Hydrogen Sulfide. All personnel working in an area where concentrations of hydrogen sulfide may exceed the 10 parts per million, PPM, should be provided with training before beginning work assignments. Potential Hazard. H2S Exposure Greater Than the Permissible Exposure Limit, PEL Possible Solutions. Implement an H2S Contingency Plan, C-API, including, but not limited to. Appropriate Instruction in the Use of Hydrogen Sulfide Safety Equipment to All Personnel Present at All Hydrogen Sulfide Hazard Areas. Gas Detection Where Hydrogen Sulfide May Exist. Appropriate Respiratory Protection for Normal and Emergency Use. Respiratory Protection Standard, 29 CFR 1910.134, H2S. For Emergency Response Information, See Hazardous Waste and Emergency Use. Response, Haze Whopper, Standard, 29 CFR 1910.120. Comprehensive Training Should Be Provided for Workers in H2S Operations. Example Topics Include. Identification of the Characteristics, Sources, and Hazards of Hydrogen Sulfide. Proper Use of the Hydrogen Sulfide Detection Methods Used on a Site. Recognition of, and Proper Response to, Hydrogen Sulfide Warnings at the Workplace. Symptoms of Hydrogen Sulfide Exposure. Proper Rescue Techniques and First Aid Procedures to be Used in a Hydrogen Sulfide Exposure. Proper Use and Maintenance of Personal Protective Equipment. Demonstrated Proficiency in Using PPE Should Be Required. Worker Awareness and Understanding of Workplace Practices and Maintenance Procedures to Protect Personnel from Exposure to Hydrogen Sulfide. Wind Direction Awareness and Routes of Egress. Example Topics for H2S Operations Continued. Confined Space and Hydrogen Sulfide. For Emergency Response, See Hazardous Waste and Emergency Use. Space and Enclosed Facility Entry Procedures. Locations and Use of Safety Equipment. Locations of Safe Briefing Areas. Use and Operation of All Hydrogen Sulfide Monitoring Systems. Emergency Response Procedures, Corrective Action, and Shutdown Procedures. Effects of Hydrogen Sulfide on the Components of the Hydrogen Sulfide Handling System. The Importance of Drilling Fluid Treating Plans Prior to Encountering Hydrogen Sulfide. RP49, Recommended Practice for Drilling in Well Servicing Operations Involving Hydrogen Sulfide. American Petroleum Institute, API, 2001, May-Reaffirmed 2007, March. Includes Well Drilling, Completion, Servicing, Workover, Downhole Maintenance, and Plug and Abandonment Procedures Conducted with Hydrogen Sulfide Present in the Fluids Being Handled. Recommended Safe Procedures and Guidelines for Oil and Gas Well Servicing. Association of Energy Services Companies, AESC. Respirator Usage. 68 KB PDF, 18 Pages. H2S, Hydrogen Sulfide. 14 KB PDF, 2 Pages. Accessibility Assistance, Contact the OSHA Directorate of Science, Technology and Medicine for Assistance Accessing PDF Materials. Metal Fatigue, Including Hydrogen Embrittlement or Sulfide Stress Cracking, Can Result in a Release of Hydrogen Sulfide Gas. Potential Hazard, Being Exposed to Hydrogen Sulfide. Getting Injured Due to Equipment Failure. Possible Solutions. Select Materials in Accordance with the MR-0175-ISO-15156 Criteria for H2S Service. MR-0175, Metals for Sulfide Stress Cracking and Stress Corrosion Cracking Resistance in Sour Oil Field Environments. National Association of Corrosion Engineers, N.A.C.E., 2003, December, Also ISO-1530. Petroleum and Natural Gas Industries, Materials for Use in H2S Containing Environments in Oil and Gas Production, International Standards Organization, ISO. Technical Committees, MR-0175 Links. Reviewed and Approved 15 Proposals for Change to the Standard. Treat Drilling Fluids to Chemically Reduce Corrosion Failures."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "72814058-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the characteristics, hazards, and safety measures associated with hydrogen sulfide (H2S) in drilling operations, including proper training, detection methods, and emergency response procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d56fe80e-018f-408b-a846-a184ae980ac5"
+          }
+        },
+        {
+          "title": "Accumulation of H2S",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "It is possible for hydrogen sulfide gas to accumulate in any low or enclosed area, such as a gas venting system, mud system, cellars, pits, and tanks. Potential Hazard Being Exposed to Hydrogen Sulfide Possible Solutions Provide adequate ventilation for the removal of any accumulation of H2S. Implement Effective Confined Space Entry Program Additional Information Additional Guidance Materials are available from RP-49, Recommended Practice for Drilling and Well Servicing Operations Involving Hydrogen Sulfide American Petroleum Institute, API, 2007, March http://www.api.org/.publications/.epstandards/.index.cfm Includes Well Drilling, Completion, Servicing, Workover, Downhole Maintenance, and Plug-in Abandonment Procedures Conducted with Hydrogen Sulfide Present in the Fluids Being Handled Spec 6A Specification for Wellhead and Christmas Tree Equipment Includes Errata 3 Dated June 2006 19th Edition 2004, July Also ISO 10423-2003 Specifies Requirements and Gives Recommendations for the Performance, Dimensional and Functional Interchangeability Design, Materials, Testing, Inspection, Welding, Marking, Handling, Storing, Shedding, and Restoring Equipment and Purchasing of Wellhead and Christmas Tree Equipment for Use in the Petroleum and Natural Gas Industries Spec 6A-718 Specification of Nickel Base Alloy 718 for Oil and Gas Drilling and Production Equipment Includes Addendum Dated March 2006 First Edition 2004, March Provides Specification Requirements for Nickel Base Alloy 718 UNSN 07718 That are Intended to Supplement the Existing Requirements of API Spec 6A and ISO 10423 These Additional Specification Requirements Include Detailed Process Control Requirements and Detailed Testing Requirements For Additional Information, See Publications on the API Website Recommended Safe Procedures and Guidelines for Oil and Gas Well Servicing Association of Energy Services Companies Respirator Usage 68 KB PDF, 18 Pages H2S, Hydrogen Sulfide 14 KB PDF, 2 Pages MR0175, Metals for Sulfide Stress Cracking and Stress Corrosion Cracking Resistance in Sour Oil Field Environments National Association of Corrosion Engineers, NACE, 2003, December, Also ISO 15156 Petroleum and Natural Gas, NACE, 2003, Dec. National Association of Corrosion Engineers, NACE, 2003, Dec. National Association of Corrosion Engineers, NACE, 2003, Dec. National Association of Corrosion Engineers, NACE, 2003, Dec. Industries, Materials for Use in H2S Containing Environments in Oil and Gas Production, International Standards Organization, ISO. Technical Committees, Mr. 0175 Links. Consists of three standards and four technical core agenda, addenda, available through NACE as a complete package Part 1, General Principles for Selection of Cracking-Resistant Materials, Part 2, Cracking-Resistant Carbon and Low Alloy Steels, and the Use of Cast Irons, Part 3, Cracking-Resistant CRAs, Corrosion-Resistant Alloys, and Other Alloys Part 1, Technical Core Agenda 1 Part 2, Technical Core Agenda 1 Part 3, Technical Core Agenda 1 Part 3, Technical Core Agenda 2 Keywords, Aluminum Alloys, Austenitic Stainless Steels, Bolts, Carbon Steels, Cast Iron, Ceramic Coatings, Cobalt Alloys, Cold Working, Copper Alloys, Fabrication, Ferritic Stainless Steels, Free Machines, and Other Alloys. Machining Steels, Hardness, Hydrogen Sulfide, Identification Marking, Low Alloy Steels, Martensitic Stainless Steels, Metals, Oil Field Production Equipment, Overlays, Precipitation Hardening Steels, Pressure Gauges, Protective Coatings, Sealing Rings, Shot Peening, Sour Environments, Springs, Stainless Steels, Sulfide Stress Cracking, Valves, Welding. Accident Prevention Guide. International Association of Drilling Contractors IADC. Respiratory Protection as it Relates to Oil Fields. OSHA Standard Interpretation, 1993, April 14. 29 CFR 1910.134, OSHA Respiratory Protection Standard. NFPA 70, National Electrical Code. National Fire Protection Agency, NFPA, 2005. Offers Free Online Access to the NFPA Code. State Programs. Alaska Administrative Code, Title 20, Chapter 25. Alaska Administrative Code, Alaska Oil, and Gas Conservation Commission, Title 20, Chapter 25. Petroleum Safety Orders Drilling and Production. Cal-Osha Standards, California Code of Regulations, Title 8, Chapter 4, Division of Industrial Safety, Sub-Chapter 14. Chapter 3, Oil and Gas Division. Texas Administrative Code. Texas Administrative Code, TAC, Title 16. Economic Regulation, Part 1. Railroad Commission of Texas, Chapter 3. R6-14-2. Drilling Industry. Title 34A, Chapter 6, Utah Occupational Safety and Health Act of 1973. Oil and Gas Well Drilling. Employment, Wyoming Department of Occupational Health and Safety, Rules. Training Programs, Drilling Technology Series. Petroleum Extension Service. Petex, University of Texas at Austin. Unit I, The Rig and Its Maintenance. Unit II, Normal Drilling Operations. Unit III, Non-Routine Operations. Unit IV, Man Management and Rig Management. ASCC 390.1, Accepted Practices for Hydrogen Sulfide Safety Training Programs. American Society of Safety Engineers, ASSE, 2006, June. H2S Training and Information. American Petroleum Institute, AAPI, 2007. Download PDF files of the 2007 publications programs and services. Training Publications. 246 KB PDF, 17 pages. International Association of Drilling Contractors, IADC."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "7322E926-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential hazards associated with hydrogen sulfide gas accumulation in drilling operations and understand recommended safety solutions and industry standards for managing these risks.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0441986d-deb7-45ec-8a0c-ec8f45640a4b"
+          }
+        },
+        {
+          "title": "H2S Special Precautions",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "hydrogen sulfide gas is very corrosive and causes metals to become brittle therefore employers need to take special precautions when choosing equipment when they may reasonably expect to encounter h2s this may include appropriate h2s trimming of equipment in accordance with national association of corrosion engineers nace standards all well drilling sites should be classified according to areas of potential and or actual exposure to h2s the recommendations and employee instruction will vary depending on the type of area no hazard condition api condition i low hazard api condition 2 medium hazard api condition 3 high hazard no hazard condition any well that will not penetrate a known hydrogen sulfide formation would be categorized as a no hazard area special hydrogen sulfide equipment is not required work locations where atmospheric concentrations of h2s are less than 10 parts per million recommended for area hydrogen sulfide warning sign with green flag warning device present keep all safety equipment in adequate working order store the equipment in accessible locations work locations where atmospheric concentrations of h2s are greater than 10 parts per million and less than 30 parts per million recommended for area legible hydrogen sulfide warning sign with yellow flag warning device present keep a safe distance from dangerous locations if not working to decrease danger pay attention to audible and visual alarm systems follow the guidance of the operator representative keep all safety equipment in adequate working order store the equipment in accessible locations an oxygen resuscitator a properly calibrated metered hydrogen sulfide detection instrument work locations where atmospheric concentrations of h2s are greater than 30 parts per million recommended for area post legible hydrogen sulfide warning sign with red flag warning device post signs 500 feet from the location on each road leading to the location warning of the hydrogen sulfide hazard check all hydrogen sulfide safety equipment to ensure readiness before each tour change establish a means of communication or instruction for emergency procedures and maintain them on location along with contact information of persons to be informed in case of emergencies ensure usability of two exits at each location do not permit employee on location without hydrogen sulfide safety training. Employees may be permitted on location for specific hydrogen sulfide training purposes that does not include general rig training. Pay attention to audible and visual alarm systems. Store the equipment in accessible locations. Two hydrogen sulfide detectors should be present, one should be a properly calibrated, meter detection instrument, and the other should be a pump type with detector tubes. The maximum permissible exposure limit, PL, is 20 parts per million. Respiratory protection would be required if periodic testing indicates employee exposures to H2S at concentrations above the PEL. CIOCHA Standard Respiratory Protection, 1910.134. Oxygen Resuscitator. Three windsocks and streamers. Two NIOSH-MSHA 30-minute, self-contained breathing apparatus for emergency. Escape from the contaminated area only."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "73BBEEB4-8353-11EB-A367-702A67F96AF6",
+          "learning_objective": {
+            "topic": "OSHA Safety: Drilling",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the hazard classifications for hydrogen sulfide (H2S) exposure at drilling sites and understand the corresponding safety precautions and equipment requirements for each level of risk.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "911c1345-94c3-4daa-85ad-22742fa708ca"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and understand the key safety and health concerns in oil and gas drilling operations, including specific OSHA standards and resources for addressing these issues.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "4aee95f7-c013-4cde-a2a3-8e8689118e36"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and implement various safety measures to prevent slips, trips, and falls in drilling environments, including proper use of PPE, maintenance of work areas, and adherence to OSHA standards for walking-working surfaces.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "151f6002-8241-42e2-9776-88e81054131b"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify key fall protection equipment, standards, and ergonomic practices for safe drilling operations, including proper lifting techniques and weather-related hazards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "04d61e6a-2dc3-4cd0-8b4e-47c5f0c458fd"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards associated with hot work in drilling operations and understand safety precautions and procedures to prevent fires, explosions, and personal injuries.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0230c0ad-6e6b-41f1-a540-43ea3fdb0b07"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards associated with gas cylinder storage and grinding operations, and understand appropriate safety measures and storage solutions to prevent accidents and injuries.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "e1416654-2442-4237-9730-35624ea7b72c"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential ignition sources on drill sites and understand safety measures to prevent fires and explosions.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "3aae326c-9305-4f0e-8a87-f05b54078f5b"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the characteristics, hazards, and safety measures associated with hydrogen sulfide (H2S) in drilling operations, including proper training, detection methods, and emergency response procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d56fe80e-018f-408b-a846-a184ae980ac5"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential hazards associated with hydrogen sulfide gas accumulation in drilling operations and understand recommended safety solutions and industry standards for managing these risks.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0441986d-deb7-45ec-8a0c-ec8f45640a4b"
+        },
+        {
+          "topic": "OSHA Safety: Drilling",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the hazard classifications for hydrogen sulfide (H2S) exposure at drilling sites and understand the corresponding safety precautions and equipment requirements for each level of risk.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "911c1345-94c3-4daa-85ad-22742fa708ca"
+        }
+      ]
+    }
+  ],
+  "course_id": "F2082C18-8238-11EB-9CA4-702A67F96AF6",
+  "description": "The oil and gas industry employs hundreds of thousands of people and is a vital component of the national economy. Worker safety and health are important to this industry and it is essential to be aware of potential hazards present in the workplace. This 4-hour interactive online course discusses OSHA standards and directives that dictate OSHA safety procedures for oil and gas well drilling. This course also identifies common hazards and possible solutions to reduce incidents that could lead to injuries or fatalities.",
+  "revision_id": "6379C7EC-8353-11EB-A367-702A67F96AF6",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 5505.161999999999
+}

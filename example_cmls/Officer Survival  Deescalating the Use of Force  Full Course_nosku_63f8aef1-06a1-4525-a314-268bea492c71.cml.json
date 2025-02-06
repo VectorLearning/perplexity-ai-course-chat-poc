@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "goal": "unknown",
+  "title": "Officer Survival - De-escalating the Use of Force - Full Course",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "e5b7e3bc-ef91-441b-9f8a-a4e0e7ba81f9",
+      "learning_objects": [],
+      "visibility_rules": [],
+      "learning_objectives": []
+    },
+    {
+      "title": "De-escalating the Use of Force",
+      "section_id": "b6b9246e-5006-40e1-9062-3254b14e18df",
+      "learning_objects": [],
+      "visibility_rules": [],
+      "learning_objectives": []
+    }
+  ],
+  "course_id": "F5BF4F70-C3BC-11EA-AEAC-B14B42E589C8",
+  "description": "The use of deadly force is a topic widely discussed, but what happens when the suspect has begun to comply and deadly force is no longer needed? This course illustrates the dangers when de-escalation techniques are not a part of training. Lt. Dennis Smith demonstrates transition drills to stress de-escalation and shows us a scenario where officers must use these techniques.",
+  "revision_id": "63f8aef1-06a1-4525-a314-268bea492c71",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 0.0
+}

@@ -1,0 +1,848 @@
+{
+  "sku": "JCT-303B",
+  "goal": "Equip learners with comprehensive knowledge and practical skills to effectively prevent, manage, and respond to bloodborne pathogen exposures in various workplace settings, emphasizing safety protocols, proper equipment use, and post-exposure procedures.",
+  "title": "Bloodborne Pathogens - Full Course",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "9c2b1bcd-7fb3-455b-a597-1b75fee563e9",
+      "learning_objects": [
+        {
+          "title": "Scenario \u2013 Box Cutter",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Hey Amanda. Hey Miguel. Need a hand? For sure, thanks. Here. Great. You know, if Em helps out, we could get these all done before lunch. I'll go check if she's busy. Okay. I cut my hand. Uh, the first aid kit. Is everything okay? Oh, whoa, we need to get to urgent care. Yeah, can you drive him? Yeah. Gloves. Right, the pathogens training. It's all right, we'll clean it up later. Okay. Just put something on it. Okay. Here, put pressure on it with this. Okay. All right, let's go. Okay. Oh. I think it's only five minutes. All right, you're gonna be okay. That happened yesterday. Poor Miguel. I know, that was scary. I didn't know what to do. You did great. You even remembered to put gloves on. Good thing we took that first aid training course last week. For real, great timing. What's up, guys? Mind if I help with my one good hand here? Yeah, just be careful. Least I can do for complicating the task. I, um, just wanted to thank you both. Seriously. The bandaging, taking me to the hospital, everything. Thank you. Hey, it's no problem. All right, let's go."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B3249DDA-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Recognize the importance of using personal protective equipment (like gloves) and following proper procedures when dealing with potential bloodborne pathogen exposures in the workplace.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "8096269c-ae76-436c-8cfb-d82e2e2de4a2"
+          }
+        },
+        {
+          "title": "Course Overview",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "When you see someone get hurt or injured, is your first instinct to help? For your own safety, it's best to take a moment to assess some things first. Most importantly, could you be exposed to blood or other body fluids? When someone has a cut or puncture wound, or other traumatic injury, it is important to stop the bleeding, but you must consider blood-borne pathogens. What are those? Blood-borne pathogens are infectious microorganisms such as viruses and bacteria. That, if present in blood, can cause disease in humans. These pathogens can be transmitted from an infected person to a healthy person by contact with infected blood, other body fluids, or unfixed tissue and organs, other than intact skin. A number of relatively simple actions can be taken to drastically reduce the chance of exposure to blood-borne pathogens. This is especially important for healthcare workers, and others who are at an increased risk of exposure. Depending on the facility, equipment, and type of work being done, workplace controls, practices, and methods can be added or modified to minimize the chance of exposure. Appropriate personal protective equipment also helps to prevent the transfer of blood-borne pathogens from an infected person to a healthy person. By the end of this course, you will be able to Define the term blood-borne pathogen List and describe common types of blood-borne pathogens Explain how blood-borne pathogens are transmitted to humans, and how they can be used in the treatment of blood-borne pathogens and the risks they present. Describe techniques for transmission prevention, and Describe what you should do if you think you may have been exposed to a blood-borne pathogen."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B350EF98-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify blood-borne pathogens, their transmission methods, and prevention techniques to minimize exposure risks in healthcare and other high-risk settings.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d44abdaa-95fb-480e-8916-2c36623d98d9"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Recognize the importance of using personal protective equipment (like gloves) and following proper procedures when dealing with potential bloodborne pathogen exposures in the workplace.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "8096269c-ae76-436c-8cfb-d82e2e2de4a2"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify blood-borne pathogens, their transmission methods, and prevention techniques to minimize exposure risks in healthcare and other high-risk settings.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d44abdaa-95fb-480e-8916-2c36623d98d9"
+        }
+      ]
+    },
+    {
+      "title": "Bloodborne Diseases",
+      "section_id": "adfea278-dad0-4d00-b70d-a3f1eff18c7b",
+      "learning_objects": [
+        {
+          "title": "Bloodborne Pathogens",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "There are many different blood-borne pathogens. The three most common are hepatitis B, also called hep B or HPV, hepatitis C, also called hep C or HCV, and human immunodeficiency virus, or HIV, the virus that can lead to acquired immunodeficiency syndrome, or AIDS."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B3F913E4-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the three most common bloodborne pathogens and their associated acronyms.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "f827ba84-7952-47f6-9fdf-ad6d539951c9"
+          }
+        },
+        {
+          "title": "Hepatitis B",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Hepatitis B is a liver disease caused by the Hepatitis B virus, or HPV. The infection is usually acute or short-term, meaning it lasts less than six months. For others, it becomes chronic, meaning it lasts longer than six months. Short-term symptoms range from none at all to vomiting, yellowish skin, tiredness, dark urine, and abdominal pain. Most victims recover fully after contracting HPV, even if their symptoms are severe. However, approximately 5% of adults who are infected develop chronic lifelong hepatitis. Most chronic sufferers have few ongoing symptoms. However, they are at an increased risk of developing cirrhosis of the liver or liver cancer, both of which are life-threatening conditions. There is a vaccine to prevent HPV, but there is no cure. For chronic HPV sufferers, antiviral medications can sometimes slow the progression of the disease. If there is a reasonable chance that a worker may come into contact with blood-borne pathogens while performing normal job tasks, their employer must cover the cost of a Hepatitis B vaccination if requested by a worker."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B4377F62-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the nature, symptoms, and potential long-term effects of Hepatitis B, as well as the availability of preventive vaccines and employer responsibilities regarding vaccination.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "9cd0cee3-3c7e-4858-95b1-dac28e050555"
+          }
+        },
+        {
+          "title": "Hepatitis C",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Hepatitis C is a lung disease caused by the Hepatitis C virus, or HCV. Initial symptoms are usually severe and appear immediately. If present, they include fatigue, nausea, muscle or joint pain, and weight loss. Symptoms usually show up 2 to 12 weeks after exposure. HCV persists or becomes chronic in 75 to 85% of those infected. Most chronic sufferers have few symptoms initially, or for many subsequent years, but they are at a high risk of developing cirrhosis, liver disease, or liver cancer. There is no vaccine to prevent HCV. Antiviral medicines have been developed that are over 95% effective in eliminating the virus, but they are very expensive. In some cases, a liver transplant may be necessary. While the transplant itself won’t cure Hepatitis C, subsequent treatments will help to prevent it. Treatment with antiviral medicines can."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B4731CE8-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the symptoms, progression, and treatment options for Hepatitis C virus (HCV) infection, including its potential long-term health risks and current therapeutic approaches.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "6057f9fe-b603-4ac8-9ec9-7374d6d01099"
+          }
+        },
+        {
+          "title": "HIV",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "HIV stands for Human Immunodeficiency Virus. If left untreated, HIV can lead to acquired immunodeficiency syndrome, or AIDS. During the initial phase, HIV may cause flu-like symptoms, or perhaps none at all. HIV attacks and weakens the immune system over time, which can eventually lead to a wide range of infections and infection-related cancers. With a weakened immune system, these infections can be life-threatening. When a person's immune system is severely damaged, they are said to have AIDS. HIV typically turns into AIDS in about 8 to 10 years if left untreated. There is no vaccine for HIV and no cure. However, there are medicines that can control HIV and prevent complications. These antiretroviral therapy medicines, also called ART, can improve the quality and length of the life of someone with HIV-AIDS."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B4C71956-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the progression of HIV to AIDS, its impact on the immune system, and the role of antiretroviral therapy in managing the condition.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "180e2380-454b-46ec-90ef-dde1319e23c2"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the three most common bloodborne pathogens and their associated acronyms.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "f827ba84-7952-47f6-9fdf-ad6d539951c9"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the nature, symptoms, and potential long-term effects of Hepatitis B, as well as the availability of preventive vaccines and employer responsibilities regarding vaccination.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "9cd0cee3-3c7e-4858-95b1-dac28e050555"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the symptoms, progression, and treatment options for Hepatitis C virus (HCV) infection, including its potential long-term health risks and current therapeutic approaches.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "6057f9fe-b603-4ac8-9ec9-7374d6d01099"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the progression of HIV to AIDS, its impact on the immune system, and the role of antiretroviral therapy in managing the condition.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "180e2380-454b-46ec-90ef-dde1319e23c2"
+        }
+      ]
+    },
+    {
+      "title": "Transmission and Risks",
+      "section_id": "90899ad3-aeaa-4bd6-8b15-ed23abb1ba7a",
+      "learning_objects": [
+        {
+          "title": "Transmission",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Blood-borne pathogens live and exist in the blood of an infected person. Those pathogens may also be present in other body fluids, such as saliva, semen, vaginal fluids, or any body fluid contaminated with blood. In order for those pathogens to present a danger to you, you must somehow transfer it into your bloodstream. Infection can be transmitted by such activities as deliberate sharing of a needle, as is common in illicit drug use. A needle contaminated by an infected person's blood provides a direct route of transmission if it is reused by an uninfected person. A needle stick is the unintentional action of being poked with a needle. It has the same unfortunate effect as deliberate needle sharing if the needle has been contaminated. Cuts from other contaminated sharps, including but not limited to broken glass, scalpels, exposed dental wires, and broken capillary tubes. Sexual contact with an infected partner. Small cuts or tears in skin or membranes may allow the transfer of body fluids contaminated with blood. Blood transfusions. The risk of infection from a blood transfusion is low in places where the blood supply is screened and monitored. It may be higher in countries and locations where this is not done. Contact between infected body fluids and mucous membranes, such as in the eyes, nose, and mouth, or skin that has cuts, scrapes, or open sores."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B61DC070-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the ways blood-borne pathogens can be transmitted and understand the potential routes of infection.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "94db97fc-7539-48ab-945c-c9ca368c8148"
+          }
+        },
+        {
+          "title": "Workplace Risk",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Due to the fact that there needs to be direct contact of body fluids for the transfer of an infection, the chances of being infected during most work activities are low. Casual contacts, such as handshaking, hugging, or sharing work equipment or restrooms, will not transmit a blood-borne pathogen. However, you can become infected if you come into contact with blood or body fluids while helping an infected individual who is injured. Because people can be infected for years and show no symptoms, you must always treat blood and body fluids as if they are infectious and take precautions to avoid contact with them."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B6567050-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the transmission modes of bloodborne pathogens and recognize the importance of universal precautions in all situations involving potential exposure to blood or body fluids.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "2efa4c9d-7d41-4999-b3f3-e1fd27fcb312"
+          }
+        },
+        {
+          "title": "Workers Most At Risk",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "When you think of workers who are most at risk of the hazards posed by blood-borne pathogens, you might think of healthcare employees. However, all of us can benefit from increased awareness and knowledge of prevention measures. After all, they can save lives. Workers who are at risk of contracting blood-borne pathogens include, but are not limited to, the following. Physicians, nurses, and other healthcare workers. Paramedics and EMTs. Dentists and dental hygienists. Medical lab and blood bank technicians. Medical examiners and morticians. Firefighters and law enforcement personnel. Housekeeping personnel and laundry workers. And home healthcare workers."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B6E3D2EC-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify various occupations at risk of exposure to bloodborne pathogens, recognizing that awareness and prevention measures are beneficial for all workers.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "a7ea121e-ffcb-4832-9a00-5cdf45ec6565"
+          }
+        },
+        {
+          "title": "Sharps",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "A sharp is a medical needle or other sharp object that can puncture or cut the skin. A used medical needle is dangerous due to the high probability that it will retain a small amount of blood after it is used, and due to its extreme sharpness, the high probability that it can accidentally penetrate someone else's skin and expose them to the retained blood. Accidental needle stick injuries are especially common in healthcare industries, but they are also a real and growing risk in manufacturing and other industries. As more people with diabetes, allergies, and other conditions use syringes to self-administer medicine. To prevent sharps and needle stick injuries, have a plan for handling and disposal before you use a needle or other sharp instrument or clean up broken glass. Use needle alternatives when possible. Activate the device's safety features, if applicable, and immediately dispose of contaminated sharps in a designated sharps container."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B71386EA-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the risks associated with sharp medical instruments and implement proper handling and disposal procedures to prevent needle stick injuries.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "1fe53d6b-d8d1-4496-8b84-0ba36bc54908"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the ways blood-borne pathogens can be transmitted and understand the potential routes of infection.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "94db97fc-7539-48ab-945c-c9ca368c8148"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the transmission modes of bloodborne pathogens and recognize the importance of universal precautions in all situations involving potential exposure to blood or body fluids.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "2efa4c9d-7d41-4999-b3f3-e1fd27fcb312"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify various occupations at risk of exposure to bloodborne pathogens, recognizing that awareness and prevention measures are beneficial for all workers.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "a7ea121e-ffcb-4832-9a00-5cdf45ec6565"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the risks associated with sharp medical instruments and implement proper handling and disposal procedures to prevent needle stick injuries.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "1fe53d6b-d8d1-4496-8b84-0ba36bc54908"
+        }
+      ]
+    },
+    {
+      "title": "Controls and Prevention",
+      "section_id": "ee6d18c3-03a6-4e27-858c-41cbc8dc109b",
+      "learning_objects": [
+        {
+          "title": "Universal Precautions",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Universal precautions refers to a standard set of guidelines that are used to prevent the transmission of blood-borne pathogens from one individual to another. Per this approach to infection control, all human blood and other potentially infectious materials must be treated as if they are infectious. Universal precautions should be taken in all situations where there is the potential for contact with blood, other body fluids, or other potentially infectious materials."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B8078F2E-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Define universal precautions and explain their importance in preventing the transmission of bloodborne pathogens.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "40bba7a0-f8d5-42ce-a564-1d8da1d0de3d"
+          }
+        },
+        {
+          "title": "Housekeeping",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Housekeeping is the first step in creating a safe work environment. Employers should ensure that their facilities are maintained in a clean and sanitary condition. They should have a written schedule for cleaning and decontamination that is appropriate for the facility's location, the surfaces to be cleaned, the types of soil present, and the work tasks or procedures. Best practices for housekeeping activities in health care and other high-risk settings include the following. Work surfaces and equipment should be cleaned and decontaminated with a disinfectant following tasks or procedures, when they are contaminated, and at the end of each work shift. Protective coverings used to cover equipment and surfaces should be removed and replaced as soon as feasible when they become contaminated, or at the end of the work shift if there is any possibility they may be contaminated. Rags, towels, and other items used for cleaning, contaminated sharps, and other contaminated waste should be handled and disposed of as regulated waste. Among other things, contaminated waste must be placed in closable, leak-proof containers that are colored red or marked with a universal biohazard symbol. Contaminated laundry should be handled as little as possible and placed in bags or containers that are red or marked with a universal biohazard symbol. Employees who handle contaminated laundry must be provided with protective gloves and other appropriate PPE. For more information, please visit our website at www.stationwarriors.com"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B858103E-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and implement proper housekeeping practices for maintaining a safe work environment when handling bloodborne pathogens, including cleaning, waste disposal, and laundry procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "51aa0c1b-8225-4a02-b593-51f943c65230"
+          }
+        },
+        {
+          "title": "Hep B Vaccinations",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Hepatitis B is one of the few blood-borne pathogens for which there is an effective vaccine, and getting vaccinated provides another layer of safety. The vaccine requires two or three shots over a few months, and it is recommended for most adults. The complete vaccine series provides 80 to 100% immunity, which lasts at least 20 years and probably for life. Side effects are usually mild and include soreness or redness in the area where the shot was given and fever. However, serious reactions are very rare. Employers must make hepatitis B vaccinations available to all employees who might be exposed to blood-borne pathogens, free of charge at a reasonable time and place within 10 working days of initial assignment. An exception is allowed if the employee is already vaccinated, antibody testing shows they are immune, or the vaccine is contraindicated for medical reasons. The vaccination must be performed by a licensed healthcare professional. If the employee is already vaccinated, the vaccination must be performed by a licensed healthcare professional. If the employee declines the vaccine, they must sign a declination form. However, the vaccine must be provided at a later date if the employee changes their mind."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B8ABCED6-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of hepatitis B vaccination for bloodborne pathogen protection and recognize employer obligations regarding vaccine provision to at-risk employees.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "aa8afa6a-8084-4394-85bf-3096dffb4261"
+          }
+        },
+        {
+          "title": "Prevention",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "There are several measures that can be used to prevent the transmission of blood-borne pathogens in the workplace. Some are actions that need to be taken by a business or an employer. Others rely at least partly on you. They include the following. Engineering controls. These reduce employee exposure by removing the hazard or isolating the worker. Work practice controls, also called administrative controls. These reduce the likelihood of exposure by changing how a task is performed. Personal protective equipment. Specialized clothing and equipment known as personal protective equipment, or PPE, can help protect employees from exposure to blood and other potentially infectious materials. Engineering and work practice, or administrative controls, are the primary and most effective control methods, so they should be implemented first. When the potential for occupational exposure remains after engineering and work practice controls are in place, personal protective equipment should be provided and used. For more information, visit www.fema.gov."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B8DA1DEA-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and explain the three main types of control measures used to prevent bloodborne pathogen transmission in the workplace.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "2c564f22-89e6-4cc9-a138-b17748026aa6"
+          }
+        },
+        {
+          "title": "Engineering Controls",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Engineering controls are strategies that are used to protect workers by reducing or preventing exposure to hazardous conditions, including blood-borne pathogens. They involve a physical change to the workplace itself, rather than relying on the employees to follow a procedure or wear protective clothing. When correctly designed and implemented, engineering controls are the best solutions for preventing exposure because they are generally more effective and more reliable than other types of controls. The engineering controls used at a workplace depend, to a great degree, on the nature of the work being done. One example of an engineering control to reduce the spread of blood-borne pathogens in a healthcare facility would be the use of self-chiefing needles for the injection of medications. This adaptation completely eliminates the possibility of subsequent needle sticks. Another example is the addition of designated sharps disposal containers to a work area. Engineering controls should be installed in a workplace to prevent exposure to hazardous conditions. Engineering controls should be expected and maintained or replaced on a regular basis."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B91219B6-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the concept of engineering controls and their importance in preventing exposure to bloodborne pathogens in the workplace.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "42aa845b-58a4-4237-a4a6-b06617b3b4c7"
+          }
+        },
+        {
+          "title": "Administrative Controls",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Administrative controls are practices, procedures, or guidelines that are implemented at a workplace to reduce the likelihood of exposure to blood-borne pathogens. They are often behavior-based and rely on training and compliance to be effective. Employers can utilize many different work practice controls. For example, in healthcare settings, used needles should not be bent, broken, recapped, removed, or separated from syringes. They should be placed in a sharps disposal container immediately or as soon as possible after use. Other examples of work practice controls include the following. Never eat, drink, smoke, apply cosmetics or lip balm, or handle contact lenses, and keep your hands away from your eyes, nose, and mouth when working in areas where there is a reasonable likelihood of exposure. Immediately or as soon as possible after exiting a potentially contaminated area. Gloves and other protective clothing should be removed, and hands should be thoroughly washed. Employers with employees with the potential for exposure should provide suitable hand-washing facilities. Apply a non-abrasive antibacterial soap. Rub your hands together under running water for at least 20 seconds. Rinse your hands. And dry them with a disposable towel. If running water is unavailable, an antiseptic hand cleanser and towels or antiseptic towelettes can be used, and then use them to clean your hands. and then use them to clean your hands. Then wash your hands with soap and water as soon as possible after that. Wash your hands and other skin with soap and water. Or flush mucous membranes with water or normal saline immediately after, or as soon as possible after contact with blood or other potentially infectious materials. Remove contact lenses if your eyes were exposed, and flush your eyes, nose, or mouth for at least 15 minutes. Biohazard warning labels should be applied to bags and containers that contain blood or other potentially infectious materials. Note that a label is not required if the bag or container is colored red. Additionally, warning signs must be posted at the entrances to certain work areas in HIV and HBV research laboratories and production facilities. For more information, visit www.hbv.org. For more information, visit www.hbv.org. For more information, visit www.hbv.org. For more information, visit www.hbv.org. For more information, visit www.hbv.org."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B9446BA0-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and apply administrative controls and work practice procedures to reduce exposure to bloodborne pathogens in the workplace.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "03308ebd-3dcc-40eb-90a5-d4422e7a883c"
+          }
+        },
+        {
+          "title": "Personal Protective Equipment",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Where engineering and work practice controls cannot eliminate the risk of occupational exposure to blood and other potentially infectious materials, employers must provide their affected employees with appropriate personal protective equipment, PPE. PPE is considered appropriate if it does not allow blood and other body fluids to reach the user's street or work clothes, undergarments, skin, mouth, eyes, and other mucous membranes under normal conditions and for the entire time it is used. The employer must provide PPE in appropriate sizes and cover all of the costs, including all costs associated with cleaning, laundering, repairing, replacing, and disposal. PPE guidelines include the following. Never reuse disposable gloves. Replace them as soon as practical when contaminated and as soon as possible if they are torn, punctured, or otherwise compromised. Utility gloves. May be decontaminated and reused unless they are compromised. If that is the case, they must be discarded. If there is a chance of splashing or splattering, wear safety goggles or a face mask and eye protection. Use an apron, gown, or similar outer garment to protect yourself and your clothes from contamination when larger amounts of body fluids are present. Remove all PPE when leaving the area where the potential exposure exists or upon contamination. When removing protective equipment, such as gloves, avoid touching your skin with the contaminated surface of the other glove and properly dispose of all contaminated materials in biohazard bags."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B97C4C5A-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify appropriate personal protective equipment (PPE) for bloodborne pathogen exposure and understand proper PPE usage, maintenance, and disposal procedures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "568347ba-b6bb-4285-a2d2-06fea4460bba"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Define universal precautions and explain their importance in preventing the transmission of bloodborne pathogens.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "40bba7a0-f8d5-42ce-a564-1d8da1d0de3d"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and implement proper housekeeping practices for maintaining a safe work environment when handling bloodborne pathogens, including cleaning, waste disposal, and laundry procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "51aa0c1b-8225-4a02-b593-51f943c65230"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of hepatitis B vaccination for bloodborne pathogen protection and recognize employer obligations regarding vaccine provision to at-risk employees.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "aa8afa6a-8084-4394-85bf-3096dffb4261"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and explain the three main types of control measures used to prevent bloodborne pathogen transmission in the workplace.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "2c564f22-89e6-4cc9-a138-b17748026aa6"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the concept of engineering controls and their importance in preventing exposure to bloodborne pathogens in the workplace.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "42aa845b-58a4-4237-a4a6-b06617b3b4c7"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and apply administrative controls and work practice procedures to reduce exposure to bloodborne pathogens in the workplace.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "03308ebd-3dcc-40eb-90a5-d4422e7a883c"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify appropriate personal protective equipment (PPE) for bloodborne pathogen exposure and understand proper PPE usage, maintenance, and disposal procedures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "568347ba-b6bb-4285-a2d2-06fea4460bba"
+        }
+      ]
+    },
+    {
+      "title": "Scenario Challenge",
+      "section_id": "1a712467-c7ed-4fab-9a92-f4b68db78031",
+      "learning_objects": [
+        {
+          "title": "Needlestick Incident",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "During routine waste disposal activities in the assembly area, Jacob sustained a needle stick injury while collecting the garbage. Investigation revealed that a used needle had been disposed of in a general waste bin. Jacob is at risk of exposure to blood-borne pathogens, including HIV, hepatitis B, and hepatitis C, which could result in severe health complications."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BAA0D79A-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify potential risks of improper disposal of sharps and recognize the importance of correct waste management to prevent exposure to bloodborne pathogens.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b80b6686-e314-422e-9a2b-14757156c0b0"
+          }
+        },
+        {
+          "title": "Engineering Controls",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "You've chosen engineering controls. Let's see how that might improve Jacob's outcome. First, we need to find out where the needle came from. After using an insulin syringe, Chris looks for a sharps container to dispose of the needle. He accidentally drops the needle cap on the floor and cannot find it. He locates the sharps container and safely places the needle inside. Some time later, Jacob collects the trash by removing the trash bag from the garbage can. As he lifts the trash bag, it starts to slip, so he grabs the side of it with his other hand. Jacob safely removes the trash bag from the garbage can and continues his collection duties. This is the best option. The needle stick incident underscores the critical importance of implementing engineering controls, such as safety-engineered sharps disposal containers, in manufacturing settings to prevent needle stick injuries, and potential blood-borne pathogen transmission. These containers are designed to encapsulate sharps objects upon disposal, reducing the risk of accidental injuries. By addressing the root causes identified and implementing comprehensive corrective actions, the company can mitigate risks associated with improper waste disposal and uphold its commitment to employee health and safety. Next."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BAE2B020-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Recognize the importance of engineering controls, such as safety-engineered sharps containers, in preventing needle stick injuries and bloodborne pathogen transmission in manufacturing settings.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "96117ad6-5d34-494d-8985-bb5c97935cfb"
+          }
+        },
+        {
+          "title": "Administrative Controls",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "You've chosen administrative controls. Let's see how that might improve Jacob's outcome. First, we need to find out where the needle came from. After using an insulin syringe, Chris recalls the importance of proper waste disposal from his company's mandatory training and looks for a sharps container to dispose of the needle. He accidentally drops the needle cap on the floor and cannot find it. Since there isn't a sharps container, he wraps the needle in a paper towel and tosses it in the general garbage can. Some time later, Jacob collects the trash by removing the trash bag from the garbage can. As he lifts the trash bag, it starts to slip, so he grabs the side of it with his other hand. At that moment, the discarded needle pokes his hand, and he gasps. Dropping the trash bag, he calls for help. While implementing administrative controls, such as mandatory training, can help emphasize the importance of proper waste segregation, handling, and disposal procedures. The Needlestick Incident underscores the critical importance of implementing engineering controls. By addressing the root causes identified and implementing comprehensive corrective actions, the company can mitigate risks associated with improper waste disposal and uphold its commitment to employee health and safety."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BB1B7392-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of proper waste disposal procedures and the potential consequences of improper handling of sharps, while recognizing the need for comprehensive safety measures including both administrative and engineering controls.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "3350a333-fb46-4cf5-b306-ec3d53e2fca0"
+          }
+        },
+        {
+          "title": "Personal Protective Equipment",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "You've chosen personal protective equipment. Let's see how that might improve Jacob's outcome. First, we need to find out where the needle came from. After using an insulin syringe, Chris looks for a sharps container to dispose of the needle. He accidentally drops the needle cap on the floor and cannot find it. Since there isn't a sharps container, he tosses the needle in the general garbage can. Sometime later, Jacob collects the trash by removing the trash bag from the garbage can. As he lifts the trash bag, it starts to slip, so he grabs the side of it with his other hand. At that moment, the discarded needle pokes his hand and he gasps. Dropping the trash bag, he calls for help. While wearing PPE such as heavy-duty protective gloves made of materials like nitrile, latex, vinyl, or neoprene can protect hands from cuts, punctures, and exposure to hazardous substances, the needle stick incident underscores the critical importance of implementing engineering controls. By addressing the root causes identified and implementing comprehensive corrective actions, the company can mitigate risks associated with improper waste disposal and uphold its commitment to employee health and safety."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BB4EF6A4-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of proper sharps disposal and the limitations of personal protective equipment in preventing needlestick injuries.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "dfaca64b-bfb8-4f66-bfed-50737cbc4f77"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify potential risks of improper disposal of sharps and recognize the importance of correct waste management to prevent exposure to bloodborne pathogens.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b80b6686-e314-422e-9a2b-14757156c0b0"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Recognize the importance of engineering controls, such as safety-engineered sharps containers, in preventing needle stick injuries and bloodborne pathogen transmission in manufacturing settings.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "96117ad6-5d34-494d-8985-bb5c97935cfb"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of proper waste disposal procedures and the potential consequences of improper handling of sharps, while recognizing the need for comprehensive safety measures including both administrative and engineering controls.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "3350a333-fb46-4cf5-b306-ec3d53e2fca0"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of proper sharps disposal and the limitations of personal protective equipment in preventing needlestick injuries.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "dfaca64b-bfb8-4f66-bfed-50737cbc4f77"
+        }
+      ]
+    },
+    {
+      "title": "After Exposure",
+      "section_id": "23b81740-a923-4ea2-a525-2af0659a40de",
+      "learning_objects": [
+        {
+          "title": "Unprotected Exposure",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In a situation involving unprotected exposure to blood or potentially infected materials, remain calm and take the following steps as soon as possible. Remove contaminated clothing and any protective equipment and place them in a biohazard bag that is red, labeled, or both. Wash the area with non-abrasive soap and water. Pay particular attention to any needle sticks, cuts, or puncture wounds. Flush splashes to the mouth, nose, or eyes with water or saline for at least 15 minutes. Remove contact lenses first if your eyes were exposed. Stop any bleeding by applying pressure. Report the incident to your manager or supervisor if you are at work. Make an appointment with a doctor or other licensed healthcare professional as soon as possible, preferably within 24 to 48 hours of any exposure, for evaluation and testing."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BC3C8CAC-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and execute the immediate steps to take following unprotected exposure to blood or potentially infectious materials, including proper cleaning, reporting, and seeking medical evaluation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "93799d4b-02e4-4488-9a44-03bc268b18b6"
+          }
+        },
+        {
+          "title": "Post-Exposure Medical Evaluation",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "If the exposure happens at work, your employer must provide a confidential medical evaluation as soon as you report the exposure. You must be released from work immediately and provided transportation to and from the medical facility. If you decline medical care, you should complete an official declination form. A post-exposure evaluation includes the following. Documentation of the route or routes of exposure and how the exposure occurred. A medical evaluation that includes testing for HIV and HBV. You may decline HIV testing. If you do, your employer must ensure that a blood sample is preserved for at least 90 days in case you change your mind. Identification and documentation of the source individual, unless prohibited by state or local law, or if identification is unfeasible. If the source individual is identified and provides consent, they should be tested for HBV and HIV. Testing is not necessary if they are known to be infected. The test results must be revealed to the exposed person. Counseling and post-exposure prophylactic treatments must be provided free of charge if medically indicated. You must be provided with a healthcare professional's written opinion within 15 days of the evaluation. The written opinion should report whether the HBV vaccine was recommended, if you received the vaccination, and that you were informed of the results of the evaluation and any medical conditions at hand. You must be provided with a written opinion within 15 days of the evaluation and anything that could result from the exposure."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BCD80510-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the components and procedures of a post-exposure evaluation for bloodborne pathogens in the workplace, including medical assessment, documentation, and follow-up requirements.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "15ee761e-ac7d-481a-be03-f3b3343f7f56"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and execute the immediate steps to take following unprotected exposure to blood or potentially infectious materials, including proper cleaning, reporting, and seeking medical evaluation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "93799d4b-02e4-4488-9a44-03bc268b18b6"
+        },
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the components and procedures of a post-exposure evaluation for bloodborne pathogens in the workplace, including medical assessment, documentation, and follow-up requirements.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "15ee761e-ac7d-481a-be03-f3b3343f7f56"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "section_id": "66934739-9aff-4118-af27-41ac182f1005",
+      "learning_objects": [
+        {
+          "title": "Summary and Implications",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Blood-borne pathogens are infectious microorganisms such as viruses and bacteria that, if present in blood, can cause disease in humans. These pathogens can be transmitted from an infected person to a healthy person by contact with infected blood, other body fluids, or unfixed tissue and organs, other than intact skin. There are a number of relatively simple actions that can be taken to drastically reduce the chance of exposure to blood-borne pathogens. At work, engineering and work practice controls can dramatically lower the risk of exposure, and PPE provides additional protection. Being aware of the risks of blood-borne pathogens and taking precautions are also important outside of work. If you want to help a person who is hurt, it only takes a few seconds to find a barrier, some gloves, or a clean, thick cloth. If the injury looks serious, call 911 or other emergency services first. Before you provide assistance."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BDE311C0-6F77-11EF-849B-9C7CC68A4852",
+          "learning_objective": {
+            "topic": "Bloodborne Pathogens",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify blood-borne pathogens, understand their transmission methods, and recognize preventive measures both in the workplace and everyday situations to reduce exposure risks.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "5edb3b77-a527-4498-a604-042bdf4cba85"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Bloodborne Pathogens",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify blood-borne pathogens, understand their transmission methods, and recognize preventive measures both in the workplace and everyday situations to reduce exposure risks.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "5edb3b77-a527-4498-a604-042bdf4cba85"
+        }
+      ]
+    }
+  ],
+  "course_id": "EB1FCC50-5414-11EB-A61A-721267F96AF6",
+  "description": "Bloodborne pathogens are microorganisms such as viruses or bacteria that, if present in blood, can cause disease in humans. These pathogens can be transmitted from an infected person to a healthy person by contact with infected blood or other bodily fluids. There are a number of relatively simple actions which can be taken to drastically reduce the chance of exposure to bloodborne pathogens. Depending on the type of work being done, workplace practices and methods can be modified to minimize the chance of exposure. Proper personal protective equipment is an important component in preventing the transfer of bloodborne pathogens from an infected person to a healthy person.",
+  "revision_id": "B29224BE-6F77-11EF-849B-9C7CC68A4852",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 1744.093
+}

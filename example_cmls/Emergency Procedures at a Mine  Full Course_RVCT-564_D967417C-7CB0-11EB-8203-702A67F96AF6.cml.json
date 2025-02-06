@@ -1,0 +1,506 @@
+{
+  "sku": "RVCT-564",
+  "goal": "Equip mine workers with comprehensive knowledge and practical skills to effectively prevent, recognize, respond to, and manage various emergency situations in mining environments, ensuring safety, compliance, and efficient crisis handling.",
+  "title": "Emergency Procedures at a Mine - Full Course",
+  "sections": [
+    {
+      "title": "Lesson",
+      "section_id": "456a697d-7214-451d-ac91-789819313b9a",
+      "learning_objects": [
+        {
+          "title": "Welcome",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Welcome to the Emergency Procedures at a Mine training module. At the end of this module, you will be able to state the definition of an emergency, list the most common types of emergencies that can occur at a mine site, list common emergency warning methods, identify procedures commonly included in emergency communication training, list topics that may be included in evacuation training, describe common reporting requirements, describe common procedures during emergencies involving equipment damage, personal injury, and fire, describe fire prevention methods, and list basic ways to extinguish a small fire."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2ADCD1C0-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the key components of emergency procedures at a mine site, including types of emergencies, warning methods, communication protocols, evacuation procedures, reporting requirements, and basic fire prevention and response techniques.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "9c254e84-9336-42d6-8ec3-da5b5c60749d"
+          }
+        },
+        {
+          "title": "Overview",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "An emergency is a serious, unexpected, and potentially dangerous situation that requires immediate action. Your mind will have written policies and procedures in place to guide the actions of everyone on-site during common emergencies. These procedures may include instruction on common types of emergencies, warning methods, emergency communication, evacuation, and reporting. Emergency procedures specific to your mind should be covered in detail during your orientation training and may be reviewed during periodic or annual refresher training."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2B08F34A-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the concept of emergencies in mining, including common types, procedures, and training requirements for effective response.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b0fa91b5-40f4-4ff5-9849-e58f651cc4d2"
+          }
+        },
+        {
+          "title": "Common Emergencies",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "While there are many types of emergencies that can occur at a mine, the three most common types of emergencies involve equipment damage, personal injury, and fire. Other potential emergency situations may be caused by extreme weather, such as tornadoes, hurricanes, and flash floods. More rare emergencies are the result of malicious behavior, such as vandalizing equipment or calling in a bomb threat."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2B444A30-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify the most common types of emergencies at a mine and recognize other potential emergency situations that can occur in mining operations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "f22db2a1-3530-4486-8b3a-3c76cd1d3d62"
+          }
+        },
+        {
+          "title": "Warning Methods",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Your mind may use a range of warning methods to alert everyone on site of specific types of emergencies. These warning methods may include audible sirens, horns, or alarms, visual warning lights or flares, radio, phone, or text messages, and verbal terms or commands. Prior to beginning work at a mine, your supervisor should explain how each warning method is used and what specific message each is intended to convey. Be certain you understand and remember the meaning of each method and know how to respond when they are used."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2C02935A-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and interpret various emergency warning methods used at mine sites, including their specific meanings and appropriate responses.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "452a1000-38fa-4248-9cb6-7dfed912d77e"
+          }
+        },
+        {
+          "title": "Emergency Communication",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Your mind will have communication protocols established for common emergency situations. Emergency communication procedures may specify how radios and cell phones may be used, what radio channels should be used, specific words or phrases to be used when communicating by radio or cell phone, who to contact during specific types of emergencies, how and when to call 911 or other local emergency services, hand signals or gestures to use to guide emergency vehicles or when other forms of communication are not available, and use of flashlights or emergency lighting at night."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2C5BC466-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand and apply emergency communication protocols, including specific procedures for different communication methods and situations in a mine setting.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "512fd7b7-f2f2-4045-a442-bf9c925af371"
+          }
+        },
+        {
+          "title": "Evacuation",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Some emergencies may require evacuation from buildings, underground areas, or from the mine site. You should receive training on when and how to quickly and safely evacuate. Your training may include the following topics. Evacuation routes and alternate escape routes from all work areas. Gathering or mustering point locations. How to report for a headcount and what to do when a co-worker is unaccounted for and when to return to your work site."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2C9AE25E-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the key components of evacuation procedures in a mine, including routes, gathering points, headcount protocols, and post-evacuation actions.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "ddfec50c-2401-4555-a221-187efb2346ae"
+          }
+        },
+        {
+          "title": "Reporting Procedures",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "All emergencies should be reported and documented in compliance with all federal and state regulations. Some emergencies, especially those involving personal injury, a fatality, or an environmental hazard, are required to be immediately reported by phone. Mine operators are required by law to report all mining accidents within 15 minutes of when they knew or should have known about an accident. Be sure to receive instruction on federal and state organizations' definitions of all reportable incidents and their guidelines for emergency reporting procedures."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2D448F16-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the legal requirements and procedures for reporting mine emergencies, including immediate reporting obligations and compliance with federal and state regulations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "7d3d0035-4213-4d5c-8143-a966266334e3"
+          }
+        },
+        {
+          "title": "Emergencies Involving Equipment Damage",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Although most equipment damage emergencies can be avoided by proper maintenance and attentive operation, collisions and unexpected machine failures can occur. When equipment is severely damaged, common emergency procedures include the following. Shutting down the equipment, assessing the damage, reporting the equipment damage, and repairing the damage. Your mine's written procedures should specify how damage should be documented and who to contact when reporting equipment damage emergencies. Procedures should also identify miners or contractors who are qualified to assess and repair damaged equipment."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2DE94088-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and describe common emergency procedures for equipment damage incidents in mining operations, including shutdown, assessment, reporting, and repair processes.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "768a7fe3-536b-4db6-a229-285c07cc757f"
+          }
+        },
+        {
+          "title": "Emergencies Involving Personal Injury 1 of 3",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "emergencies involving personal injury can range from lacerations and burns to amputations and loss of consciousness. When anyone on site requires immediate medical attention, follow these best practices. Approach with caution. Be sure the scene is safe before aiding an injured person. Assess the need for emergency services. If emergency personnel, such as paramedics, are needed, follow your mind's procedures for contacting them. This may involve first contacting your supervisor, who will then call for help, or you may be responsible for calling emergency services personally."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2E88CDBA-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Recognize and respond appropriately to personal injury emergencies at a mine site, including assessing the situation, ensuring scene safety, and following proper procedures for contacting emergency services.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "e603c3b9-046d-47a8-a8c3-2838fc1e8727"
+          }
+        },
+        {
+          "title": "Emergencies Involving Personal Injury 2 of 3",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Clearly communicate the location of the injured person. Provide first aid or CPR as needed and only if you are properly trained to do so. And stay with the injured person and remain in contact with emergency services until emergency personnel arrive. Be aware that someone may be required to meet emergency personnel at the mine's entrance to offer guidance to your location."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2EBBCFBC-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Demonstrate proper communication and assistance procedures for handling injuries at a mine site, including providing location details, administering first aid, and coordinating with emergency services.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "7a6f3eaf-adf9-4ac9-b582-535841959169"
+          }
+        },
+        {
+          "title": "Emergencies Involving Personal Injury 3 of 3",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Common topics that should be covered in training for emergencies involving personal injury at your mine include the following. Locating and using first aid kits, AEDs, automated external defibrillators, and escape respirators. Administering first aid and CPR, cardiopulmonary resuscitation. Moving an injured person. And notifying, communicating, and reporting protocols."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2EE6C370-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and apply key procedures for responding to personal injury emergencies at a mine site, including first aid administration, use of emergency equipment, and proper communication protocols.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "a0b61ab1-173c-4c94-8c5d-734f8a66f800"
+          }
+        },
+        {
+          "title": "Emergencies Involving Fire",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Because a fire can start unexpectedly and spread very quickly, immediate notification and a rapid response are critical to effectively manage emergencies involving fire. Your mine operator must provide fire emergency training that should include the following. Locating all fire extinguishers, fire alarms, and evacuation routes. Determining when to use a fire extinguisher. How to use a fire extinguisher when necessary. How to report a fire to your supervisor. How to alert co-workers of a fire. How to safely evacuate from the scene of the fire. And where to gather and how to account for co-workers during evacuation."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2F7F3FBA-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and implement essential fire emergency procedures in a mining environment, including locating safety equipment, using fire extinguishers, reporting incidents, and executing proper evacuation protocols.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "cfc6aebc-c23c-41f8-80d0-c93ea74f7a69"
+          }
+        },
+        {
+          "title": "Preventing Fires",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The best way to manage a fire emergency is to take steps to prevent it from ever happening. Use the following best practices for effective fire prevention. Be sure you are trained to recognize potential fire hazards and take appropriate actions before a fire ever occurs. Practice good housekeeping techniques that eliminate conditions that could create a fire. Inspect equipment to ensure it is in proper working order. Ensure that all electrical systems are checked by a licensed electrician. Test fire suppression systems and fire alarms to ensure they are functioning properly. Perform all hot work away from combustible materials and adhere to hot work permits and policies. And store all flammable and combustible liquids in appropriate containers, cabinets, and locations."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2FB28F32-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and implement key fire prevention practices and procedures in a mining environment.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "c93977c9-b22e-46c0-a638-0d7630c46e1e"
+          }
+        },
+        {
+          "title": "Extinguishing a Small Fire",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In order to quickly and effectively extinguish a fire, it is important to understand the elements necessary for a fire to exist. Heat, fuel, oxygen, and an unrestrained chemical reaction are all required to sustain a fire. If any of these four elements are removed, the fire cannot continue. When you encounter a small fire or one that is just starting, you may be able to extinguish it with a fire extinguisher or other available tools or materials. If the fire is small enough, you may be able to smother it with a blanket, removing the fire's access to oxygen. You could use a similar technique by using a shovel to smother the fire with dirt."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2FE51F4C-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the four elements necessary for a fire to exist and identify methods to extinguish small fires by removing one of these elements.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "5e4f0ad3-a167-4cc0-b0ff-361c0ed57074"
+          }
+        },
+        {
+          "title": "Summary",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "An emergency is a serious, unexpected, and potentially dangerous situation that requires immediate action. Your mind will have written policies and procedures in place to guide the actions of everyone on site during common emergencies that involve equipment damage, personal injury, and fire. These procedures may include instruction on warning methods, emergency communication, evacuation, and reporting. Emergency procedures specific to your mind should be covered in detail during your orientation training and may be reviewed during periodic or annual refresher training."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "3087CB20-7CDE-11EB-A729-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Emergency Procedures at a Mine",
+            "taxonomy_level": 1,
+            "objective_statement": "Recognize common types of mine emergencies and understand the importance of established emergency procedures in ensuring safety and appropriate response.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "664d8274-7e98-4798-8aee-da8a9f3140b7"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the key components of emergency procedures at a mine site, including types of emergencies, warning methods, communication protocols, evacuation procedures, reporting requirements, and basic fire prevention and response techniques.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "9c254e84-9336-42d6-8ec3-da5b5c60749d"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the concept of emergencies in mining, including common types, procedures, and training requirements for effective response.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b0fa91b5-40f4-4ff5-9849-e58f651cc4d2"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify the most common types of emergencies at a mine and recognize other potential emergency situations that can occur in mining operations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "f22db2a1-3530-4486-8b3a-3c76cd1d3d62"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and interpret various emergency warning methods used at mine sites, including their specific meanings and appropriate responses.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "452a1000-38fa-4248-9cb6-7dfed912d77e"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand and apply emergency communication protocols, including specific procedures for different communication methods and situations in a mine setting.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "512fd7b7-f2f2-4045-a442-bf9c925af371"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the key components of evacuation procedures in a mine, including routes, gathering points, headcount protocols, and post-evacuation actions.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "ddfec50c-2401-4555-a221-187efb2346ae"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the legal requirements and procedures for reporting mine emergencies, including immediate reporting obligations and compliance with federal and state regulations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "7d3d0035-4213-4d5c-8143-a966266334e3"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and describe common emergency procedures for equipment damage incidents in mining operations, including shutdown, assessment, reporting, and repair processes.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "768a7fe3-536b-4db6-a229-285c07cc757f"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Recognize and respond appropriately to personal injury emergencies at a mine site, including assessing the situation, ensuring scene safety, and following proper procedures for contacting emergency services.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "e603c3b9-046d-47a8-a8c3-2838fc1e8727"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Demonstrate proper communication and assistance procedures for handling injuries at a mine site, including providing location details, administering first aid, and coordinating with emergency services.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "7a6f3eaf-adf9-4ac9-b582-535841959169"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and apply key procedures for responding to personal injury emergencies at a mine site, including first aid administration, use of emergency equipment, and proper communication protocols.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "a0b61ab1-173c-4c94-8c5d-734f8a66f800"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and implement essential fire emergency procedures in a mining environment, including locating safety equipment, using fire extinguishers, reporting incidents, and executing proper evacuation protocols.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "cfc6aebc-c23c-41f8-80d0-c93ea74f7a69"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and implement key fire prevention practices and procedures in a mining environment.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "c93977c9-b22e-46c0-a638-0d7630c46e1e"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the four elements necessary for a fire to exist and identify methods to extinguish small fires by removing one of these elements.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "5e4f0ad3-a167-4cc0-b0ff-361c0ed57074"
+        },
+        {
+          "topic": "Emergency Procedures at a Mine",
+          "taxonomy_level": 1,
+          "objective_statement": "Recognize common types of mine emergencies and understand the importance of established emergency procedures in ensuring safety and appropriate response.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "664d8274-7e98-4798-8aee-da8a9f3140b7"
+        }
+      ]
+    }
+  ],
+  "course_id": "3CF2DA86-7CB0-11EB-94A6-702A67F96AF6",
+  "description": "An \"emergency\" is a serious, unexpected, and potentially dangerous situation that requires immediate action. This course provides information on common emergencies at mine sites as well as warning methods, emergency communication methods, and evacuation procedures. It also discusses reporting procedures, emergencies involving equipment damage and personal injury, and emergencies involving fires.",
+  "revision_id": "2A1C0954-7CDE-11EB-A729-702A67F96AF6",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 694.239
+}

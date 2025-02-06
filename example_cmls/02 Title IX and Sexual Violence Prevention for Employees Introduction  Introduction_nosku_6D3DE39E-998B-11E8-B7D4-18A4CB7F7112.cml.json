@@ -1,0 +1,58 @@
+{
+  "sku": "",
+  "goal": "Empower employees to effectively respond to and prevent sexual violence on campus, fostering a safe environment and providing crucial support to survivors.",
+  "title": "02 Title IX and Sexual Violence Prevention for Employees: Introduction - Introduction",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "3bcbd948-7e12-4509-9dbb-600dc89b119f",
+      "learning_objects": [
+        {
+          "title": "Introduction",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Welcome to the Not Anymore Sexual Violence Prevention and Response Program for Employees. You're being asked to take this program because you've been identified as someone who is vital to the effective response and prevention of sexual violence on campus. Your campus believes this program will help you feel more knowledgeable, confident, and prepared to respond in a compassionate and informed way to a disclosure of sexual violence. Due to the subject matter of this program, it's possible you may find yourself feeling upset or overwhelmed. After learning the relevant laws and policies, you may realize you or someone close to you has experienced sexual violence, or it may activate old and potentially traumatic experiences and memories. If that occurs, please know that you are not alone and that your campus has resources to help you. You'll find them listed in the resources tab above. Know also that you can always stop for a bit and come back to the program where you left off. Please take the time to be as present as possible with this program. Close your door. Turn off your phone. Eliminate distractions. Because the response of the person a survivor first discloses to sets the path for their healing journey, your attention to this program is critical. This program will teach you the prevalence of these crimes on campus, why people perpetrate, federal requirements, primary prevention, how to be an active bystander, reporting obligations, trauma-informed response, campus policies and resources, and what you can do to increase reports on campus."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": false,
+          "revision_id": "0E9D26B6-B1EA-11E8-A473-9143960D9DEB",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "0EE9BA76-B1EA-11E8-A473-9143960D9DEB",
+          "learning_objective": {
+            "topic": "02 Title IX and Sexual Violence Prevention for Employees: Introduction",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of effective response and prevention of sexual violence on campus, and recognize the critical role employees play in supporting survivors and promoting a safe campus environment.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "e5e12cc8-6cb0-44b7-95d3-e6faf9b40dc9"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "02 Title IX and Sexual Violence Prevention for Employees: Introduction",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of effective response and prevention of sexual violence on campus, and recognize the critical role employees play in supporting survivors and promoting a safe campus environment.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "e5e12cc8-6cb0-44b7-95d3-e6faf9b40dc9"
+        }
+      ]
+    }
+  ],
+  "course_id": "0EB878DE-998B-11E8-944A-18A4CB7F7112",
+  "description": "You're being asked to take this program because you've been identified as someone who is vital to the effective response and prevention of sexual violence on campus. Your campus believes this program will make you feel more knowledgeable, confident and prepared to respond in a compassionate and informed way to disclosure of sexual violence.",
+  "revision_id": "0E9D26B6-B1EA-11E8-A473-9143960D9DEB",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 102.208
+}

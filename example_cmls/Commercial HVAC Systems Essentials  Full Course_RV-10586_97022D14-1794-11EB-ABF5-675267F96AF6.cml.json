@@ -1,0 +1,647 @@
+{
+  "sku": "RV-10586",
+  "goal": "Master the fundamental principles, components, and operations of commercial HVAC systems to effectively design, install, maintain, and optimize these systems for energy efficiency, occupant comfort, and regulatory compliance in large-scale buildings.",
+  "title": "Commercial HVAC Systems Essentials - Full Course",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "769370da-9f86-4024-93a0-e7da07e71387",
+      "learning_objects": [
+        {
+          "title": "Course Description and Objectives",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "This course will provide essential information regarding HVAC systems in the areas of commercial refrigeration, space heating, boilers, and furnaces, as well as controls and interfaces. If you're involved in HVAC systems in the area of design, construction, maintenance, or management, this course will be a key training experience for your career. As a result of completing this training, you will have a better understanding of these core areas of HVAC systems and will be able to successfully contribute to your company in system design, overseeing construction maintenance, and management. By the end of this course, you'll be able to list technical terms and basic theoretical concepts related to HVAC systems, recognize typical HVAC equipment and system components, understand operations, discuss the critical design requirements, identify key principles for system installation, operation, and maintenance, list the safety and health impacts related to HVAC systems, and identify applicable codes and regulations related to HVAC systems."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "24D867B4-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Gain comprehensive knowledge of commercial HVAC systems, including technical terms, equipment, design requirements, installation principles, safety considerations, and relevant regulations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "33e41bb2-abd3-4873-a2ba-666840cfe26f"
+          }
+        },
+        {
+          "title": "Course Overview",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "So, welcome to this video presentation on HVAC System Essentials. My name is Jim Tauby. I'll be your presenter for this topic. I have a good amount of quality material that we can cover, and I think it will be very beneficial for you in your work and your career. After completing this course, you'll have a very important set of essential fundamentals in this area of HVAC systems. In addition to discussing fundamental information, I also plan to share a number of personal experiences from my career in engineering related to HVAC that I hope will give you some insight into what I see as essential information for you to have and use in your work, your company, and your career. Through my 30-plus years, most of my experience has been in the HVAC and mechanical areas, in the paper industry, in building construction, and currently working in the pharmaceutical industry as a project engineer and HVAC system owner. My current position is in a very large, commercial manufacturing facility in Ohio. We have 75 air handler systems, rooftop units, and more than 25 dust collectors and central vacuum units. Through the years, I've seen and worked on a good variety of systems and equipment arrangements, observing firsthand how they work, what can go wrong with them, and ways to improve how they function. Please bear in mind that the information I'll be covering with you today is critically important from a health, safety, and welfare perspective. The quality of the HVAC system serving a facility ensures that the proper environment is provided for the building occupants. It also provides a positive atmosphere for the users of the facility. Again, this video presentation is entitled HVAC Systems Essentials. So I want to cover for you what I see are the essential highlights in the HVAC systems area, based on my experience and what I think will be the most beneficial for you in the hour that we have together. Having said all that, the topics I've selected for us today are in four main areas, including commercial refrigeration, refrigeration systems, commercial boilers and furnaces, heating and cooling systems, and HVAC control systems. As I mentioned, through my presentation, I'll be sharing some of the key lessons that I've learned over my years in the HVAC and mechanical area. Most of this will be through some case studies that I'll take time to review with you. This will give you an idea of the types of equipment that we deal with in the HVAC systems area and some of the special cases that are in place today. Before we get into the HVAC systems area, I'll cover some general information regarding HVAC system essentials. You know that the overall purpose of the HVAC system is to maintain an acceptable climate in the building or facility. These systems control the temperature, humidity, airflow, and overall air quality. A typical system brings in air from the outside, mixes it with air returned from the space, filters the air, and passes it through heating and cooling coils to achieve a designed temperature, and distributes the air throughout the various areas of the building. As a result, the HVAC systems make the building comfortable, healthful, and livable for its occupants. In order to maintain the indoor air quality, it must respond to a variety of conditions that may exist inside and outside of the building. Some of the factors that come into play include the weather, the time of day, and the building occupancy, including the number of people, physical activities, etc. The HVAC systems are also required to control smoke, heat, and air quality in the event of a fire. Our focus today will be on commercial buildings. When we look at these larger types of buildings, there are special considerations to take into account such as higher density of people, special lighting and equipment, and other conditions that all may potentially generate heat. As a result, in most commercial buildings, the air conditioning and recirculation of air in the space becomes more important than providing heat. However, this is somewhat dependent on the location of the building."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2534EFE8-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the essential components and functions of commercial HVAC systems, including their role in maintaining indoor air quality, comfort, and safety in large-scale buildings.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "3c992a5c-d368-4792-a6fb-4c8226915e78"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Gain comprehensive knowledge of commercial HVAC systems, including technical terms, equipment, design requirements, installation principles, safety considerations, and relevant regulations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "33e41bb2-abd3-4873-a2ba-666840cfe26f"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the essential components and functions of commercial HVAC systems, including their role in maintaining indoor air quality, comfort, and safety in large-scale buildings.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "3c992a5c-d368-4792-a6fb-4c8226915e78"
+        }
+      ]
+    },
+    {
+      "title": "Commercial Refrigeration Systems",
+      "section_id": "4f8e78fb-0bfe-433b-a034-d0992029fcde",
+      "learning_objects": [
+        {
+          "title": "Overview of Commercial Refrigeration Systems",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "So let's start with commercial refrigeration as our first topic. Commercial refrigeration systems are typically an arrangement of mechanical components to provide cooling capacity for a system. Chillers or air conditioners will utilize heat exchangers and circulate gas to cool the air that is passed through the unit. The chiller units are usually located in a mechanical room on the ground floor or they can be located in a central plant facility. Chillers will cool air by removing heat using the refrigeration or vapor compression cycle. That consists of compression, condensation, expansion, and evaporation. So the main components of the refrigeration cycle are the compressor, the condenser, liquid receiver, the evaporator, and there are also control devices. So this diagram here shows a typical refrigeration cycle with these components arranged in order, to provide the chilling component of an air handling system. To review the basic refrigeration system, a refrigerant in vapor form is at first compressed in the compressor, reducing its volume and increasing its temperature. From the compressor, it's pumped to a condensing unit where the refrigerant is cooled and condensed into a liquid. The liquid is then pumped to the indoor evaporator unit and is passed through the evaporator coils that will remove heat from the building. The hot air in the building is passed over the evaporator coils and as a result, heat is added to the refrigerant and heat removed from the air. The air is then recirculated back to the building. The heat added to the refrigerant turns it into a vapor and then is sent back to the compressor to repeat the cycle. Chiller condensers are used to remove heat from the system by cooling the air stream, cooling water, and evaporation occurs. Air-cooled systems are frequently used in commercial buildings where the cooling load is less than 100 tons of refrigerant. The air-cooled systems are frequently used in commercial buildings where the cooling load is less than 100 tons of refrigerant. The air-cooled condenser is made up of coils that contain the flowing refrigerant and provide a large surface area for convection transfer of heat and a forced air force through a fan unit. This convection removes heat from the refrigerant and removes it from the system completely. Water-cooled systems are used for commercial buildings that have larger cooling loads. They also have higher efficiency than the air-cooled system. In these systems, water is used to remove heat from the air stream. They also have higher efficiency than the air-cooled system. In these systems, water is used to remove heat from the refrigerant flow instead of air. So with the heat removed, it's pumped to a cooling tower where the heat is rejected to the atmosphere and the water is pumped back to the condenser. Cooling towers reject heat through the use of air streams to evaporate a portion of the incoming water, then the rest of the incoming water is cooled. The heat transferred to the air causes a rise in the air and it flows out through the top of the tower and into the atmosphere. Water-cooled chillers have higher efficiencies than air-cooled chillers as a general rule. Water-cooled chillers have higher efficiencies than air-cooled chillers as a general rule. So this is due to how they reject heat at the wet bulb temperature rather than the dry bulb temperature at which air-cooled chillers reject heat. They're also smaller in size than most air-cooled chillers with the same cooling capacity. That's due to the condenser requiring less surface area and it also operates without fans. The noise level is also much lower. Evaporative condensing chillers operate basically as a more efficient type of water-cooled system, except they use evaporative cooling providing the cooling tower. The cooling is accomplished by a recirculating water system that continuously wets the condenser tubes while fans provide air flow over them. This evaporates the water and rejects the heat to the atmosphere. Evaporative coolers will use much less water than water-cooled chillers so the operational costs are lower. This slide shows a typical cooling tower for a commercial building facility. For the chiller systems we've looked at, each will have one of four main types of compressors. Reciprocating, synthetic, and air-cooled. Each will have one of four main types of compressors. Reciprocating, synthetic, and air-cooled. Reciprocating, centrifugal, and screw chillers are mechanically powered by electric motors, steam power, or a gas turbine. The absorption chillers are powered by heat energy and there are no moving parts involved. Reciprocating compressors will utilize pistons that are driven by a crankshaft. Centrifugal compressors will use centrifugal force to compress air and are widely used in the industry due to their relatively high energy efficiency. Screw-driven compressors use two opposing rotating screws to compress air. Looking at commercial building facilities, a couple of common types of systems that you'll find are rooftop packaged air handlers, as shown in this picture. These units are self-contained packages that include the compressor, the condenser, and the evaporator all on the same chassis and within the same framework. With these systems, heat is exchanged directly with the refrigerant passing through the tubes of a thin cooling tower. Reciprocating, synthetic, and air-cooled. Another similar arrangement is what's called a split system. This is a similar concept, but the evaporator is in a separate housing mounted in the space, for example, on an interior wall, and the refrigerant piping runs from this wall mount to the condenser unit outdoors on a concrete pad or on the roof, as shown in this picture."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "25C33776-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the components and operation of commercial refrigeration systems, including different types of chillers, compressors, and cooling methods used in HVAC applications.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "225dab98-4420-434f-b8cb-f744afd38eb3"
+          }
+        },
+        {
+          "title": "Case Study #1",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "For our first case study, a common example of applications for split systems are rooms in commercial buildings that need constant air conditioning, and the rest of the building is unoccupied when the facility is closed. One example from my experience is bank branch buildings. Bank branches are typically 2,000 to 4,000 square feet spaces, and they'll be open for business from 9 a.m. to 5 p.m. Outside of these hours, the HVAC load is reduced, and the system can be turned down on a night setback. However, the telecom closet will have computers and system hardware running 24-7. The split system is a smaller system that can take care of this constant heat load, while the main HVAC system for the rest of the building can be turned down as an energy savings. So I've installed dozens of these split systems for telecom rooms. Mitsubishi's HVAC system is a system that can be turned down on a night setback. Mitsubishi Mr. Slim is a popular unit, similar to the type shown in this picture. These units are typically a 1-ton or 12,000 BTU cooling capacity, or 2-ton 24,000 BTUs. These are usually large enough for a small room, say 100 square feet or less. It depends on the number of computers, data racks, etc. So this will also depend on the location of the telecom room. An interior room is usually not a problem because you would typically have air-conditioned spaces all around the room, and this means minimal heat gain from outside the room. However, you need to be careful when a room may be located on an outside wall, especially a room with exterior windows that can be impacted by solar loads. I had one project in Phoenix where the peak solar loads were greater than the load inside the room. This unit needed to be upsized to ensure we had adequate cooling capacity. The bank branch type of installation is just one example where this type of application works out well. There are probably dozens of others that you'll come across or that you can discover. Overall, from my experience, finding these types of applications and applying ingenious methods to solve operational issues and reduce operational costs are really the most rewarding and successful approaches that are used in business today. So it's very important to look for approaches like this to stay competitive overall in business and industry, whatever role you're involved in."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2627EBE4-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify applications for split HVAC systems in commercial buildings, particularly for areas requiring constant cooling, and understand their role in energy efficiency and operational cost reduction.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "3130165d-ac8c-4f72-a92c-a376079df016"
+          }
+        },
+        {
+          "title": "Modifying Operating Temperatures",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Now that you've completed the case study checkpoint, let's continue on this topic of HVAC refrigeration systems. As I mentioned, it's very important to be able to make proper selections of HVAC systems for commercial buildings that will be energy efficient and meet the needs of the individual building and operating schedule. A significant opportunity for energy savings is through modifying the operating temperatures for the chiller units. You can improve the efficiency of the chiller through reducing the temperature difference between the condenser and evaporator of the chiller. In other words, the hot side versus the cold side. This can also be looked at on a seasonal basis, depending on the operation. For example, if the chiller can produce chilled water at 45 degrees Fahrenheit, but your operating system only requires 50 degrees Fahrenheit chilled water, you can save energy. By reducing the temperature difference on the chiller. And that produces chilled water at 50 degrees Fahrenheit."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "26CCF6AC-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand how adjusting chiller operating temperatures can improve energy efficiency in commercial HVAC systems.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "8416f260-7d88-4a01-92fa-d66275beea22"
+          }
+        },
+        {
+          "title": "Case Study #2",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Here's another case study. Case study number two is a common example found in commercial facilities regarding the sequencing of chiller systems. In my experience, I've seen systems that are designed to require chilled water for cooling coils to operate at 45 degrees Fahrenheit. However, the power plant shuts down the chillers when the outside air temperature drops below 50 degrees Fahrenheit. So in the wintertime, the chilled water system only has water circulating through the exterior piping system to prevent freeze-up of the piping system. But the water temperature can rise to 60 degrees Fahrenheit, which is not adequate for the application requiring 45 degrees chilled water supply. This requires the power plant to start up a chiller to supply the 45 degree water, and that can be very expensive. The alternatives would be to have a small dedicated chiller unit to serve that specific application, or to use a DX air conditioning system with a self-contained system to produce chilled water for that application. I've installed several systems that have used electric power only to run the DX package air conditioning system. Now you're probably thinking that the electric power supply is more expensive energy-wise for BTU, and you're correct. It is, but the main factors that you often run into is if the unit only operates one or two weeks a year for a special product or application, the energy cost is not that big of a factor. Plus, it can be very expensive to install chilled water piping, control valves, and instrumentation for a facility versus running an electric supply conduit and cabling."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "26FD072A-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the challenges and alternative solutions for chiller systems in commercial facilities, particularly when dealing with varying temperature requirements and cost considerations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b69ff9ac-caf6-4ab8-810e-1b5d8ab94368"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the components and operation of commercial refrigeration systems, including different types of chillers, compressors, and cooling methods used in HVAC applications.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "225dab98-4420-434f-b8cb-f744afd38eb3"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify applications for split HVAC systems in commercial buildings, particularly for areas requiring constant cooling, and understand their role in energy efficiency and operational cost reduction.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "3130165d-ac8c-4f72-a92c-a376079df016"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand how adjusting chiller operating temperatures can improve energy efficiency in commercial HVAC systems.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "8416f260-7d88-4a01-92fa-d66275beea22"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the challenges and alternative solutions for chiller systems in commercial facilities, particularly when dealing with varying temperature requirements and cost considerations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b69ff9ac-caf6-4ab8-810e-1b5d8ab94368"
+        }
+      ]
+    },
+    {
+      "title": "Commercial HVAC Boilers and Furnaces",
+      "section_id": "9330a838-3a59-47e1-a7e6-e2569d5a3dfc",
+      "learning_objects": [
+        {
+          "title": "Overview of Commercial HVAC Boilers and Furnaces",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Now that you've completed the case study checkpoint, let's move on to HVAC boilers and furnaces. Boilers and furnaces are used in commercial buildings to generate steam and hot water for heat and power. Boilers heat air through combustion of a fuel to heat water and produce steam. The hot water or steam is piped through the building to radiator units, hot water coils, or steam coils where air is forced over them. Then this air moves through ductwork to the conditioned spaces in the building. Boilers and furnaces are essentially the same, except boilers are typically larger sized and may be more common in larger commercial and industrial facilities. The typical sources of energy used in boilers and furnaces are fuel oil, coal, or natural gas. Gas boilers are the most common for building HVAC systems, but occasionally you'll find electric boilers and oil boilers. In some facilities, dual fuel boilers, are installed, which can use gas or oil. Most boilers in commercial buildings will be producing hot water to provide a heat source for the air conditioning system. Boilers may often serve the domestic hot water system as well. Boilers are generally classified in two main categories, conventional units and condensing units. The conventional units are made of materials that will not be suitable for the corrosive properties of condensing gases. So the heat, that would be gained from the condensing gases, become waste. Some units can be equipped with a stack gas economizer that will capture a portion of the exhaust heat from the boiler. The condensing unit will allow the water vapor produced during the combustion process to produce heat to condense. Condensing type boilers will typically have efficiencies over 90% as a result of extracting heat from the exhaust gases. Boilers can also be classified by the heating method. Fire tube or water tube are the two main common types. Fire tube boilers transfer heat from combustion gases using a set of tubes surrounded by water. Hot gases flow through the tubes and they transfer heat to the water surrounding the tubes. Water tube boilers use tubes filled with water that are surrounded by the combustion gases that transfer heat to the water inside the tubes. Keep in mind that in all of these types of boilers, the boiler tubes are where the heat transfer is occurring. The main components of the boiler are the feed water system. This system supplies the water to the boiler. The fuel and combustion system. This system supplies the fuel for making heat and provides air for combustion. And thirdly, the steam and water system. This system collects and controls the steam or hot water. The feed water system will supply the boiler with water at a certain temperature and pressure. Feed water pumps are included in the system to maintain the boiler water level. If additional water is needed to maintain the boiler water level, a city water connection can also be used. This is called make-up water. If the water level is not maintained properly, a low water fuel cutoff provided on the boiler system will cut off the fuel just below the normal operating level. One of the key components installed on boilers is the safety device. On a steam boiler, this is the safety valve and it will pop open when the boiler exceeds the maximum allowable working pressure. This valve is located at the highest part of the steam side of the boiler. Water boilers have a similar device called a safety relief valve with the same purpose."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "27BB8DE4-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the basic principles, types, and components of commercial HVAC boilers and furnaces, including their operation, efficiency considerations, and key safety features.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d615a926-d6a3-4e6d-8753-dca19623aaeb"
+          }
+        },
+        {
+          "title": "Combustion Process",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "So if we look at the combustion process of a boiler, the fuel is mixed with air and is burned to produce the heat necessary to operate the boiler. With fuel oil, heaters are used for ease of pumping of the oil. Oil strainers and pumps are also provided to supply the oil from storage tanks to the burner. The burner supplies a fine spray of oil to the burner to provide good, efficient combustion of the fuel. With a gas boiler, gas burners supply the proper mixture of air and gas to the boiler to achieve the complete combustion. The gas train consists of all necessary components including the regulator and a vent to atmosphere. Coal systems will use pulverizers or stokers, which are mechanical coal feeding devices that feed the coal to the boiler. Some common pulverizers for coal are ball mills and tube mills. A ball mill is a pulverizer. A ball mill is a pulverizer that consists of a horizontal rotating cylinder containing tumbling steel balls or rods. A tube mill is a revolving cylinder where the material mixed with water is fed into the chamber from one end and passes out the other end as a slurry. With HVAC system boilers, the steam or hot water will be delivered to the steam or hot water coils through a piping system. With steam type systems, return piping to the boiler will require condensate piping as well. The most common types of condensate return piping systems are gravity and mechanical systems. When the coils and terminal devices are above the boiler, the gravity return system can be used to return condensate to the boiler. Otherwise, the mechanical type system must be used and this system will use steam traps and condensate pumps to return the condensate. One key requirement of HVAC boiler systems is the need to have adequate water treatment for the boiler. All steam system make-up water should be treated. The actual treatment requires the type of water that's available at the facility. So if we consider what goes into feed water being comprised of city water and return condensate from the facility, it normally contains impurities. So these impurities can cause deposits and other related problems inside the boiler. Impurities can include calcium and magnesium or hard water. Impurities can include calcium and magnesium or hard water. Silica, iron and dissolved oxygen. One process that is used in boilers is called blowdown, a periodic or continuous water removal process that is used to limit the concentration of impurities in the feed water. So this blowdown process also controls the buildup of dissolved solids in the boiler."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "280C540E-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the combustion process in different types of boilers, including fuel oil, gas, and coal systems, and recognize the importance of water treatment and blowdown processes in HVAC boiler systems.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "7b2c8499-a521-434f-b4d8-23ce9536bd88"
+          }
+        },
+        {
+          "title": "Case Study #3",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "For our third case study, one project I recently completed in our power plant was the installation of an economizer on the exhaust stack of a package boiler. So this boiler provides 150-pound steam to the plant and is used as a backup and supplemental steam supply to the two main boilers. It has a dual burner that can use natural gas or fuel oil. So this project removed the existing exhaust stack from the boiler and we installed an economizer. So this economizer was a prefabricated unit that had a continuous pipe bundle inside to make up the economizer. We connected the pipe bundle to the boiler feed water supplying the boiler and the heat from the boiler exhaust was then used to increase the feed water temperature on its way to the boiler. The feed water temperature was increased about 40 degrees Fahrenheit from 225 up to 265 degrees through the installation of this economizer. The regular feed water was used to supply the boiler and the feed water to the boiler is heated with 10 psi steam from the boiler deaerator system. So the installation of the economizer resulted in an increase in boiler efficiency of about 15%. So this project cost a little under $100,000 and included the purchase of the economizer, revision to the feed water piping, installation of structural support steel for the economizer on the roof, modification to the exhaust stack, and making way for the economizer. Bottom line, this project saved energy equaling the value of the project cost within 18 months' time. This was really a no-brainer from an energy perspective. In the facilities I've worked in during my career, there's always opportunities like this to capitalize on and reduce your overall energy costs. Usually there are a sufficient number of projects that you'll find and that you'll need to prioritize what the larger paybacks are or what the low-hanging fruit is and complete those first."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "284DE3BA-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the process and benefits of installing an economizer on a package boiler's exhaust stack, including its impact on boiler efficiency and energy cost savings.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "de8ec579-0baa-430c-9778-ea71a656140b"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the basic principles, types, and components of commercial HVAC boilers and furnaces, including their operation, efficiency considerations, and key safety features.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d615a926-d6a3-4e6d-8753-dca19623aaeb"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the combustion process in different types of boilers, including fuel oil, gas, and coal systems, and recognize the importance of water treatment and blowdown processes in HVAC boiler systems.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "7b2c8499-a521-434f-b4d8-23ce9536bd88"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the process and benefits of installing an economizer on a package boiler's exhaust stack, including its impact on boiler efficiency and energy cost savings.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "de8ec579-0baa-430c-9778-ea71a656140b"
+        }
+      ]
+    },
+    {
+      "title": "HVAC Heating & Cooling Systems",
+      "section_id": "f79e9a56-12e5-4021-9f58-745ec532faca",
+      "learning_objects": [
+        {
+          "title": "Overview of HVAC Heating & Cooling Systems",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Now that you've completed the case study checkpoint, let's move on to HVAC heating and cooling systems. HVAC heating and cooling systems play an important role in providing a satisfactory environment for the occupied spaces. In order to provide a comfortable environment in commercial building spaces occupied by employees, customers, patients, clients, etc., the air must be conditioned through the heating and cooling systems from the power plant equipment as we've covered, including boilers, furnaces, refrigeration systems, chillers, cooling towers, DX systems, split systems. For large centralized systems, the air handling systems can be equipped with steam coils, reheat coils, chilled water coils, and humidity grids. So these coils and grids are connected to steam, condensate, and chilled water piping systems in order to properly condition the air supply. So let's take a look at the types of equipment that will be involved in the HVAC heating and cooling systems. The air handler unit is typically the key piece of equipment due to the fact that it houses the heat transfer coils that provide the heating and cooling functions for the supply air. The air handler will also house filter racks, sound attenuators, and damper sections. The construction of the air handler itself is very important, being structurally sound, having low levels of air leakage from the unit, typically less than 1% as well as a rigid type of construction with small amounts of wall deflection. Also, multi-sloped drain pans and UV lamps are used, both to aid in the elimination of any fungus or mold buildup. Insulated wall and ceiling panels reduce heat loss from the unit, and premium efficiency fan motors, direct drive plenum fans that eliminate belt and pulley energy loss, and energy efficient VAV fan motor drives are key energy efficiency measures for air handling units. In order to have a comfortable working environment for building occupants, the air being supplied to the space needs to be clean and free from any dirt, pollen, or other contaminants. This air cleaning is produced by the air filtering system within the air handler. Typically, an air handler will be provided with panel type pre-filters, bag filters, and depending on the application, HEPA filters. HEPA stands for high efficiency particulate arrestants. Each section of filters will have a specific purpose in increasing in filter efficiency. For example, the pre-filters have an efficiency in the range of 30 to 50 percent and are intended to remove large contaminants, general dirt and debris. Bag filters will consist of fiberglass or synthetic media pockets. They'll have efficiencies in the range of 50 to 85 percent and they'll take care of finer dust. Then the HEPA filter will be the last stage with a rating of 99.97 percent efficiency or even higher. Also, some additional energy-saving features available with the air handler are energy recovery heat wheels that replace the heat that would be lost from an exhaust air stream and recover it, and an economizer section that provides free cooling from outside air based on the adequate dew point differentials between the outside air and the air being recirculated from the space. One of the most common types of air handlers is the rooftop unit, or RTU. Connections to the steam and chilled water coils would then require pipe that run from the power plant boilers and chillers, connecting to the nearest piping main from those pieces of equipment. Or, the RTU can be completely self-contained with an air-cooled DX direct expansion refrigerant cooling system built into the unit. A key element of the air handler is the supply and return of air. If the air handler is roof-mounted, the ductwork then extends outdoors and down through the roof, or through the walls of the building. From that point, the air ducts extend through attic or above ceiling spaces, or through mechanical chases, or spaces for the duct to be enclosed. Also, some return systems just use the entire attic space for a channel to return the air back to the air handler. This is known as a plenum return system, since it's using the entire plenum space as an air passageway. So the air handler draws air from the space through the return duct, passes the air over the heating coils and cooling coils, and then forces the air through the supply air ductwork back to the space. The system can supply an entire building, a single floor, or multiple floors, depending on the ductwork layout. There's also small air handlers that are called fan coil units, and they can consist of only a coil, a supply fan, and an air filter. So these units are typically used in much smaller spaces."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "28AA4D4E-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the key components and functions of HVAC heating and cooling systems in commercial buildings, including air handling units, filtration systems, and energy-efficient features.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b1d5a4dd-b6a7-4453-a2a5-72021a337c9e"
+          }
+        },
+        {
+          "title": "Case Study #4",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "For case study number four, I'd like to look at a system I recently installed where I work that really displays the major components of the air handler that we've been reviewing in this heating and cooling section. This slide is a diagram of the air handler, the typical air handler installed outdoors on a structural steel platform, serving a number of interior spaces. Because the unit is installed outdoors on the roof, the chilled water, the steam and condensate piping is piped through the roof or of the building to the steam and chilled water coils that are installed in the air handler. Also, the ductwork extends from the discharge end of the air handler through an opening in the roof and extends over to the area being conditioned. So let's look at the air handler section by section, starting from the far right compartment where you see the arrow pointing into the air handler. This is where the air enters. The air enters the air handler and the conditioning process begins. Compartment number one, air enters here, enters the air handler from outdoors. So some systems will have return air ductwork from the space ducted back to the air handler, or it can be using 100 percent outside air. This would be called a 100 percent outside air unit or once through air unit. Of course, higher energy costs are involved with 100 percent outside air operation due to the temperature and humidity. However, some processes or facilities do not allow air to be returned from the space, hence the reason for 100 percent outside air. So the first compartment contains the return fan and motor as shown here, and that pulls return air from the space and directs it through the air handler. This section also includes an exhaust opening that would be ducted outdoors. This is for balancing the system. So if the pressure gets too high or out of control, it can exhaust to outdoors. Compartment number two, pre-filters and bag filters are housed here. Also, there's a space provided to change out the filters. And this is also where the outside air enters the air handler and mixes with the return air shown at the top of the air handler. Note that both of these sections will have differential pressure gauges provided to show how dirty the filters are getting. This gives an indication on when the filters need changing. Compartment number three, pre-heat coil, right after the filters and the mixing section. Compartment number four is where the supply fan and motor are located. The latest preferred approach from air handler companies is to use centrifugal plenum fans. They just mount to the wall of the air handler and pressurize the air stream to supply air to the system. Also, this approach works well with the plenum wall approach as it allows multiple fans to be installed. They're smaller, easier to handle for maintenance. Plus, if one fan would break down, you still have one or more fans left that can run the unit until you get to a point where you can shut down the whole system for repairs. Compartment number five, shown here, is for chilled water coils. Usually, they're copper tubes and aluminum fins sized for cooling to dew point levels as necessary to dehumidify the supply air stream. Compartment number six is the HEPA filter section. HEPAs are typically 24 inches deep and they're sealed into the framework to prevent any leakage and thus bypassing any air. It really forces all the air to go through the HEPAs. Compartment number seven is the humidifier grid. This will typically be supplied from a steam line, sometimes a clean steam generator that can use soft water or purified water to produce steam and inject into the air stream to increase the humidity of the supplier to the desired volume. 45 to 50% RH relative humidity. Air discharge is shown out the last compartment on the left and existing upwards location. The discharge can be any direction out of the air handler discharge, vertical, up, down, or horizontal in three different directions. So those are the major components of a typical air handling unit. There are dozens of variations depending on how the unit is designed, but this gives a good idea of how the unit can be constructed and how the air is conditioned with the air handler to provide a comfortable environment for the building occupants."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "28DFA124-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and describe the major components and functions of a typical commercial air handling unit, including the airflow process, filtration stages, heating and cooling elements, and humidity control.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "47045d6e-83c4-412a-b6fd-766c4f059f7d"
+          }
+        },
+        {
+          "title": "HVAC Heating & Cooling Systems, continued",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Now that you've completed the case study checkpoint, let's continue in this topic of HVAC heating and cooling systems. If we look at the air conditions that are being supplied to the space, a very common arrangement is to produce 55 degrees Fahrenheit supply air temperature with an acceptable humidity level, say 45 to 50 percent RH, out of the air handler to send to the areas being served. So this will require tempering the air through the various seasons and climate conditions. To accomplish this, the air handler will utilize the preheat steam or hot water coils to heat any outside air when necessary and to prevent freezing of the chilled water coil downstream. Then the chilled water coil will cool the air stream to the saturation temperature for humid summer periods. This is through the natural dehumidification properties of air through cooling to the dew point level. So the cooling coil discharge temperature is typically 55 to 50 degrees Fahrenheit. The cooling coil discharge temperature is typically 55 to 50 degrees Fahrenheit saturated because the air is at the dew point. Another conditioning step within the air handler is a humidification grid. So during dry winter conditions, for example, the humidification grid will add moisture to the air stream to maintain that desired 45 to 50 percent RH value. Outside air should always be brought into the HVAC system to assist in providing acceptable indoor air quality and this is a code requirement. The air that's displaced by such outdoor air is either allowed to leak out of the building envelope or is exhausted by bathroom and kitchen exhaust fans or it's exhausted to the outside by dedicated exhaust fans provided to maintain building pressure balances. There are several ways that HVAC systems introduce the conditioned air to the occupied space. Here are several common arrangements. Single zone systems, multi-zone systems, dual duct systems, reheat systems, and variable air volume systems or VAV. The single zone system will serve just one temperature control zone typically. So these zones will control the quantity of chilled water or reheat that is supplied to the space. Multi-zone systems will serve a small number of zones with a central air handling unit. This type of system will use heating and cooling coils in parallel and provide what's called hot decks and cold decks in some cases within the air handler. After that zone thermostats will control mixing dampers to modulate the amount of air from the hot deck and the cold deck to get the desired temperature in the space. Dual duct systems are similar to multi-zone except instead of mixing the hot air and cold air at the air handler this mixing is accomplished at each zone. So this requires hot air ducts and cold air ducts extending through the facility to each zone. Reheat systems will supply the cold air 55 degrees fahrenheit typically from the air handler as I described earlier in order to meet the maximum cooling load for the area served. Then the space is provided with a heater in the duct that reheats the cold supply air to maintain the space temperature. So these reheat coils can be supplied by hot water steam or electric. These systems are very popular. They're actually less efficient because of the energy used to cool the entire air stream and then additional energy required to reheat the air. Air terminal units are installed as the name implies toward the discharge end of the heating and cooling system. So they'll address specific HVAC zones that consist of thermal loads due to interior or external conditions. For example solar, people, lighting, equipment, etc. Constant air volume or CAV systems provide air at a variable temperature and constant flow rate to a space to regulate the room temperature. Variable air volume or VAV systems control the temperature in space by varying the volume of supply air rather than varying the supplier temperature. So this varying of supply air volume is accomplished by modulating VAV boxes serving the individual zones. This is a very common system used today in commercial buildings due to the fact that the air flow rate is very low. So this is a very common system used today in commercial buildings due to the to the lower energy use that compared to the CAV system."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2914A27A-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and compare different types of HVAC systems used in commercial buildings, including single zone, multi-zone, dual duct, reheat, and variable air volume (VAV) systems, and understand their basic operating principles.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d185a937-19a8-40a9-990c-f4d4b0d1d6ae"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the key components and functions of HVAC heating and cooling systems in commercial buildings, including air handling units, filtration systems, and energy-efficient features.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b1d5a4dd-b6a7-4453-a2a5-72021a337c9e"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and describe the major components and functions of a typical commercial air handling unit, including the airflow process, filtration stages, heating and cooling elements, and humidity control.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "47045d6e-83c4-412a-b6fd-766c4f059f7d"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and compare different types of HVAC systems used in commercial buildings, including single zone, multi-zone, dual duct, reheat, and variable air volume (VAV) systems, and understand their basic operating principles.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d185a937-19a8-40a9-990c-f4d4b0d1d6ae"
+        }
+      ]
+    },
+    {
+      "title": "HVAC Control Systems",
+      "section_id": "1d52d20b-3318-4bc3-bc02-8c38bd366215",
+      "learning_objects": [
+        {
+          "title": "Overview of HVAC Control Systems",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Let's move on to our next topic in HVAC Systems Essentials, HVAC Controls. This is a key area for us to consider. It really is a very important piece that is involved with each of the previous sections related to the overall HVAC system. The control system will play a role with the refrigeration, the boiler, the heating and cooling systems, and can be set up from a common controls platform, commonly called a BAS, or Building Automation System in some facilities, or from individual, stand-alone control platforms. HVAC Control refers to how various parameters are adjusted to reach the desired levels for temperature, humidity, pressure, and ventilation. If desired temperature, humidity, and pressure are maintained, the system and building will have an acceptable environment for the occupants and employees in the space. Also, control systems are automatically operated, so they're designed to handle the worst-case conditions. And they'll need to be sized accordingly. For example, operating pressures, chilled water flow rates, steam flow rates, pipe sizing, and component sizing all need to be sized to handle the minimum and maximum operating conditions. The basic control system includes a controlled variable, a sensor, a controller, a controlled device, and a controlled agent. The controlled variable is the parameter being measured and controlled. For example, the dry bulb temperature of the air leaving a cooling coil would be a controlled variable. The sensor measures the condition of the controlled variable and sends an input signal to the controller. With the cooling coil example, the sensor is the dry bulb temperature sensor. The controller is the brains of the system. The controller compares the measured condition of the controlled variable to the desired condition, or set point, and transmits a corrective output signal to the controller. The control device makes no empatheticlus device that detects the \u0442\u043e\u0442 Espero control of an\u3075ra The control device is the component that reacts to the output signal from the controller and takes action to vary the control agent. In the case of the cooling coil, the device would be a control valve the controlling agent is the medium that is manipulated by the control device. So again, in the case of a cooling coil the medium would be chilled water. of the coil. All of these items working together are referred to as a control loop. So there are a number of instruments that are installed in the field to collect data for a control system. Control systems will use this data from sensor devices in the field to make decisions about the system and then use outputs to adjust actuator control devices. Sensors and transmitters can include thermostats, differential pressure transmitters, static pressure sensors, and humidity sensors. For example, an air damper will be installed with an automatic actuator and is connected to the damper shaft to operate it. So this damper will actuate through a direction from a temperature sensor that requires the temperature to be lower, thus sending a signal to the actuator to close the damper. Control devices use analog or digital signals to compute the temperature of the damper. The control devices will also use analog or digital communicate. Analog inputs to a controller can be a continuously varying signal from a sensor, such as a temperature sensor. Digital inputs are simply two-state type devices or on-off signals from sensors, such as a switch."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "29801438-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the key components and functions of HVAC control systems, including controlled variables, sensors, controllers, control devices, and control agents, and how they work together to maintain desired environmental conditions.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "276a563b-db78-4c48-b10f-67947553adc1"
+          }
+        },
+        {
+          "title": "Case Study #5",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "For case study number five, let's review a typical control loop that you will find in a commercial building HVAC system. This diagram shows the controls for a shell and tube heat exchanger. The control device acts to modify the controlled variable as directed by the controller. So in this diagram, TT101 is the temperature sensor. TIC101 is a controller for temperature indicating controller. FT100 is the flow sensor. FIC101 is a controller for flow indicating control. So the steam valve is the control device which regulates the amount of steam that is provided to this heat exchanger. So the downstream temperature of the process fluid is monitored and sensed by the temperature sensor, TT101, with a signal being fed back to the controller and modulates the steam flow to the process fluid. So this control system would take into account the temperature of the heat exchanger. So this control system would take into account both varying temperature and steam flow with an algorithm or control logic and that provides the desired process fluid temperature to the point of service. This desired temperature is also known as a set point. So you see how the different components work together to form a control loop in order to provide temperature control on the heat exchanger and the HVAC system that it's serving."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "29B74480-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the components and operation of a control loop for a shell and tube heat exchanger in commercial HVAC systems, including temperature sensors, controllers, and steam valve regulation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "2143d8b6-bd52-4598-97e6-2898aa48c110"
+          }
+        },
+        {
+          "title": "Open Loop and Closed Loop Systems",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Now that you've completed the case study checkpoint, let's continue on this topic of HVAC control systems. If we look at the types of control systems that exist, we'll see that there are basically open-loop systems and closed-loop systems. Open-loop is a system that does not use any feedback. In other words, the system is essentially not monitored as far as the performance and meeting the set point value. It's also known as feed-forward control. So, the open-loop strategy assumes a fixed relationship between a condition and a controlled variable. Overall, the open-loop system of control is not the most suitable for air conditioning and refrigeration systems. However, they may be used for time-dependent operations, such as starting and stopping fans in the HVAC system. Also, they may be used to adjust the set point of a controller based on an independent variable, such as outdoor air. In other words, they may be used to adjust the set point of a controller based on an independent variable, such as outdoor air. More common to HVAC applications are closed-loop control systems. With closed-loop, the controller responds to an error in the controlled variable. So, a comparison is made continuously with this system between the sense parameter and the set point value, and a corresponding signal is generated to maintain control. This type of control is also referred to as feedback control. So, HVAC controls are typically of the closed-loop value. So, HVAC controls are typically of the closed-loop value. So, HVAC controls are typically of the closed-loop value. So, HVAC controls are typically of the closed-loop value. Within closed-loop controls, the categories include two position and continuous controls. Within closed-loop, there is a sensor, a controller, and a control device, a valve or motor, for example. In closed-loop, control feedback is provided to a controller. The controller is informed of changes in the process variable, and it changes its output based on updated input information. Under actual operating conditions, outside forces constantly act on the various parts of a system to upset the balance. So this sets the loop cycle in operation to re-establish the balance. A closed-loop system is one in which all parts have an effect on the next step of the loop. They're affected by the action of the previous step. So in other words, a closed-loop system is an error-sensitive and self-correcting system. Pneumatic systems are an older type of control for HVAC systems, but they're actually one of the most prevalent types of control systems in operation today. And this is due to the vast number of systems that have been installed in large buildings historically in urban areas nationwide. So these systems can provide on-off or modulating control. Actuators for these systems are referred to by their spring ranges, such as 3-8 PSIG and 8-15 PSIG. Compressed air with an input pressure can be regulated by thermostats or humidistats. So by varying the outlet air pressure from these devices, the signal is used to directly open and close the control device valves or dampers. So this type of system is very durable and safe, especially in hazardous areas where electric sparks need to be avoided. Instrument air quality is very important with pneumatic control systems. The air must be clean and dry."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2A0B122C-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Differentiate between open-loop and closed-loop HVAC control systems, and understand the key characteristics and applications of pneumatic control systems in commercial HVAC.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "ea4dc764-5550-4726-aba2-8e690fa6ef6f"
+          }
+        },
+        {
+          "title": "Case Study #6",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "For case study number six, let's review an important aspect of controls for HVAC systems. It can be quite critical when there are upsets in a facility, upsets primarily with power supplies and control power. In order for many control systems to work properly, a consistent power supply will be needed for the control system. For example, when you have an automatic valve on a steam line to a preheat coil and you lose power through a power outage or from some issue in the power plant, for example, you can lose power supply to the control system unless your circuit is on an emergency power circuit tied to a generator, for example, or it has an alternate source of power. So if this would occur, the signal to the steam control valve would be lost. Control valves are designed with internal spring mechanisms. They will force the valve open or closed when no signal is being received. This is called normally open, NO, or normally closed, NC, for the valve design. So in the case of the steam valve, typically you will need the valve normally closed. With this arrangement, in the event of an extended power outage, you would avoid having the valve wide open for that extended period of time. Instead, it would be closed due to the spring action. Depending on the steam system and the available systems, if you have an internal steam pressure, that would avoid serious damage to the air handling unit from having the steam valve left open, also due to the space that it's serving. One of the air handlers I'm responsible for, we had an error that we caught a few years back that was the design of the valve was wrong from the original installation. The valve was installed normally open. So we were able to catch the error through a regular maintenance PM, preventive maintenance work order, and we were able to check it out and get the control valve swapped out. So we were able to catch the error through a regular maintenance PM, preventive maintenance work order, and we were able to check it out and get the control valve swapped out. with the correct design, normally closed."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2A412286-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of control valve design in HVAC systems, particularly the significance of normally open (NO) and normally closed (NC) configurations during power outages or system failures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "1a043b4b-9255-4c53-9c92-03b1fe9e3b0e"
+          }
+        },
+        {
+          "title": "System Automation",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Now that you've completed the case study checkpoint, let's continue in this topic of HVAC control systems. Today, direct digital control systems, or DDC, are commonly used in most complex HVAC systems. Microprocessor DDC systems are the most commonly installed type of system for new systems. DDC allows the system controller to handle the sequence of operation based on digital inputs from all system sensors. The DDCs can convert analog signals to digital as needed to handle any required operation. The sensors and output devices utilize digital inputs and discrete instructions known as algorithms to perform the value comparison and control functions. The majority of subsystems such as VAV boxes, boilers, chillers, etc. are provided with an onboard DDC system designed to optimize performance of the particular unit. Also, DDCs can be used to control DDC systems. Also, there are several program languages that are available today that work with microprocessor systems. These are BACnet, LONTALK, MODBUS. These program languages allow products from different manufacturers to talk to each other, communicate. Linking all the system-level controllers to a building automation system, however, allows the building operator to quickly and efficiently respond to any issues and comfort-related complaints from a central location. The BAC system is used to control DDC systems. The BAS permits the operator to assess the current status and performance of the entire system or any component of the system from a central location. One of the primary benefits of using a BAS as the interface is its ability to provide a graphical user interface through a PC. So this interface can be customized to show the actual floor plan of the building as well as the actual equipment and systems installed. Providing a graphical representation of the building. A graphical representation of the building's floor plan allows the operators also to easily focus on one particular area of the building. It can also allow them to see the current comfort conditions in any specific location. Building automation systems provide the opportunity to simplify the control of the various HVAC systems within a facility. In addition, they can be used to integrate the operation of the HVAC systems with other building systems, such as lighting, security, fire protection. For example, the time of day. The time of day scheduling function used to schedule the HVAC system may also be used to turn on and off lights inside the building. Integrating these two systems allow the building operator to interact with both systems from the same user interface. This integration may also involve changing the operation of one system component to assist another system. For example, one approach for providing smoke control in a large building is to share components with the HVAC and exhaust systems. Actually, the HVAC system can be used to control the HVAC system. The activation of a fire alarm causes these other systems to change modes and perform smoke control operations. The trend in the building automation industry is toward interoperability. Digital communication between independently manufactured products is designed to the same open standard communications protocol. It means that a single controller can monitor and control various products that are independently designed. And microprocessor based linking all of the controllers together with a building automation system provides an opportunity to improve the operation and management of the entire building. So this communication between controllers will also be designed to utilize the communications network within the facility. HVAC control systems have a big part in energy saving strategies for building. Time of day scheduling is one of the most important energy saving strategies. HVAC control systems have a big part in energy saving strategies for building time of day scheduling is one of the most important energy saving strategies. HVAC control systems have a big part in energy saving strategies for building time of day scheduling is one of the most important energy saving strategies. These schedules can be used to ensure that equipment such as air conditioning and lighting only operates when it's needed. These schedules can be used to ensure that equipment such as air conditioning and lighting only operates when it's needed. These schedules can be used to ensure that equipment such as air conditioning and lighting only operates when it's needed. These schedules can be used to ensure that equipment such as air conditioning and lighting only operates when it's needed. These schedules can be used to ensure that equipment such as air conditioning and lighting only operates when it's needed. These schedules can be used to ensure that equipment such as air conditioning and lighting only operates when it's needed. These schedules can be used to ensure that equipment such as air conditioning and lighting only operates when it's needed. only operates when it's needed. It keeps the equipment running at minimal energy use levels at night, on weekends, and on holidays. It also defines exceptions to the normal operating schedule, such as holidays, possibly planned shutdowns. It can also change the set points at different times of the day or times of the year. It can also define optimal start periods to minimize energy use while maintaining comfort. So proper controls have many benefits to the overall operation of the HVAC system. Proper controls can also help maintain comfortable conditions in a space, temperature, humidity, these being the primary parameters. Control systems can maintain indoor air quality, provide proper ventilation rates that will provide adequate oxygen levels for activities taking place in the building. It'll help minimize energy consumption, for example using VFD drives or fan-drive motors to minimize energy consumption through modulating the motor to the proper speed. Also, operating equipment in a safe manner. Controls will include interlocks and safety switches. Controls can help identify maintenance issues. Items such as vibration monitors and ammeters can provide signals to a control system for an activity on time or for a need to contact an air condition. Controls can help to identify maintenance issues. Items such as vibration monitors and ammeters can provide signals to a control system. control monitor that provides an alarm for any potential upsets in the system. Monitoring of overall system operation also. Beyond maintenance issues, many other parameters of HVAC systems can be monitored to assess performance of the system. For example, VFD fan speeds, reheat control valve, percent open, how open or closed the valve is, VAV box dampers, percent open, percentage open, etc. To wrap up our discussion on controls, just remember that controls are an important aspect of HVAC systems. Controlling these parameters to the correct and desired levels ensures that the space is functional and satisfactory for the operations taking place and for the benefit and comfort of the occupants."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2A755B50-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Explain the components and benefits of direct digital control (DDC) systems and building automation systems (BAS) in commercial HVAC applications, including their role in energy saving strategies and overall system performance.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "89e02a64-245d-4d76-8cdf-f83beea13b13"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the key components and functions of HVAC control systems, including controlled variables, sensors, controllers, control devices, and control agents, and how they work together to maintain desired environmental conditions.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "276a563b-db78-4c48-b10f-67947553adc1"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the components and operation of a control loop for a shell and tube heat exchanger in commercial HVAC systems, including temperature sensors, controllers, and steam valve regulation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "2143d8b6-bd52-4598-97e6-2898aa48c110"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Differentiate between open-loop and closed-loop HVAC control systems, and understand the key characteristics and applications of pneumatic control systems in commercial HVAC.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "ea4dc764-5550-4726-aba2-8e690fa6ef6f"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of control valve design in HVAC systems, particularly the significance of normally open (NO) and normally closed (NC) configurations during power outages or system failures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "1a043b4b-9255-4c53-9c92-03b1fe9e3b0e"
+        },
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Explain the components and benefits of direct digital control (DDC) systems and building automation systems (BAS) in commercial HVAC applications, including their role in energy saving strategies and overall system performance.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "89e02a64-245d-4d76-8cdf-f83beea13b13"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "section_id": "4a42b97a-bfab-4306-a727-9f45364da9bd",
+      "learning_objects": [
+        {
+          "title": "Summary",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In summary, the information I've covered with you today is critically important from a health, safety, and welfare perspective. The design and construction of the HVAC system serving a facility ensures that the proper environment is provided for the building occupants. As a result, the system promotes a positive atmosphere for the users of the building, which can also provide emotional benefits for the employees, as well as improving productivity and overall well-being for the building occupants. Having reviewed this information today, you now have a good base of knowledge of the essentials of HVAC systems, including refrigeration, boilers, heating and cooling, and controls, so you have an understanding of what is involved in providing the proper environment for commercial buildings and similar facilities. The system features that we've talked about are very important in the operation of commercial buildings, such as energy saving initiatives, property control, and the like. The system features that we've talked about are very important in the operation of commercial buildings, such as energy saving initiatives, property equipment arrangements that work well for the comfort of the building occupants. Not paying attention to these kinds of details also can result in not obtaining the expected benefits that should be available to you and for your facility. I hope you've enjoyed this Red Vector presentation. I welcome any comments or questions related to this presentation. You can just let me know through your Red Vector contact, and I look forward to hearing from you."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "2AC551AA-8691-11EB-A15F-702A67F96AF6",
+          "learning_objective": {
+            "topic": "Commercial HVAC Systems Essentials",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the critical importance of HVAC systems in commercial buildings for occupant health, safety, comfort, and productivity, as well as their role in energy efficiency and property management.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "4aaf5c61-ecbd-43ee-927f-68b8a4fd3faf"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "Commercial HVAC Systems Essentials",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the critical importance of HVAC systems in commercial buildings for occupant health, safety, comfort, and productivity, as well as their role in energy efficiency and property management.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "4aaf5c61-ecbd-43ee-927f-68b8a4fd3faf"
+        }
+      ]
+    }
+  ],
+  "course_id": "64299C24-1794-11EB-BB34-675267F96AF6",
+  "description": "When planning HVAC systems for larger types of buildings, there are special considerations to take into account, such as higher density of people, special lighting and equipment, and other conditions that all may potentially generate heat. As a result, in most commercial buildings, the air conditioning and recirculation of air in the space becomes more important than providing heat - this is somewhat dependent on the location of the building. This course will provide essential information regarding HVAC systems in the areas of commercial refrigeration, space heating, boilers and furnaces, as well as controls and interfaces. If you're involved in HVAC systems in the areas of design, construction, maintenance, or management, this course will be a key training experience for your career. As a result of completing this training, you will have a better understanding of these core areas of HVAC systems and will be able to successfully contribute to your company - in system design, overseeing construction/maintenance, and management.",
+  "revision_id": "24239BD6-8691-11EB-A15F-702A67F96AF6",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 3606.892
+}
