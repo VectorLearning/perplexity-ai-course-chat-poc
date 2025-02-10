@@ -133,11 +133,11 @@ TEMPLATE = """
                                             
                                             <!-- Side-by-side display for Perplexity.ai response and citations -->
                                             <div class="row">
-                                                <div class="col-md-8">
+                                                <div class="col-md-7">
                                                     <label>Perplexity.ai Response</label>
                                                     <div class="rendered-markdown perplexity-response"></div>
                                                 </div>
-                                                <div class="col-md-4">
+                                                <div class="col-md-5">
                                                     <label>Perplexity.ai Citations</label>
                                                     <div class="rendered-markdown perplexity-citations"></div>
                                                 </div>
@@ -306,8 +306,9 @@ def check_inaccuracies():
     claude_payload = {
         "anthropic_version": "bedrock-2023-05-31",
         "max_tokens": 2000,
-        "system": "Convert the following transcript from an eLearning course into an exhaustive list of facts. Do not summarize, provide commentary, or omit details. List the facts exactly as they appear in the course.",
-        "messages": [{"role": "user", "content": transcript}]
+        "temperature": 0,
+        "system": "Convert the following transcript from an eLearning course into an exhaustive list of facts. Be concises, but do NOT summarize, provide commentary, or omit any details. List the facts exactly as they appear in the course.",
+        "messages": [{"role": "user", "content": "Transcript:\n" + transcript}]
     }
     try:
         response = bedrock_client.invoke_model(
@@ -319,6 +320,9 @@ def check_inaccuracies():
         response_body = response['body'].read().decode("utf-8")
         result_json = json.loads(response_body)
         facts = "\n".join([item["text"] for item in result_json.get("content", []) if item.get("type") == "text"])
+
+        print(facts + '\n\n')
+
     except Exception as e:
         return jsonify({"perplexity_response": markdown.markdown(f"Error in Claude call: {str(e)}"),
                         "citations": ""})
@@ -328,20 +332,18 @@ def check_inaccuracies():
         perplexity_client = OpenAI(api_key=PERPLEXITY_API_KEY, base_url="https://api.perplexity.ai")
         messages = [
             {
-                "role": "system",
-                "content": "I will give you a list of facts from an eLearning course. Check if the content is accurate and up-to-date."
-            },
-            {
                 "role": "user",
-                "content": "Here is a lsit of facts from an eLearning course:\n" + facts + "\n\n\n Report on if the content is accurate and up-to-date. Always end your response with either 'YES' or 'NO' on a new line."
+                "content": "Here is a list of facts:\n" + facts + "\n\n\n Report on if these are accurate and up-to-date with the most recent regulations. Most importantly, if something is inaccurate, specifically state what is wrong and what the correct information is. Be specific and give details. If all of the facts are accurate, end your response with 'YES'. Otherwise, if at least one of the facts is outdated or wrong, end your response with 'NO'. Always end your response with either 'YES' or 'NO' on a new line."
             }
         ]
         perplexity_response_obj = perplexity_client.chat.completions.create(
             model="sonar-pro",
+            temperature=0,
             messages=messages
         )
         if perplexity_response_obj.choices:
             perplexity_response = perplexity_response_obj.choices[0].message.content
+            
             # Convert the response Markdown to HTML.
             perplexity_response_html = markdown.markdown(perplexity_response)
             # Assume citations come as a list of URLs.
@@ -372,10 +374,12 @@ def highlight():
     claude_payload = {
         "anthropic_version": "bedrock-2023-05-31",
         "max_tokens": 3000,
+        "temperature": 0,
         "system": (
-            "Given the transcript and the analysis response from perplexity.ai, "
+            "Given the following transcript and an analysis of any factual inaccuracies that may be present, "
             "highlight any incorrect or outdated sentence(s) in bold using Markdown, "
             "and rewrite the transcript correctly with the altered content also highlighted in bold. "
+            "When rewriting the transcript, incorporate the correct facts from the analysis."
             "Format your answer as JSON with two keys: 'original_transcript' (the highlighted transcript) "
             "and 'proposed_transcript' (the corrected version)."
         ),

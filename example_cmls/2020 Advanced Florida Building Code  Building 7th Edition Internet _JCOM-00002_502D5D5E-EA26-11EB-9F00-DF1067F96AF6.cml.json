@@ -1,0 +1,1003 @@
+{
+  "sku": "JCOM-00002",
+  "goal": "Master the advanced concepts, requirements, and updates in the 2020 Florida Building Code - Building, 7th Edition, focusing on hurricane-resistant construction, structural safety, environmental impact, and sustainable building practices to enhance design and construction capabilities in Florida's unique climate.",
+  "title": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet) -  ",
+  "sections": [
+    {
+      "title": "Introduction",
+      "section_id": "bc87d389-9058-42df-a5a8-5374bd558a2f",
+      "learning_objects": [
+        {
+          "title": "Course Overview",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The need to address hurricanes is critical when thinking about the construction of buildings in Florida, since the intensity of hurricanes and storms can be catastrophic. Hurricane Andrew, which occurred in 1992, was a significant turning point in the code revisions as that hurricane created immense damage. The revisions since 1992 have proved to be successful as subsequent hurricanes have not resulted in as much devastation. However, the codes pertaining to hurricanes will continually be revised as the Florida Building Commission strives to improve the safety and efficacy of the built environment in Florida for years to come. As the code revisions provide guidelines for structurally related items regarding hurricane forces, there are some sections that pertain to storm surges, which can also occur during a hurricane. The strong winds that hurricanes produce will push water from the ground. as a result, storms can cause floods, landslides, and landslides to spread along the Gulf or other bodies onto shore which could lead to flooding. While disciplines such as landscape architecture and civil engineering can design for flooding mitigation through vegetation or infrastructure design, like catch basins or bioswales, this course will focus on how the 7th edition addresses structural loads to mitigate hurricane damage. And finally, throughout the course, we'll see the positive changes the Florida Building Code is making to improve the environment in Florida. and finally throughout the course, we'll see the positive changes the Florida Building Code is making to improve the environment in Florida. the environmental impact of building and construction. By the end of this course, you will be able to Discuss the importance of and requirements for moisture protection substrates State the purpose of testing roof board insulation Classify temporary storm shelters and emergency shelters per the 7th edition revisions Explain why interlocking masonry walls may not be permitted in certain regions List the structural requirements necessary for the installation of louvers Identify the standard that the design and installation of trusses follow And list the efforts the 7th edition made to promote fire resistance in heavy timber construction"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B7C7161E-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the critical role of hurricane-resistant construction in Florida and identify key revisions in the 7th edition of the Florida Building Code aimed at improving structural safety and environmental impact.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0c6abbae-c9a6-4528-94c1-a0c7c6021d86"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the critical role of hurricane-resistant construction in Florida and identify key revisions in the 7th edition of the Florida Building Code aimed at improving structural safety and environmental impact.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0c6abbae-c9a6-4528-94c1-a0c7c6021d86"
+        }
+      ]
+    },
+    {
+      "title": "Important Terms",
+      "section_id": "22e7f080-1b06-45c5-90f8-97f8cce2eb85",
+      "learning_objects": [
+        {
+          "title": "Hurricane Categories",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Before we get started, it's important to know the different hurricane categories and how they come into play. Back in the 70s, an engineer by the name of Herbert Saffer realized that Western Hemisphere tropical cyclones would benefit from a rating scale similar to the Richter Magnitude Scale for earthquakes. This scale would provide a simpler way to describe the wind effects of an impending hurricane. Saffer presented the scale to meteorologist Robert Simpson, director of the U.S. National Hurricane Center at the time, who included the effects of storm surge and flooding. The Saffer-Simpson scale was introduced in 1973 and implemented as of 1974. The Saffer-Simpson Hurricane Wind Scale is a 1 to 5 rating based on a hurricane's sustained wind speed. This scale estimates potential property damage. The Saffer-Simpson Hurricane Wind Scale is a 1 to 5 rating based on wind speed of 74 mph and greater. If wind speeds are between 39 and 73 mph, this is considered a tropical storm. A Category 1 hurricane will have sustained winds of 74 to 95 mph. These very dangerous winds will produce some damage. Well-constructed frame homes could have damage to roof, shingles, vinyl siding, and gutters. A Category 2 hurricane will have sustained winds of 96 to 110 mph. These extremely dangerous winds will cause extensive damage. Mobile homes and poorly constructed piers will sustain damage. Well-constructed frame homes could sustain major roof and siding damage. A Category 3 hurricane will have sustained winds of 111 to 129 mph. This scale is a 1 to 5 rating based on a hurricane's sustained winds of 96 to 95 mph. A Category 2 hurricane will have sustained winds of 96 to 110 mph. Devastating damage will occur. Well-built frame homes may incur major damage or removal of roof decking and gable ends. This would cause destruction to coastal homes if debris is transported via storm surge. A Category 4 hurricane will have sustained winds of 130 to 156 mph. Catastrophic damage will occur. Well-built frame homes can sustain severe damage with loss of most of the wind power. Well-built frame homes can sustain severe damage with loss of most of the wind power. roof structure and or some exterior walls. This would cause damages to windows and doors with the potential of such elements to detach. It will also cause flooding damage to lower floors of structures near coastal areas. A Category 5 hurricane will have sustained winds of 157 miles per hour or more. This catastrophic storm is the most destructive and will result in a high percentage of framed homes being destroyed with a total roof failure and wall collapse."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B80AA442-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the Saffir-Simpson Hurricane Wind Scale, including its history, categories, and potential damage associated with each hurricane category.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "9f69e995-670d-40f3-aa85-f3f2bba5a291"
+          }
+        },
+        {
+          "title": "Construction Types",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In the design and construction of buildings, there are essentially five building types. These building types are assigned based on the material that is used to construct the building. The higher the type number, the less fire-resistant the material is. Type 1 construction is the type of construction in which the building elements consist of concrete and metal, and therefore the most fire-retardant. Type 2 is construction that uses exposed metal. Type 3 construction allows the use of fire-retardant treated wood framing as long as it complies with Section 2303.2. Type 4 construction is a mixed system of concrete and wood. And lastly, Type 5 construction allows for all types of structural elements permitted by the Code, so that could be a wood frame construction with dimensional lumber, for example. Generally speaking, most commercial buildings in Florida are Type 1. Cast-in-place concrete with metal rebar. These structures are highly resistant to hurricane forces and a good solution to building tall skyscrapers. Thanks for watching!!"
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B82AA882-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and differentiate between the five building types used in construction, based on their materials and fire resistance properties.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "80110bb0-48dc-4d64-9c95-849c7dda6f67"
+          }
+        },
+        {
+          "title": "Divisions of Labor",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "As a building professional, it is important to be knowledgeable of the division of labor within building, design, and construction to not only efficiently divide the work, but also prevent one from being liable to any lawsuits. Specific chapters within the Florida Building Code present standards that should be the responsibility of the architect, as the architect is required to specify certain substrates and insulation that meet wind and external loads. While a structural engineer may be responsible for recommending products that meet such requirements, it is ultimately the architect that will need to submit permit drawings with this information. However, there are sections of the Code that present standards specifically for the structural engineer, such as structural connections that meet hurricane compliance. This course will touch on revisions that are critical for each of these disciplines."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B84C92C6-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the division of responsibilities among building professionals and identify key code sections relevant to architects and structural engineers in the Florida Building Code.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "9d0d8f03-a3ff-4384-a382-11dbe945d84e"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the Saffir-Simpson Hurricane Wind Scale, including its history, categories, and potential damage associated with each hurricane category.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "9f69e995-670d-40f3-aa85-f3f2bba5a291"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and differentiate between the five building types used in construction, based on their materials and fire resistance properties.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "80110bb0-48dc-4d64-9c95-849c7dda6f67"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the division of responsibilities among building professionals and identify key code sections relevant to architects and structural engineers in the Florida Building Code.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "9d0d8f03-a3ff-4384-a382-11dbe945d84e"
+        }
+      ]
+    },
+    {
+      "title": "Roofing Requirements",
+      "section_id": "2e866068-fdd6-4478-9dd4-bd7406328566",
+      "learning_objects": [
+        {
+          "title": "Metal Roof Testing (1504.3.3)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The 7th edition revisions of metal roof testing include new requirements and much of the requirements are based on testing standards. This section will give a brief overview of the standard you must conform to as this gives better perspective and understanding of the various new requirements. Metal roofing on a structure must meet the American Society for Testing and Materials Standard D-3161. ASTM D-3161 is a testing standard that evaluates the wind pressure of roof material. After materials are tested, they are given a wind class rating of D for being able to sustain winds of at least 90 mph or a wind class rating of F for being able to sustain winds of at least 110 mph. As per the revision, metal roof shingles must not only meet ASTM. D-3161 standards, but must also bear a label stating as such and include the approved wind class rating."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B89566A4-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the new requirements for metal roof testing in the 7th edition, including ASTM D-3161 standards and wind class ratings, and the importance of proper labeling for metal roof shingles.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "0d13687a-fbbb-4e42-85e9-bd2197f1d568"
+          }
+        },
+        {
+          "title": "Solar Panel Requirements (1505.8; 1505.9, 1510.7)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Hurricane damages have the potential to cause electrical damages, which in turn can create fire hazards. So although it may seem odd that fire rating is being discussed in relation to hurricanes, it is necessary. Solar panels are susceptible to this sort of damage, and the Code prescribes fire classifications for fire-rated roof substrates that are attached to solar panels based on construction type. Fire classifications have a fire resistance rating system. Classes A, B, and C, and these ratings are assigned to substrates based on an ability to withstand the exposure to fire. Class A fire-rated substrates are the most effective in fire resistance. These products have gone through the most extreme fire test exposure and can be used in all types of construction. Class B provides moderate resistance and, when compared to Class A, for example, it means that when fire tested, the fire resistance is lower. So, when fire tested, the fire resistance is lower. flames spread farther and faster, therefore making that material not as resistant as material classified with an A. Class C fire-rated substrates provide only the bare minimum fire classifications, and while it can be effective against light fire exposure, materials classified as such will not resist the spread of flames as well as those classified as A or B. The 7th edition revision includes structural requirements for the installation of solar photovoltaic panels based on the American Society of Civil Engineers standard. ASCE 7 is a structural design standard that covers structural detailing of elements within a roof system. It is a broad based standard that covers construction in every type of region. It includes structural load requirements for materials that experience rain, snow, hail, and rain. The 7th edition revision includes structural requirements for the installation of solar photovoltaic panels based on the 7th edition revision. The 7th edition revision includes structural requirements for the installation of solar photovoltaic panels based on the process of welding. It includes the simple and complex evaluation of the 7th edition revision. The answer is yes."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B8B6272C-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand fire classifications for roof substrates with solar panels and recognize the structural requirements for solar photovoltaic panel installation based on ASCE 7 standards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "543a47fa-733a-43a5-8c28-fd18beb49a78"
+          }
+        },
+        {
+          "title": "Underlayment (1507.1.1)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The Florida Building Code defines underlayment as one or more layers of felt, sheathing paper, non-bituminous saturated felt, or other approved material over which a steep slope roof covering is applied. As the design professional, you have a few options to create a sealed roof deck in areas that are not considered a high-velocity hurricane zone, but it depends on what the roofing material is composed of. If you're working with wood shakes or shingles, you can choose to use two layers of ASTM D-226 Type II felt underlayment, two layers of ASTM D-4869 Type III or IV felt underlayment, or two layers of a synthetic underlayment. The other option for creating a sealed roof deck for wood shakes and shingles is that the underlayment include a 4-inch wide strip of self-adhering polymer-modified polyurethane. The other option for creating a sealed roof deck for wood shakes and shingles is that the underlayment include a 4-inch wide strip of self-adhering polymer-modified polyurethane. You can choose either of the options summarized here, or you can go with a self-adhering polymer-modified bitumen underlayment that meets the standards of ASTM 1970, which provides requirements for maximum loads of an underlayment substrate. However, if you're designing for a concrete or clay roof, you will have to consult the most recent edition of the FRSA-TRI Florida High Wind Concrete and Clay Roof Tile Installation Manual. If you're designing for a concrete or clay roof, you will have to consult the most recent edition of the FRSA-TRI Florida High Wind Concrete and Clay Roof Tile Installation Manual."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B8D818AA-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the Florida Building Code's definition of underlayment and identify approved options for creating a sealed roof deck for different roofing materials in non-high-velocity hurricane zones.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b93244bb-db64-4c56-becf-209e2f8e2150"
+          }
+        },
+        {
+          "title": "Existing Roof, Reinstallation of Salvaged Material (1511.5)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Being able to reuse materials in construction, when you can, prevents waste getting into our water sources and unnecessary toxins being released into our environment. Leadership in Energy and Environmental Design, LEED, is a certification system where buildings get credits for sustainable solutions in areas such as energy offsets, sustainable site planning, utilization of sustainable materials, and daylighting to limit electrical lighting. Using salvage materials would award LEED points in the area of sustainable material. The structural codes have taken cues from this rating system so Florida can continue to promote sustainability in construction. The code permits using salvage slate, clay, or concrete tiles. However, they must meet the standard of ASTM D4869, which is a standard that a roofing material must meet for not puckering or damage. Roofing material that puckers and deforms will lose its structural integrity and has the potential to fly off a roof and become a projectile in the event of a hurricane."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B956BFB6-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the code requirements for using salvaged roofing materials and their relationship to sustainability in construction, including LEED certification and ASTM standards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b6bff92c-9111-4e1e-b045-f5bf8cda4c19"
+          }
+        },
+        {
+          "title": "Roof Drainage (1514.4)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "As storm surges are an outcome of hurricanes, the Code has made specific requirements for roof drainage. Roof drainage systems cannot be reduced for existing buildings unless a new drainage system is designed by a registered design professional. If a new drainage is designed for an existing building, the drainage components must comply with ASCE 7. ASCE 7 is a structural provision for components on a roof regarding forces from snow, hail, rain, and hurricanes. Rain loads are a structural stress on a roof, and having a good drainage system in the event of a hurricane is beneficial. This will create structural integrity when a roof is faced with the vertical and horizontal forces of rain and hurricanes."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "B979706A-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of roof drainage systems in hurricane-prone areas and the Code requirements for designing new drainage systems for existing buildings, including compliance with ASCE 7 standards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "b97cf20f-5cf7-4e5a-a4f2-86113778f941"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the new requirements for metal roof testing in the 7th edition, including ASTM D-3161 standards and wind class ratings, and the importance of proper labeling for metal roof shingles.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "0d13687a-fbbb-4e42-85e9-bd2197f1d568"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand fire classifications for roof substrates with solar panels and recognize the structural requirements for solar photovoltaic panel installation based on ASCE 7 standards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "543a47fa-733a-43a5-8c28-fd18beb49a78"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the Florida Building Code's definition of underlayment and identify approved options for creating a sealed roof deck for different roofing materials in non-high-velocity hurricane zones.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b93244bb-db64-4c56-becf-209e2f8e2150"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the code requirements for using salvaged roofing materials and their relationship to sustainability in construction, including LEED certification and ASTM standards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b6bff92c-9111-4e1e-b045-f5bf8cda4c19"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of roof drainage systems in hurricane-prone areas and the Code requirements for designing new drainage systems for existing buildings, including compliance with ASCE 7 standards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "b97cf20f-5cf7-4e5a-a4f2-86113778f941"
+        }
+      ]
+    },
+    {
+      "title": "Designing in High-Velocity Hurricane Zones",
+      "section_id": "07db3dd5-6987-4948-958e-b2a9ef110b4a",
+      "learning_objects": [
+        {
+          "title": "Testing Roofing Systems to Meet High Velocity Requirements (1523.6.4)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The high-velocity hurricane zone, HVHZ section of the code, really gets at the heart of a high-category hurricane. The code revision in this section requires a building official to get the structural integrity testing information of roof substrates. The building official may request that a quality control field uplift test be carried out on a continuous roofing system in compliance with testing application standard TAS-124. One thing to note is that codes will progressively get stricter, and much of the revisions in the 2020 codes deals with this. Although this may seem like an aggravation to the stakeholders in a project, the requirement will benefit the owners and occupants. A higher degree of safety and structural integrity is an outcome of stricter requirements and testing procedures."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BA24D054-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the enhanced requirements for structural integrity testing in the high-velocity hurricane zone (HVHZ) section, including the building official's authority to request quality control field uplift tests for continuous roofing systems.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "fb12dd89-2bd4-48f5-930d-705832881913"
+          }
+        },
+        {
+          "title": "Standing Seam Roof Testing (1523.6.2.5.4.11)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "As water management from rain is important to address when considering hurricanes, the Code has provided requirements for waterproofing of metal roof panel systems. The Code makes it implicit that a roof with metal panel systems cannot have a pitch less than 1 to 12. It is important to note that a completely flat roof will cause ponding, which is water remaining on a roof. This will cause additional load and it is critical that water is shed from a roof to prevent structural damage. The Code provides specific waterproofing based on Factory Mutual Research's Standard Water Leakage Test Criteria, FM 4471. The Code makes this apparent as metal panel roof systems, such as a standing seam roof, are continuous roof membranes. If leaking occurs, it will permeate and linger. It is important to note that a roof with metal panel systems cannot have a pitch less than 1 to 12. It is important to note that a roof with metal panel systems cannot have a pitch less than 1 to 12."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BA4534AC-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the Code requirements for waterproofing metal roof panel systems, including minimum pitch requirements and testing criteria, to prevent water damage and structural issues.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "9e4fbe76-d66e-4ca9-9ff3-6b4187db2fc9"
+          }
+        },
+        {
+          "title": "Roof Board Insulation Testing (1523.6.5.2.8)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Traditional wood trusses or dimensional lumber roof framing commonly use fiberglass for traditional insulation beneath the roof. Roof boards are composed of rigid foam. Because they are rigid foam pieces, they are installed on flat roofs with a slab or against foundation walls. It is important to note that roof board insulation is used on green roofs. Green roofs typically need to be on a flat surface such as a concrete slab. It is composed of the following layers, soil, drainage mat, root barrier, and roof board insulation. Green roofs can absorb excess rain like a sponge and release the moisture through evapotranspiration. Green roofs are especially good to use in Florida as much of the state experiences 60 inches of rain. The code revisions have required that roof board insulation must meet the criteria of Section 8 of TAS 101. Following this criterion ensures quality control that all systems are installed and specified correctly."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BA6585FE-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the composition and benefits of green roofs, including their insulation requirements and suitability for Florida's climate, as well as the code revisions related to roof board insulation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "894eb3f8-3948-4c8f-9519-a857305a7065"
+          }
+        },
+        {
+          "title": "",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The permit application now requires you to include information on connections pertaining to roof substrates based on the four different climate zones in Florida as well as different sloped roofs. This information is required upon submitting permit drawings to the building department and it is the responsibility of a structural engineer. The application now requires additional information on fastener spacing for anchor base and design wind pressures as well."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BAE7D6B2-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the new permit application requirements for roof connections, including climate zone considerations, slope variations, fastener spacing, and design wind pressures, as specified by structural engineers.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d8ea6a84-5631-4b59-9b98-c8e1f6dbaa53"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the enhanced requirements for structural integrity testing in the high-velocity hurricane zone (HVHZ) section, including the building official's authority to request quality control field uplift tests for continuous roofing systems.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "fb12dd89-2bd4-48f5-930d-705832881913"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the Code requirements for waterproofing metal roof panel systems, including minimum pitch requirements and testing criteria, to prevent water damage and structural issues.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "9e4fbe76-d66e-4ca9-9ff3-6b4187db2fc9"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the composition and benefits of green roofs, including their insulation requirements and suitability for Florida's climate, as well as the code revisions related to roof board insulation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "894eb3f8-3948-4c8f-9519-a857305a7065"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the new permit application requirements for roof connections, including climate zone considerations, slope variations, fastener spacing, and design wind pressures, as specified by structural engineers.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d8ea6a84-5631-4b59-9b98-c8e1f6dbaa53"
+        }
+      ]
+    },
+    {
+      "title": "Structural Design",
+      "section_id": "63b3cc41-13ca-482a-9667-4bf00fab9886",
+      "learning_objects": [
+        {
+          "title": "Storm Shelter Requirements (1604.5)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Table 1604.5 of the Florida Building Code provides a categorization of risk depending on the nature of the building's or structure's occupancy. The buildings or structures that are least likely to house a substantial number of human lives will have the lowest risk, such as agricultural facilities and storage facilities. But the buildings and other structures designated as essential facilities, like hospitals and fire stations, have a higher risk factor. Naturally, designated emergency stand-alone storm shelters would fall into Risk Category 4 as an essential facility. However, the 7th edition has added that buildings or structures that would typically fall under any of the other categories, but have had a storm shelter constructed within it in accordance with the Standard for the Design and Construction of Storm Shelters, ICC 500, will maintain its Risk Category designation unless the storm shelter is designated as essential. If the storm shelter is designated as an emergency shelter, then the building or structure will be classified with a Risk Category of 4."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BB82CADC-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and differentiate between the risk categories for buildings and structures based on their occupancy and purpose, including the classification of storm shelters.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "9152805b-1a07-4a90-90d1-f6b156006830"
+          }
+        },
+        {
+          "title": "",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "When we think about structural design, we need to consider the environmental loads depending on where one resides. In the northern hemisphere, there's a great deal of emphasis on snow loads. Snow loads are unique in that it lingers on a roof surface until the temperature raises and it melts. Rain loads are uniformly seen across all climates. Within the southern hemisphere, hurricane loads are a major issue. Live loads include humans or equipment that are inside a building and create structural stress and forces. Live loads are considered an additional stress of building experiences while there is a hurricane. Essentially, a building needs to resist forces from within as well as externally. The 7th edition code revisions have updated the live load requirements for several different occupancy types. In most cases, live load reductions are not permissible. In others, live load reduction is only permitted in accordance with section 1607.10.1.2 or item 1 or 2 of section 1607.10.2. You'll want to consult table 1607.1 to confirm. This will have an impact on how a structural engineer sizes structural components and depending on the requirement, it may increase a construction. Regications and the pagination of such equipment may be necessary. If the space in the project is too dark, change that layer to be 4x4 and add double guy torian kalian can style it. When the foundation is built, existing\u03bd\u03b7 You may check on a natural skyline'd a picture of four spots may be used as a reference from one proposal. You can use it to determine which plan don't be\u9059 knifeed. Set up a torian skyline. requiring the implementation of sustainability guidelines to include shading and landscaping on building roofs. The initiative is called Miami 21. One requirement is the need to reduce the building's overall heat island effect, especially on roofs. Heat island effect is the microchromatic temperature of an area that is affected by the materials and or vegetation. Buildings with dark materials, no shading structures, and very little vegetation will generate more heat and force building occupants to use more air conditioning. Conversely, light-colored buildings with vegetation and shading structures reduce the heat island effect and therefore lessen the need for more air conditioning. Since Miami 21 requires buildings to reduce the heat loads of roofs through vegetation and shading structures, it creates opportunity for roof structures to be a habitable space for occupants. As a result, there will be additional live loads and the code has provided empirical requirements for this."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BBACFF96-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the impact of environmental loads, live load requirements, and sustainability guidelines on structural design and building codes, particularly in the context of the Florida Building Code's 7th edition revisions.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "fcfc116b-78dd-4183-8e84-ab8a0ad22f11"
+          }
+        },
+        {
+          "title": "Roof Live loads - Solar Photovoltaic Panel Systems (1607.12.5.1, 1607.12.5.2.1)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The 7th edition code has included a provision on structural requirements with roofs having solar panels. This is of significant note as more buildings are incorporating renewable systems like solar panels as the cost has been steadily decreasing and some local jurisdictions are requiring the use of solar panels. The code contains language that makes it explicit that roof live load conditions must be considered, which would be designated space where technicians would be required to maintain the solar panels. The same application applies to detached solar panel structures. There needs to be structural conditions to live loads that support maintenance."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BBCE7EFA-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the new structural requirements for roofs with solar panels in the 7th edition code, including considerations for live loads and maintenance access.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "59d96c63-e72a-47d4-ab06-45d0d776e4ec"
+          }
+        },
+        {
+          "title": "Firewalls (1607.14.2)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Firewalls are critical components in buildings as it ensures that if a fire is ignited, the fire can be contained within its boundaries and prevent the spread of the fire to neighboring spaces. Section 706.2 of the Florida Building Code summarizes the expectations of a firewall as a wall that is designed and constructed to not collapse during a fire while structures on either side of it have the potential to do so. Because this section requires that the design and construction of firewalls be in accordance with NFPA 221, the 7th edition has added Section 1607.14.2, which refers back to Section 706.2 and details the NFPA 221 requirement that a firewall and its supports must withstand a minimum horizontal stress load of 5 pounds per square foot."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BBEF5904-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the design requirements for firewalls, including their collapse resistance and minimum horizontal stress load capacity, as specified in the Florida Building Code and NFPA 221.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "f3f2441a-7e4a-4375-8495-c9c1ba63a5bc"
+          }
+        },
+        {
+          "title": "Garage Door Wind Calculations (1609.6)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The code revisions have included hurricane force loading requirements for garage doors for the first time. This is significant because garage doors are an element that have not been discussed in the codes previously. The revised energy codes have also taken into account garage doors and provided sustainability requirements. This topic is important for the architect and structural engineer to keep in mind and refer to Table 1609.6 in the code for acceptable wind loads based on roof angle."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BC2DABD2-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the new hurricane force loading and sustainability requirements for garage doors in the revised building and energy codes, including the use of Table 1609.6 for acceptable wind loads based on roof angle.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "82dcb8ec-4a7b-48da-9077-5a5eebeb90ec"
+          }
+        },
+        {
+          "title": "Louvers (1626.5)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "New to the 2020 Florida Building Code, 7th edition is the inclusion of standards for louvers. Louvers are effective in lowering radiant heat gains in a building with shading. However, they can pose as dangerous projectiles in the event of a hurricane as well as be susceptible to damage itself. Because of this, louvers must be protected by an impact-resistant cover or shutter. This ensures that the louvers do not get damaged during a hurricane, and it prevents the louvers from becoming a projectile in the event that a hurricane becomes too strong. Since code agencies do not judge design work and are focused on code compliance, an architect and structural engineer should prioritize the design to protect the building and surrounding inhabitants in the event of a hurricane."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BC4E18CC-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the new standards for louvers in the 2020 Florida Building Code, including their benefits, potential risks during hurricanes, and required protective measures.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "1f1d2481-2fc9-4c01-af77-cf1625d5e521"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and differentiate between the risk categories for buildings and structures based on their occupancy and purpose, including the classification of storm shelters.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "9152805b-1a07-4a90-90d1-f6b156006830"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the impact of environmental loads, live load requirements, and sustainability guidelines on structural design and building codes, particularly in the context of the Florida Building Code's 7th edition revisions.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "fcfc116b-78dd-4183-8e84-ab8a0ad22f11"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the new structural requirements for roofs with solar panels in the 7th edition code, including considerations for live loads and maintenance access.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "59d96c63-e72a-47d4-ab06-45d0d776e4ec"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the design requirements for firewalls, including their collapse resistance and minimum horizontal stress load capacity, as specified in the Florida Building Code and NFPA 221.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "f3f2441a-7e4a-4375-8495-c9c1ba63a5bc"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the new hurricane force loading and sustainability requirements for garage doors in the revised building and energy codes, including the use of Table 1609.6 for acceptable wind loads based on roof angle.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "82dcb8ec-4a7b-48da-9077-5a5eebeb90ec"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the new standards for louvers in the 2020 Florida Building Code, including their benefits, potential risks during hurricanes, and required protective measures.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "1f1d2481-2fc9-4c01-af77-cf1625d5e521"
+        }
+      ]
+    },
+    {
+      "title": "Masonry",
+      "section_id": "1b7bd6f5-3dab-47d7-9077-521a0e057511",
+      "learning_objects": [
+        {
+          "title": "Masonry Unit Requirements (2103.1; 2103.3, 2103.4)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Masonry units that are integrated with steel rebar are commonly used as wall systems in Florida for its structural integrity in dealing with high lateral forces of hurricanes. Rebar construction, which is integrated with Concrete Masonry Unit, CMU Walls, is required to be a minimum of No. 9 gauge and be in accordance with the Masonry Society's Code TMS-602 specification for masonry structures. CMU Walls are used in non-hurricane zones for its affordability compared to wood-frame construction. However, the major difference between CMU Walls in Florida versus CMU Walls up north is that they are only working in compression as snow loads create vertical forces. The rebar used in CMU Walls in Florida deflects the horizontal forces from hurricanes. As hurricanes do not originate up north, there is no vertical force. There isn't a need to construct walls in consideration of this. Although a hurricane may move from a southern hemisphere to a northern one, the forces diminish and it becomes a superstorm carrying heavy rainfall rather than intense winds. Another reason CMU Walls are used is to block the threat of termites, which are common in Florida. Although most residential homes may have wood truss roofs, the use of CMU Walls discourages this species from traveling and infesting these areas. The 7th edition code revision has also provided structural provisions for decorative masonry units. By also requiring these elements to meet the standards of TMS-602, this ensures that such decorative elements do not become a projectile in the event of a hurricane. With the 7th edition code, even grout must meet the TMS-602 standard. Although you may have seen instances where masonry units are attached with a glue-like material, this application is only limited to masonry installations."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BC9CB1F8-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the structural requirements and benefits of Concrete Masonry Unit (CMU) walls in Florida, including rebar specifications, hurricane resistance, termite protection, and compliance with TMS-602 standards.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "4d728fb4-24f0-4c88-ad57-1faf901412de"
+          }
+        },
+        {
+          "title": "Quality Assurance (2105.1)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "As masonry walls provide the necessary structural component to resist lateral forces from hurricanes, CMU construction needs to be tested and inspected from an independent agency. The need for an agency to be independent is critical to avoid any sort of influence from the stakeholders who may possibly compromise the testing. This may be a headache for a contractor to administer and an architect to make sure it's listed in the working drawings. However, it does provide assurance that the wall assembly won't fail in the event of a hurricane. When a building falls or gets damaged, this has the potential to expose you to lawsuits. Being able to determine a project's acceptability through testing, field inspections, and quality control can help avoid a litigious situation. This testing of building material structure integrity is nothing new. For example, concrete foundations are tested for their strength. In the case of concrete foundations, the structural integrity is determined by the slump test. In a slump test, a core of wet concrete is collected and placed in a cylinder. The cylinder holding the concrete is then removed, and the structural integrity is determined by how it slumps. A steep slump indicates poor material composition and less structural integrity, while a minimum slump is the opposite."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BCBD244C-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the importance of independent testing and inspection for masonry walls in hurricane-prone areas, and recognize how quality control measures can mitigate structural failures and potential legal issues.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "131994e2-a624-4d1e-963a-1f198d0951aa"
+          }
+        },
+        {
+          "title": "Dry Stack Masonry Requirements (2109.1)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The code revisions have provided structural requirements for dry stack masonry. The revision has made it explicit that this sort of construction is not permitted in RISC Category 4 construction. Dry stack masonry are interlocking masonry units that join without mortar or adhesive, but rather connect through interlocking components. This sort of construction would not be used on a wall system as this could not provide both the efficient compressive and lateral strength a CMU wall integrated with rebar would provide. This sort of construction can be used as a decorative wall element in landscaping, though. It can be a wall system that attaches to a retaining wall, for example. Dry stack masonry must be able to support all superimposed loads without exceeding the following allowable stresses. 45 psi for compression, 35 psi for compression, 35 psi for compression, 40 psi for flexural tension, 18 psi for horizontal and vertical span, and 10 psi for shear."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BCDDB36A-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the structural requirements and limitations of dry stack masonry, including its prohibited use in Risk Category 4 construction and specific allowable stress limits for various loads.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "e7602ef3-35b4-412c-abb7-7158198d8792"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the structural requirements and benefits of Concrete Masonry Unit (CMU) walls in Florida, including rebar specifications, hurricane resistance, termite protection, and compliance with TMS-602 standards.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "4d728fb4-24f0-4c88-ad57-1faf901412de"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the importance of independent testing and inspection for masonry walls in hurricane-prone areas, and recognize how quality control measures can mitigate structural failures and potential legal issues.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "131994e2-a624-4d1e-963a-1f198d0951aa"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the structural requirements and limitations of dry stack masonry, including its prohibited use in Risk Category 4 construction and specific allowable stress limits for various loads.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "e7602ef3-35b4-412c-abb7-7158198d8792"
+        }
+      ]
+    },
+    {
+      "title": "Steel",
+      "section_id": "b59b19d7-0517-4e8d-881c-c834493802fe",
+      "learning_objects": [
+        {
+          "title": "Cold-Formed Steel Light-Frame Construction (Section 2211)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The 7th edition has revised Section 2211, Coal-Formed Steel Light Frame Construction, by requiring that the design and installation of floor and roof systems, structural walls, shear walls, strap-braced walls, and diaphragms to resist in-plane lateral loads and trusses shall be in accordance with the American Iron and Steel Institute's framing standard S-240, which provides requirements for steel structures that experience lateral forces. Although cast-in-place concrete is primarily used in Florida for large and commercial buildings because it efficiently resists hurricane forces, steel does get used for applications that require flexible structures. Buildings that have curving forms are designed using steel members that have been fabricated prior to assembly, while cast-in-place concrete tends... In this version of the Code, Section 2211.1.2, Prescriptive Framing has explicitly specified the type of dwellings and townhouses as detached one- and two-family that shall be permitted to be constructed in accordance with AISI S-230, even though that is the name of the standard prescriptive method for one- and two-family dwellings. This avoids any confusion. that any other type of dwelling or townhouse could meet this standard. Peppered throughout the 7th edition, you'll see more explicit requirements regarding construction drawings in an effort to maintain accuracy. In the Truss Design section, it is now documented that these drawings shall be provided with the shipment of trusses delivered to the job site."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BD2688EC-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the key changes in Section 2211 of the 7th edition Florida Building Code, including new requirements for steel frame construction, prescriptive framing specifications, and truss design documentation.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "e21d04ca-abed-4089-894f-53b1cb201f89"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the key changes in Section 2211 of the 7th edition Florida Building Code, including new requirements for steel frame construction, prescriptive framing specifications, and truss design documentation.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "e21d04ca-abed-4089-894f-53b1cb201f89"
+        }
+      ]
+    },
+    {
+      "title": "Wood",
+      "section_id": "f4cc2ec6-2a30-46b9-b909-fc5643ea9c56",
+      "learning_objects": [
+        {
+          "title": "Hardboard Siding and Preservative-Treated Wood (2303.1.7, 2303.1.9)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The 7th edition code has provided requirements for hardboard siding which must conform with the American National Standards Institute standard ANSI A-135.6. The standard covers requirements and methods of testing for the dimensions, straightness, squareness, physical properties, and surface characteristics of engineered wood siding. Please note that this standard now refers to hardboard siding as engineered wood siding and therefore it must meet structural stress loads. An example of hardboard siding would be shakes. Wood siding is very prevalent in northern states as it is typically attached to a plywood substrate connected to a stick frame construction. This type of construction has good insulation value and provides the necessary vertical loads from snow, and rain. In the case of Florida, however, wood siding has the potential of being a projectile in the event of a hurricane. The code has provided structural requirements in section 2303.1.7 in the event this material is used in a hurricane zone. Since primary wall construction in Florida is CMU walls, the use of a wood siding isn't practical as attaching wood to concrete is problematic. Wood and concrete. Concrete cannot connect as the moisture generated from concrete will rot a wood connection. However, one can use a pressure treated substrate between wood siding and a concrete wall. Preservative treated wood is a chemically enhanced wood that is water resistant. The most common type of preservative treated wood is pressure treated wood. Pressure treated wood, unfortunately, is coated in a flammable chemical that can cause a fire hazard. So please be cognizant of this. When specifying this material, because of this, the code relies on the guidance of the American Wood Protection Association standard, AWPA U-1, which lists the user specifications for treated wood. While constructing a stick frame home or building is known to be problematic in Florida, stick frame construction may be implemented in smaller scales, such as an elevated outdoor deck. An elevated outdoor deck will have a concrete foundation. A concrete foundation and the connection to that foundation may be a pressure treated wood. The actual deck itself may also be pressure treated to protect against water damage in the event of rain or the presence of moisture. Another common use of pressure treated wood would be a connection of a wood truss or wood rafter roof with a CMU wall. Typical homes and townhouses in Florida have a wood frame roof. The benefit of this construction is that it allows moisture and stale air to dispel through the soffit ridge vents. It is easier to construct and pitched roofs gain less heat load than flat roofs. Also, wood roof construction provides ample space to install thicker forms of insulation and insulation on the roof is critical in Florida to prevent unwanted heat gain into a building. While the Florida Building Code has approved pressure treated and fire retardant treated wood for some time in Section 2303, Section 2303 and Section 2304 are not in effect. Section 2303 and Section 2304 are not in effect. Section 2303 and Section 2304 are not in effect. 303.2.2 of the 7th edition states that the chemicals used to treat wood during manufacture other than pressure treated or fire retardant treated must provide permanent protection to all surfaces of a wood product. The code goes on to state the use of paints, coating, stains, or other surface treatments is not an approved method of protection when it comes to this section. This requirement is in place so that building and construction professionals select a treated wood that is of good quality and one that would not harm other finishes. This requirement is a form of quality control that ultimately benefits a client or owner knowing that whatever treated wood was specified won't cause damages to other building elements. The 7th edition code also states that pressure treated wood must be labeled. This is again a requirement that the construction professionals select a wood that is of good quality and another form of quality control to ensure that standard wood doesn't get mixed with pressure treated wood. This will prevent accidentally joining standard pieces of wood with a concrete surface during construction which will result in complications."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BD76566A-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify and explain the requirements and applications of engineered wood siding, pressure-treated wood, and other treated wood products in Florida building construction, including their benefits, limitations, and code compliance considerations.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "67364034-3215-48c8-8693-899177a1c92d"
+          }
+        },
+        {
+          "title": "Maximum Allowable Spans for Sheathing (Table 2304.8)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "In the 7th edition of Florida Building Code, you will find a new set of guidelines for structural connections with plywood sheathing and wood structures. The code revisions have given requirements for types of wood, which includes dry and surface unseasoned. These sorts of requirements are the responsibility of the structural engineer to specify the right connections. Correct connections, whether they are screws, bolts, or nails, ensures that a wood connection doesn't break and cause failure. Although an architect normally isn't responsible for connection details, the architect must ensure that the structural engineer they are working with has taken into account the code revisions to avoid submitting an incorrect permit drawing. This can cause delays in a project and may possibly add more money and time into a project. This is ultimately an inconvenience to an owner. The Code Revisions also give prescriptive requirements for maximum allowable loads for structural panel roof sheathing. Along with nailing requirements, there are prescriptive requirements for fastening laminated decking. Fastening details would occur where a roof rafter connects to a sill plate. Another example would be a floor joist attaching coplanar to a beam or another floor joist. The Code Revisions also give prescriptive requirements for structural panel roof sheathing. also provides specific requirements for fasteners attaching to pressure treated wood. Since the chemical properties of pressure treated wood can cause corrosion to a standard steel or aluminum fastener, the code has given specific prescriptive requirements for that type of fastener to be either silicon, bronze, or copper."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BDA18CA4-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the key changes in the 7th edition of Florida Building Code regarding structural connections, wood types, and fastening requirements for wood structures and pressure-treated wood.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "42d923d8-cd0b-4448-a328-081ecc29cb2c"
+          }
+        },
+        {
+          "title": "Heavy Timber Construction (2304.11)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "Heavy timber is considered a type 3 construction per the Florida Building Code as it includes the use of fire retardant treated wood framing. The 7th edition of the code goes into more detail on the various other standards that are required to be met when constructing heavy timber. This sort of construction has been utilized in the U.S. for over a century and was most commonly used in the construction of agricultural storage. Today, the American Wood Council states that this type of construction can be used in the design of schools, churches, supermarkets, and other building occupancies. With the inclusion of more refined standards of heavy timber construction in this edition of the code, the Florida Building Commission is looking at this type of construction as a practical, sustainable solution since wood is a renewable source that, after harvesting, can be regrown. As we consider sustainability in the built environment, how we utilize our material resources is critical. Concrete's aggregates are technically finite materials, and utilizing a renewable material such as wood is a sustainable solution. Wood also has great thermal properties, which is effective with limiting heat transfer. The material can also have a sense of elegance and create a soft and inviting environment when design elements are used. These elements include exposed wood structures. Believe it or not, wood skyscrapers are becoming popular and emerging as an innovative form of construction. Wood skyscrapers still have concrete as the base and concrete shafts for egress stairs, elevator shafts, and mechanical shafts. However, innovations in heavy timber construction have allowed for floor decks to attain as much as a two-hour rating. In fact, In fact, of wood skyscrapers believe that when floor decks combust, they combust in a controlled manner, making it more manageable to extinguish. The most striking quality of wood skyscrapers is its ability to capture carbon in the air, which is an attractive feature in the push toward a carbon neutral future. Another important factor to also consider is that producing traditional materials like steel and concrete add up to 15 percent of CO2 global emissions, and by simply using wood can offset these numbers. There is scientific evidence that building this way will have lasting impacts for years to come. Wood skyscrapers are being constructed in northern climates as we speak, and although they haven't been built in Florida, the possibility of it emerging is on the horizon. Although one may argue that it won't work, because wood skyscrapers are being constructed in northern climates, because of the high humidity, wood skyscrapers are typically built in cold, dry environments. However, a wood skyscraper can still be constructed as long as there is ample waterproof protection from the exterior. Wood skyscrapers in northern climates are already designed to resist moisture infiltration. Another argument against it would be the threat of termites. Usually, the first level is made of concrete, and that is good enough to protect a structure from termites. With these new guidelines on heavy timber construction, it has the potential to provide the structural requirements needed to construct a wood skyscraper, which may change the Florida architecture landscape going forward. Now, let's get into some specifics regarding the code revisions. By placing limitations on the size of wood members and the thickness of floors and roofs, the code is making strides in promoting fire resistance. Refer to Table 2304.11 in your codebook for minimum dimensions. Another fire-resistant characteristic of heavy timber construction is the avoidance of concealed spaces under floors and roofs. This is explicitly stated in Section 2304.11.3 and 2304.11.4. The code goes on to add other types of decking shall be permitted to be used in the construction of the construction site. In the model, the material is designed to be used where equivalent fire-resistant and structural properties are being provided. The code has added that steel bolts, lags, screws, or approved hardware of sufficient strength be used to anchor roof decks to walls. In this addition of the code, cross-laminated timber floors are specifically identified. Cross-laminated timber is defined as a prefabricated engineered wood product consisting of, not less than, three layers of concrete and a single layer of steel. As three layers of solid sawn lumber or structural composite lumber where the adjacent layers are cross-oriented and bonded with structural adhesive to form a solid wood element. The code revisions have made explicit requirements that floor and roof plank construction has to be continuous and mechanically fastened at breaks. Approved fastenings ensure that buckling won't occur and contributes Another fire resistance continuous throughout all stories and connected in an approved manner are columns. The seventh edition now explicitly states that its girders and beams shall be closely fitted around columns at connections. The only time bolsters should be on top of columns is if the column can support roof loads. When heavy timber detailing is used connections shall be permitted to be by means of reinforced concrete or metal caps with brackets, shall be connected by properly designed steel or ironed caps with pentels and base plates, shall be connected by timber splice plates affixed to the columns by metal connectors housed within the contact faces, or shall be connected by another approved method. The code also makes it clear that within heavy timber construction, structural wood columns must be protected from weather elements. Moisture rots wood and can reduce the structural integrity. While the code has made it mandatory that posts and columns directly connected to the earth shall be of naturally durable or preservative treated wood, this is the first year that exceptions have been listed. If your design can maintain a dry environment by not exposing posts and columns to weather elements by making sure they are covered by a roof, eave, or overhang. Providing concrete piers or metal pedestals above the slab or deck and separated by an impervious barrier or positioning posts and columns eight inches above exposed earth. Then, preservative treated wood is not required."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BDC28FA8-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the key features, benefits, and code requirements of heavy timber construction, including its use in wood skyscrapers and the specific revisions in the 7th edition of the Florida Building Code regarding fire resistance, structural integrity, and weather protection.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "d21956d4-4102-4447-a7f1-569b2a3b6000"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify and explain the requirements and applications of engineered wood siding, pressure-treated wood, and other treated wood products in Florida building construction, including their benefits, limitations, and code compliance considerations.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "67364034-3215-48c8-8693-899177a1c92d"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the key changes in the 7th edition of Florida Building Code regarding structural connections, wood types, and fastening requirements for wood structures and pressure-treated wood.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "42d923d8-cd0b-4448-a328-081ecc29cb2c"
+        },
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the key features, benefits, and code requirements of heavy timber construction, including its use in wood skyscrapers and the specific revisions in the 7th edition of the Florida Building Code regarding fire resistance, structural integrity, and weather protection.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "d21956d4-4102-4447-a7f1-569b2a3b6000"
+        }
+      ]
+    },
+    {
+      "title": "Special Construction",
+      "section_id": "d03c7aa0-5d53-4041-a8fb-96801ae40104",
+      "learning_objects": [
+        {
+          "title": "Exterior Elevated Flooring Systems (Section 3115)",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "The 7th edition has included provisions for elevated pavers on a roof deck in Section 3115. This is a very significant change in that it provides structural requirements in the event that a green roof is installed. A green roof is a system of layered components that allow for vegetation to grow on a roof. It has a thickness which includes an insulation substrate, drainage substrate, root barriers, and a layer of soil and vegetation. With this condition in mind, there needs to be an access in an area with a green roof, whether it be for circulation or for maintenance. That access path must be elevated pavers that are coplanar with the green roof and shall comply with the Florida Building Code Accessibility Code. Along with the information that is necessary to accompany this, specific product information shall be provided, such as documentation describing the dimensions, specifications, and manufacturer's instructions for deck panels, pavers, pedestals, and fasteners. Manufacturer's installation instructions must include information on how to protect the roof during installation and procedures for removing pavers. These instructions must be on the job site and made available to inspection officials. Exterior elevated flooring systems shall have Florida product approval or local product approval. Testing of deck panels, pavers, and pedestals are required, especially when it comes to wind resistance. The Code states that the results should be analyzed by a registered design professional to withstand applicable wind loads. Either a landscape architect or architect may select the style of pavers for a green roof during the installation. the design phase but will need to coordinate with a structural engineer to ensure the connection of the pedestal to the roof deck meets the code requirements. The architect must detail the drainage substrate accurately and specify the correct substrate that meets the code requirements. The design professional is responsible for analyzing the substrate's equilibrium, general visibility, geometric compatibility, and both short- and long-term material properties as well as for checking roof structures for ponding."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BE1D84D0-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Understand the new provisions for elevated pavers on green roofs, including structural requirements, accessibility, product documentation, and design responsibilities outlined in Section 3115 of the 7th edition Florida Building Code.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "263b4101-c19e-46a1-bbd6-e9f963380986"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Understand the new provisions for elevated pavers on green roofs, including structural requirements, accessibility, product documentation, and design responsibilities outlined in Section 3115 of the 7th edition Florida Building Code.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "263b4101-c19e-46a1-bbd6-e9f963380986"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "section_id": "0864745d-7d18-4337-818f-c3ffa2e9a6c1",
+      "learning_objects": [
+        {
+          "title": "Summary and Implications",
+          "survey": null,
+          "authors": [],
+          "content": {
+            "type": "scenes",
+            "scenes": [],
+            "transcript": "As you can see, the changes to the Florida Building Code reflect the growing environmental trends and green movements happening in the construction industry. With the 7th edition's addition of solar energy systems to the special construction chapter of the Florida Building Code, the state hopes to compel builders to consider PV installation on new builds or, at the very least, leave it open for future installation. Solar-ready building requirements encourage building owners to consider this technology so they can generate their own electricity and reduce energy costs, provide electricity if and when the grid goes down, and reduce greenhouse gas emissions. The Code has really taken into account heavy timber requirements that, as this is becoming a valid solution to not only sequester carbon from air but prevent the increase in carbon that comes from the air, but prevent the increase in carbon that comes from the production of concrete and steel. By solidifying standards and requirements in the 7th edition, the Code has acknowledged that there is potential and possibility for increased use of this material and has provided the necessary guidelines in terms of spanning for correct loads and requirements for structural connections. The Code has included specific guidelines for elevated pedestals and solidified the need for roofboard testing, which are smart moves in really providing empirical structural requirements for green roofs. Native drought-tolerant plants can be used to divert stormwater, reduce energy costs, and contribute positively to the natural ecosystem. The Florida Building Code strives to address many of our concerns including the health, safety, and welfare of the public, as well as taking strides to protect our environment. We've reviewed in this edition of the Code will help to establish improved quality, safety, and energy conservation for years to come."
+          },
+          "citations": [],
+          "assessment": [],
+          "is_reusable": true,
+          "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+          "interactions": [],
+          "is_reference": false,
+          "visibility_rules": null,
+          "learning_object_id": "BE74CD9E-7EC1-11EC-A636-456D67F96AF6",
+          "learning_objective": {
+            "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+            "taxonomy_level": 1,
+            "objective_statement": "Identify key environmental and sustainable construction trends reflected in the 7th edition of the Florida Building Code, including solar energy systems, heavy timber use, and green roof requirements.",
+            "taxonomy_level_name": "Knowledge",
+            "learning_objective_id": "100b3983-aeee-45c8-aeed-0d7755b656cb"
+          }
+        }
+      ],
+      "visibility_rules": [],
+      "learning_objectives": [
+        {
+          "topic": "2020 Advanced Florida Building Code - Building, 7th Edition (Internet)",
+          "taxonomy_level": 1,
+          "objective_statement": "Identify key environmental and sustainable construction trends reflected in the 7th edition of the Florida Building Code, including solar energy systems, heavy timber use, and green roof requirements.",
+          "taxonomy_level_name": "Knowledge",
+          "learning_objective_id": "100b3983-aeee-45c8-aeed-0d7755b656cb"
+        }
+      ]
+    }
+  ],
+  "course_id": "12841092-EA26-11EB-825F-DF1067F96AF6",
+  "description": "Being in a subtropical region, Florida is vulnerable to the ravages of hurricanes. The 2020 Florida Building Code, 7th Edition, covers a wide range of topics from life safety, occupancy requirements and structural requirements of buildings to help mitigate damages due to the high wind hurricanes can bring. The most recent update of the code addresses the requirements for resisting hurricane forces and includes code revisions to roof requirements, wall construction, foundation construction and allowable strengths for materials. This online, interactive course will go over these items and show how it is relevant in designing for hurricane and wind loads.",
+  "revision_id": "B766A5E0-7EC1-11EC-A636-456D67F96AF6",
+  "revision_number": 0,
+  "target_duration": 0,
+  "revision_history": [],
+  "avg_path_duration": 0.0,
+  "max_path_duration": 0.0,
+  "min_path_duration": 0.0,
+  "total_media_duration": 3099.1780000000003
+}
