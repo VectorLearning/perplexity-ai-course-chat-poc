@@ -86,6 +86,11 @@ TEMPLATE = """
         </button>
     </div>
     
+    <!-- Hidden field for course title -->
+    {% if course_json %}
+    <input type="hidden" id="course_title" value="{{ course_json.title }}">
+    {% endif %}
+    
     <!-- Course Content rendered if a file is loaded -->
     <div id="course_content">
         {% if course_json %}
@@ -194,6 +199,10 @@ document.addEventListener('click', function(e) {
         var highlightContainer = container.querySelector('.highlight-container');
         var transcript = originalDiv.innerText;
         
+        // Retrieve course title from hidden input, if available.
+        var courseTitleElem = document.getElementById('course_title');
+        var courseTitle = courseTitleElem ? courseTitleElem.value : "";
+        
         // Clear any prior responses and highlight buttons.
         perplexityResponseDiv.innerHTML = '';
         perplexityCitationsDiv.innerHTML = '';
@@ -203,11 +212,11 @@ document.addEventListener('click', function(e) {
         var spinner = btn.querySelector('.spinner-check');
         spinner.style.display = 'inline-block';
         
-        // POST the transcript to /check_inaccuracies.
+        // POST the transcript and course title to /check_inaccuracies.
         fetch('/check_inaccuracies', {
             method: 'POST',
             headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({ transcript: transcript })
+            body: JSON.stringify({ transcript: transcript, course_title: courseTitle })
         })
         .then(response => response.json())
         .then(data => {
@@ -293,7 +302,7 @@ def index():
 @app.route('/check_inaccuracies', methods=['POST'])
 def check_inaccuracies():
     """
-    Receives a transcript, sends it to Claude to extract a master list of facts,
+    Receives a transcript (and course title), sends it to Claude to extract a master list of facts,
     then sends the facts to Perplexity.ai to check if the content is accurate.
     Perplexity.ai is asked to end its response with either "YES" or "NO" on a new line.
     The endpoint returns HTML for the response (Markdown converted server-side)
@@ -301,15 +310,24 @@ def check_inaccuracies():
     """
     data = request.get_json()
     transcript = data.get('transcript', '')
+    course_title = data.get('course_title', '')
     
     # --- Step 1: Call Claude to get a master list of facts ---
     claude_payload = {
         "anthropic_version": "bedrock-2023-05-31",
         "max_tokens": 2000,
         "temperature": 0,
-        "system": "Convert the following transcript from an eLearning course into an exhaustive list of facts. Be concises, but do NOT summarize, provide commentary, or omit any details. List the facts exactly as they appear in the course.",
-        "messages": [{"role": "user", "content": "Transcript:\n" + transcript}]
+        "system": (
+            "Convert the following transcript from an eLearning course into an exhaustive list of facts. "
+            "Be concise, but do NOT summarize, provide commentary, or omit any details. "
+            "Tell me the course title, then list the facts exactly as they appear in the course."
+        ),
+        "messages": [{
+            "role": "user",
+            "content": "Course Title: " + course_title + "\nTranscript:\n" + transcript
+        }]
     }
+    print(claude_payload)
     try:
         response = bedrock_client.invoke_model(
             modelId=BEDROCK_MODEL_ID,
@@ -333,7 +351,7 @@ def check_inaccuracies():
         messages = [
             {
                 "role": "user",
-                "content": "Here is a list of facts:\n" + facts + "\n\n\n Report on if these are accurate and up-to-date with the most recent regulations. Most importantly, if something is inaccurate, specifically state what is wrong and what the correct information is. Be specific and give details. If all of the facts are accurate, end your response with 'YES'. Otherwise, if at least one of the facts is outdated or wrong, end your response with 'NO'. Always end your response with either 'YES' or 'NO' on a new line."
+                "content": "Here is a list of facts:\n" + facts + "\n\n\n Report on if these are accurate and up-to-date with the most recent regulations. Most importantly, if something is inaccurate, specifically state what is wrong and what the correct information is. Use only primary and recent sources from the past year, and use the most recent regulations if they have been updated. For instance, if the course is about a 7th edition but there has since been published an 8th edition, only use the 8th edition. Be specific and give details. If all of the facts are accurate, end your response with 'YES'. Otherwise, if at least one of the facts is outdated or wrong, end your response with 'NO'. Always end your response with either 'YES' or 'NO' on a new line."
             }
         ]
         perplexity_response_obj = perplexity_client.chat.completions.create(
